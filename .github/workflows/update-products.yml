@@ -1,9 +1,13 @@
-name: Update affiliate product catalogue
+name: Update free public product catalogue
 
 on:
   workflow_dispatch:
+  push:
+    paths:
+      - 'scripts/import_public_asos.py'
+      - '.github/workflows/update-products.yml'
   schedule:
-    - cron: '17 */6 * * *'
+    - cron: '17 */12 * * *'
 
 permissions:
   contents: write
@@ -15,13 +19,14 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v6
 
-      - name: Import Awin product feeds
+      - name: Install lightweight HTTP client
+        run: python -m pip install --disable-pip-version-check -q curl_cffi
+
+      - name: Import public ASOS France catalogue
         env:
-          AWIN_DATAFEED_API_KEY: ${{ secrets.AWIN_DATAFEED_API_KEY }}
-          AWIN_MERCHANTS: ${{ vars.AWIN_MERCHANTS }}
-          MAX_PRODUCTS: '5000'
-          MAX_PRODUCTS_PER_FEED: '400'
-        run: python scripts/import_awin.py
+          MAX_PRODUCTS: '1800'
+          ASOS_LIMIT_PER_CATEGORY: '48'
+        run: python scripts/import_public_asos.py
 
       - name: Publish catalogue changes
         run: |
@@ -32,5 +37,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add products.json products-meta.json
-          git commit -m "Update affiliate product catalogue"
+          git commit -m "Update free ASOS public catalogue"
           git push
