@@ -1,7 +1,96 @@
 {
-  "source": "ASOS France · données publiques (non affiliées)",
-  "generated_at": "2026-10-30T18:25:03.297956+00:00",
-  "count": 1800,
-  "categories_ok": 39,
-  "affiliate": false
+  "source": "ASOS + import public multi-marchands (0 €)",
+  "updated_at": "2026-10-30T18:34:54.073186+00:00",
+  "count": 1207,
+  "providers_tried": [
+    "ASOS",
+    "Foot Locker",
+    "Nike",
+    "adidas",
+    "New Balance",
+    "H&M",
+    "UNIQLO",
+    "ZARA",
+    "Bershka",
+    "Stradivarius",
+    "Spartoo"
+  ],
+  "providers_with_products": [
+    "ASOS",
+    "Nike"
+  ],
+  "provider_counts": {
+    "ASOS": 1200,
+    "Foot Locker": 0,
+    "Nike": 7,
+    "adidas": 0,
+    "New Balance": 0,
+    "H&M": 0,
+    "UNIQLO": 0,
+    "ZARA": 0,
+    "Bershka": 0,
+    "Stradivarius": 0,
+    "Spartoo": 0
+  },
+  "diagnostics": {
+    "Foot Locker": {
+      "fetched_pages": 14,
+      "errors": []
+    },
+    "Nike": {
+      "fetched_pages": 14,
+      "errors": []
+    },
+    "adidas": {
+      "fetched_pages": 0,
+      "errors": [
+        "https://www.adidas.fr/glass/sitemaps/adidas/FR/fr/html-sitemap/index.html: HTTPError"
+      ]
+    },
+    "New Balance": {
+      "fetched_pages": 0,
+      "errors": [
+        "https://www.newbalance.fr/fr/sitemap/: HTTPError"
+      ]
+    },
+    "H&M": {
+      "fetched_pages": 0,
+      "errors": [
+        "https://www2.hm.com/fr_fr/men/shop-by-product/view-all.html: HTTPError",
+        "https://www2.hm.com/fr_fr/femme/shop-by-product/view-all.html: HTTPError"
+      ]
+    },
+    "UNIQLO": {
+      "fetched_pages": 0,
+      "errors": [
+        "https://www.uniqlo.com/fr/fr/men_home: TimeoutError",
+        "https://www.uniqlo.com/fr/fr/women_home: TimeoutError"
+      ]
+    },
+    "ZARA": {
+      "fetched_pages": 0,
+      "errors": [
+        "https://www.zara.com/fr/fr/homme-mkt534.html: HTTPError",
+        "https://www.zara.com/fr/fr/femme-mkt1000.html: HTTPError"
+      ]
+    },
+    "Bershka": {
+      "fetched_pages": 0,
+      "errors": [
+        "https://www.bershka.com/fr/homme/nouvelle-collection-c1010903178.html: HTTPError",
+        "https://www.bershka.com/fr/femme/nouvelle-collection-c1010874670.html: HTTPError"
+      ]
+    },
+    "Stradivarius": {
+      "fetched_pages": 0,
+      "errors": [
+        "https://www.stradivarius.com/fr/sitemap.html: HTTPError"
+      ]
+    },
+    "Spartoo": {
+      "fetched_pages": 1,
+      "errors": []
+    }
+  },
+  "note": "Best effort: aucune clé API, aucun compte, aucune image inventée. Les sources qui bloquent les requêtes sont ignorées."
 }
