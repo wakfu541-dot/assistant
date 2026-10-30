@@ -23,6 +23,12 @@ SOURCES = [
     {"store":"Bershka","domain":"bershka.com","gender":"unisex","seeds":["https://www.bershka.com/fr/homme/nouvelle-collection-c1010903178.html","https://www.bershka.com/fr/femme/nouvelle-collection-c1010874670.html"]},
     {"store":"Stradivarius","domain":"stradivarius.com","gender":"femme","seeds":["https://www.stradivarius.com/fr/sitemap.html"]},
     {"store":"Spartoo","domain":"spartoo.com","gender":"unisex","seeds":["https://www.spartoo.com/produits-seconde-main-vetements.php"]},
+    {"store":"SNIPES","domain":"snipes.com","gender":"unisex","seeds":["https://www.snipes.com/fr-fr/","https://www.snipes.com/fr-fr/c/vetements-81"]},
+    {"store":"Celio","domain":"celio.com","gender":"homme","seeds":["https://www.celio.com/fr-fr","https://www.celio.com/fr-fr/c/toute-la-collection"]},
+    {"store":"Courir","domain":"courir.com","gender":"unisex","seeds":["https://www.courir.com/fr/c/homme/chaussures/sneakers/"]},
+    {"store":"Decathlon","domain":"decathlon.fr","gender":"unisex","seeds":["https://www.decathlon.fr/homme/vetements","https://www.decathlon.fr/femme/vetements"]},
+    {"store":"La Redoute","domain":"laredoute.fr","gender":"unisex","seeds":["https://www.laredoute.fr/pplp/100/157938/cat-244.aspx","https://www.laredoute.fr/pplp/100/157878/cat-201.aspx"]},
+    {"store":"Zalando","domain":"zalando.fr","gender":"unisex","seeds":["https://www.zalando.fr/catalogue/","https://www.zalando.fr/homme/"]},
 ]
 
 TYPE_RULES = [
@@ -95,10 +101,15 @@ STYLE_WORDS = {
 
 class LinkParser(HTMLParser):
     def __init__(self):
-        super().__init__(); self.links=[]; self.ld=[]; self._ld=False; self._buf=[]
+        super().__init__(); self.links=[]; self.ld=[]; self.meta={}; self._ld=False; self._buf=[]
     def handle_starttag(self, tag, attrs):
         d=dict(attrs)
         if tag.lower()=="a" and d.get("href"): self.links.append(d["href"])
+        if tag.lower()=="meta" and d.get("content"):
+            k=(d.get("property") or d.get("name") or "").lower()
+            if k: self.meta[k]=d.get("content")
+        if tag.lower()=="link" and (d.get("rel") or "").lower()=="canonical" and d.get("href"):
+            self.meta["canonical"]=d.get("href")
         if tag.lower()=="script" and "ld+json" in (d.get("type") or "").lower(): self._ld=True; self._buf=[]
     def handle_data(self, data):
         if self._ld: self._buf.append(data)
@@ -195,7 +206,7 @@ def parse_jsonld(text):
         for node in iter_nodes(data):
             t=node.get("@type"); types=[t] if isinstance(t,str) else t if isinstance(t,list) else []
             if "Product" in types or ("name" in node and "offers" in node and ("image" in node or "sku" in node)): out.append(node)
-    return out,p.links
+    return out,p.links,p.meta
 
 def normalize(node,page_url,source):
     name=str(node.get("name") or "").strip()
@@ -213,9 +224,28 @@ def normalize(node,page_url,source):
     if not typ:return None
     return {"id":f"{source['store'].lower().replace(' ','-')}-{node.get('sku') or node.get('productID') or abs(hash(url))}","name":name,"brand":brand,"store":source["store"],"type":typ,"gender":detect_gender(context,source.get("gender")),"price":round(price,2) if isinstance(price,(int,float)) else None,"quality":7,"deliveryDays":4,"styles":detect_styles(context),"colors":detect_colors(" ".join([name,str(node.get("color") or ""),cat])),"fits":detect_fits(context),"sizes":[],"image":img,"url":url,"verified":f"Donnée publique {source['store']}"}
 
+def normalize_meta(meta,page_url,source):
+    if not isinstance(meta,dict): return None
+    is_product=("product" in (meta.get("og:type") or "").lower()) or ("product:price:amount" in meta) or ("product:price" in meta)
+    if not is_product: return None
+    name=(meta.get("og:title") or meta.get("twitter:title") or "").strip()
+    img=meta.get("og:image") or meta.get("twitter:image")
+    url=clean_url(meta.get("og:url") or meta.get("canonical") or page_url,page_url)
+    if not name or not img or not url: return None
+    img=urljoin(page_url,img)
+    price=None
+    for k in ("product:price:amount","product:price","og:price:amount"):
+        try:
+            if meta.get(k):
+                price=float(str(meta[k]).replace(",",".").replace("€","").strip()); break
+        except: pass
+    context=" ".join([name,url]); typ=detect_type(context)
+    if not typ:return None
+    return {"id":f"{source['store'].lower().replace(' ','-')}-{abs(hash(url))}","name":name,"brand":meta.get("product:brand") or source["store"],"store":source["store"],"type":typ,"gender":detect_gender(context,source.get("gender")),"price":round(price,2) if isinstance(price,(int,float)) else None,"quality":7,"deliveryDays":4,"styles":detect_styles(context),"colors":detect_colors(context),"fits":detect_fits(context),"sizes":[],"image":img,"url":url,"verified":f"Page publique {source['store']}"}
+
 def candidate_score(url,source):
     u=url.lower(); score=0
-    patterns={"footlocker.fr":["/product/","product/"],"nike.com":["/fr/t/","/t/"],"adidas.fr":[".html","/product/"],"newbalance.fr":["/pd/","/fr/pd/"],"hm.com":[".html","/productpage."],"uniqlo.com":["/products/","/product/"],"zara.com":["-p","/product/"],"bershka.com":["-c0p","-p"],"stradivarius.com":["-c0p","-p"],"spartoo.com":["-p","-x","product"]}
+    patterns={"footlocker.fr":["/product/","product/"],"nike.com":["/fr/t/","/t/"],"adidas.fr":[".html","/product/"],"newbalance.fr":["/pd/","/fr/pd/"],"hm.com":[".html","/productpage."],"uniqlo.com":["/products/","/product/"],"zara.com":["-p","/product/"],"bershka.com":["-c0p","-p"],"stradivarius.com":["-c0p","-p"],"spartoo.com":["-p","-x","product"],"snipes.com":["/p/","/product","-"],"celio.com":["/p/","product"],"courir.com":["/product","-"],"decathlon.fr":["/p/","product"],"laredoute.fr":["/ppdp/","product"],"zalando.fr":[".html","/p/"]}
     for pat in patterns.get(source["domain"],[]):
         if pat in u:score+=5
     if any(k in u for k in ["product","produit","prd","article"]):score+=3
@@ -241,11 +271,14 @@ def crawl(source):
             for v in links[:80]:
                 if v not in seen:q.append((v,depth+1))
             continue
-        nodes,links=parse_jsonld(text)
+        nodes,links,meta=parse_jsonld(text)
         for n in nodes:
             p=normalize(n,url,source)
             if p and same_domain(p["url"],source["domain"]):products[p["url"]]=p
             if len(products)>=MAX_PER_SOURCE:break
+        if len(products)<MAX_PER_SOURCE:
+            p=normalize_meta(meta,url,source)
+            if p and same_domain(p["url"],source["domain"]):products[p["url"]]=p
         if len(products)>=MAX_PER_SOURCE:break
         if depth<2:
             resolved=[]
