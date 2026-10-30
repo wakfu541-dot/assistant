@@ -10,6 +10,10 @@ on:
   schedule:
     - cron: '17 */12 * * *'
 
+concurrency:
+  group: public-catalogue-update
+  cancel-in-progress: true
+
 permissions:
   contents: write
 
@@ -29,12 +33,12 @@ jobs:
           ASOS_LIMIT_PER_CATEGORY: '36'
         run: python scripts/import_public_asos.py
 
-      - name: Import 10 additional public retailers
+      - name: Test 10 additional public retailers
         env:
-          MAX_PER_SOURCE: '35'
-          MAX_PAGES_PER_SOURCE: '40'
-          FETCH_TIMEOUT: '18'
-          FETCH_SLEEP: '0.12'
+          MAX_PER_SOURCE: '18'
+          MAX_PAGES_PER_SOURCE: '14'
+          FETCH_TIMEOUT: '10'
+          FETCH_SLEEP: '0.08'
         run: python scripts/import_public_multi.py
 
       - name: Publish catalogue changes
