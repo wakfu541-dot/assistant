@@ -5,7 +5,7 @@ on:
   push:
     paths:
       - 'scripts/import_public_asos.py'
-      - 'scripts/import_public_multi.py'
+      - 'scripts/import_public_retailers.py'
       - '.github/workflows/update-products.yml'
   schedule:
     - cron: '17 */12 * * *'
@@ -24,9 +24,6 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v6
 
-      - name: Install lightweight HTTP client
-        run: python -m pip install --disable-pip-version-check -q curl_cffi
-
       - name: Refresh public ASOS France catalogue
         if: github.event_name != 'push'
         env:
@@ -34,13 +31,13 @@ jobs:
           ASOS_LIMIT_PER_CATEGORY: '36'
         run: python scripts/import_public_asos.py
 
-      - name: Test public retailers
+      - name: Import additional public retailers
         env:
-          MAX_PER_SOURCE: '8'
-          MAX_PAGES_PER_SOURCE: '8'
-          FETCH_TIMEOUT: '6'
+          MAX_PER_SOURCE: '20'
+          MAX_PAGES_PER_SOURCE: '12'
+          FETCH_TIMEOUT: '7'
           FETCH_SLEEP: '0.05'
-        run: python scripts/import_public_multi.py
+        run: python scripts/import_public_retailers.py
 
       - name: Publish catalogue changes
         run: |
