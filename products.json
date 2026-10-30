@@ -29517,7 +29517,300 @@
     "verified": "Donnée publique Courir"
   },
   {
-    "id": "nike-3808868133432987395",
+    "id": "gap-57caa4c2abe11395",
+    "name": "Sweat à capuche avec logo",
+    "brand": "GAP",
+    "store": "Gap",
+    "type": "hoodie",
+    "gender": "unisex",
+    "price": 39.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual"
+    ],
+    "colors": [
+      "rouge"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://gap.cdn.csagdev.cz/zoh4eiLi/IMG/31536000/tjYe1HfFEGHe0KB4y53zGRlHMU1l0XL9h52hPJ29vBw/fill/0/0/sm/1/aHR0cHM6Ly9nYXAuY2RuLWJlLmNzYWdkZXYuY3ovY2F0YWxvZy9pdGVtLXBpY3R1cmVzL2FjZTE2NTg3LTA3ODctNDYzNi05OWQzLWVjMmQ3ZTE0ZGRiYWZjZWMwYjE1ZGU3NDc5NTc0ZGZmZmI4ZDFkMDgyNWQyLTMzNTM4LmpwZw==",
+    "url": "https://www.gap-france.fr/sweat-a-capuche-avec-logo-45",
+    "verified": "Donnée publique Gap"
+  },
+  {
+    "id": "gap-10c1bfbc53a0017e",
+    "name": "Sweat à capuche avec logo",
+    "brand": "GAP",
+    "store": "Gap",
+    "type": "hoodie",
+    "gender": "unisex",
+    "price": 39.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual"
+    ],
+    "colors": [
+      "bleu",
+      "bleu-marine"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://gap.cdn.csagdev.cz/zoh4eiLi/IMG/31536000/AYPQbHx2GN5w7xwcw8gbnHCFmyrm59JSYLYc_CwOpjs/fill/0/0/sm/1/aHR0cHM6Ly9nYXAuY2RuLWJlLmNzYWdkZXYuY3ovY2F0YWxvZy9pdGVtLXBpY3R1cmVzLzQzM2YxOGUyLTc2ZDEtNDg1My1iM2VhLTU1ZjU2ZjRjMDYwNmQwNjU5OWU1NmEwMjkzY2M5MWI0ZTk0OWZhY2U3YzQxLTMyNTk2LmpwZw==",
+    "url": "https://www.gap-france.fr/sweat-a-capuche-avec-logo-46",
+    "verified": "Donnée publique Gap"
+  },
+  {
+    "id": "gap-299ac48fc9a14e95",
+    "name": "Veste matelassée",
+    "brand": "GAP",
+    "store": "Gap",
+    "type": "jacket",
+    "gender": "unisex",
+    "price": 79.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual"
+    ],
+    "colors": [
+      "bleu",
+      "bleu-marine"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://gap.cdn.csagdev.cz/zoh4eiLi/IMG/31536000/3YeE7TQwSEn90FOZbLuw4WI4fCjrpJspmm3fKJAosjc/fill/0/0/sm/1/aHR0cHM6Ly9nYXAuY2RuLWJlLmNzYWdkZXYuY3ovY2F0YWxvZy9pdGVtLXBpY3R1cmVzL2Q0ZDI2ZTI1LTFjMGItNDU5ZC04YWQ1LTBiNDBhMzliMjRmMjI4MWM0MDk3M2Y4ZTRhYTdiNWYyNDBjODg5ODJlZDBhLTMxMDE1My5qcGc=",
+    "url": "https://www.gap-france.fr/veste-matelassee-41",
+    "verified": "Donnée publique Gap"
+  },
+  {
+    "id": "gap-42a50d551418ce17",
+    "name": "Pantalon de survêtement Baggy",
+    "brand": "GAP",
+    "store": "Gap",
+    "type": "jogger",
+    "gender": "unisex",
+    "price": 47.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "streetwear"
+    ],
+    "colors": [
+      "noir"
+    ],
+    "fits": [
+      "baggy"
+    ],
+    "sizes": [],
+    "image": "https://gap.cdn.csagdev.cz/zoh4eiLi/IMG/31536000/z6JGB8_WSTv9abc4wH56_M_wNGNS-ZFsvM3_wrcYy5E/fill/0/0/sm/1/aHR0cHM6Ly9nYXAuY2RuLWJlLmNzYWdkZXYuY3ovY2F0YWxvZy9pdGVtLXBpY3R1cmVzL2Y0NTk4MzFlLWQwNDUtNDE4Yi1iMzJjLTE0M2IyY2FiN2I0NmY3Mzk1ODRmNWI0NTE0MTFlNDNhMGFmYWUzMmVjYzJjLTEzMDk0OS5qcGc=",
+    "url": "https://www.gap-france.fr/pantalon-de-survetement-baggy-1",
+    "verified": "Donnée publique Gap"
+  },
+  {
+    "id": "gap-483fdf7af1290b4e",
+    "name": "Pantalon de survêtement VintageSoft",
+    "brand": "GAP",
+    "store": "Gap",
+    "type": "jogger",
+    "gender": "unisex",
+    "price": 39.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "vintage"
+    ],
+    "colors": [
+      "vert"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://gap.cdn.csagdev.cz/zoh4eiLi/IMG/31536000/3PzBPYGGp9lfjb41LDrwKawF0mvQA-s_2wSWyo9EgXg/fill/0/0/sm/1/aHR0cHM6Ly9nYXAuY2RuLWJlLmNzYWdkZXYuY3ovY2F0YWxvZy9pdGVtLXBpY3R1cmVzL2M0MjQxOGVmLWM4YWYtNDM4ZC05ZDkzLWYwZjJlYWE1MmIxNjZkOGIxNDgyNjI1OTIxYjM3NzM3NDAyZGU3NWRmNmIwLTUzOTE4Mi5qcGc=",
+    "url": "https://www.gap-france.fr/pantalon-de-survetement-vintagesoft-7",
+    "verified": "Donnée publique Gap"
+  },
+  {
+    "id": "gap-64ec18b1cdcec03e",
+    "name": "Pantalon de survêtement VintageSoft",
+    "brand": "GAP",
+    "store": "Gap",
+    "type": "jogger",
+    "gender": "unisex",
+    "price": 39.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "vintage"
+    ],
+    "colors": [
+      "marron"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://gap.cdn.csagdev.cz/zoh4eiLi/IMG/31536000/Qb77zCvzK-nDIl4BFt3nu9up_4glozXjPFkfKk177kI/fill/0/0/sm/1/aHR0cHM6Ly9nYXAuY2RuLWJlLmNzYWdkZXYuY3ovY2F0YWxvZy9pdGVtLXBpY3R1cmVzLzg5ODE0MGRiLTEyMTYtNDk5ZS04MzdmLTYxNWQ2Y2NjMDQ3ZTczOTE1MGJjZWNlNGY3NjhiMWQwNDc3YzVjZTI2OTRiLTM0NjU1OS5qcGc=",
+    "url": "https://www.gap-france.fr/pantalon-de-survetement-vintagesoft-8",
+    "verified": "Donnée publique Gap"
+  },
+  {
+    "id": "gap-23de53063121b687",
+    "name": "Pantalon de survêtement VintageSoft",
+    "brand": "GAP",
+    "store": "Gap",
+    "type": "jogger",
+    "gender": "unisex",
+    "price": 39.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "vintage"
+    ],
+    "colors": [
+      "bleu",
+      "bleu-marine"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://gap.cdn.csagdev.cz/zoh4eiLi/IMG/31536000/06fzpXaFp1THulr6i8kJipMNUdG-lsSfV34ajxgxaVQ/fill/0/0/sm/1/aHR0cHM6Ly9nYXAuY2RuLWJlLmNzYWdkZXYuY3ovY2F0YWxvZy9pdGVtLXBpY3R1cmVzLzFmMjdmYmM4LWZhOTYtNDhhZC05ZTMwLTcyNTA2NjE5NGEyNmNjYjIxNDdlOWRiMTlhOGVmMDU0MjA4ODI2NzZjZTI5LTM2NTg5MC5qcGc=",
+    "url": "https://www.gap-france.fr/survetement-vintagesoft-1",
+    "verified": "Donnée publique Gap"
+  },
+  {
+    "id": "gap-5eb27a3d25ef85cf",
+    "name": "Pantalon de pyjama en flanelle unisex",
+    "brand": "GAP",
+    "store": "Gap",
+    "type": "pants",
+    "gender": "unisex",
+    "price": 39.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual"
+    ],
+    "colors": [
+      "rouge"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://gap.cdn.csagdev.cz/zoh4eiLi/IMG/31536000/zKw0KYu1HhKLI0NQtrUlFEJr5y9HzBlSVR60-UX-ivo/fill/0/0/sm/1/aHR0cHM6Ly9nYXAuY2RuLWJlLmNzYWdkZXYuY3ovY2F0YWxvZy9pdGVtLXBpY3R1cmVzLzc2ZDg4M2Q2LTBmN2MtNDdiYS04NmNmLTI4MTBlZDNiNDZlNzZkZDU1Y2U5MTllMjI3MjJjMTdmMWY5Y2M5Y2UwNWI0LTE3MzQ5LmpwZw==",
+    "url": "https://www.gap-france.fr/pantalon-de-pyjama-en-flanelle-unisex",
+    "verified": "Donnée publique Gap"
+  },
+  {
+    "id": "gap-b5633a0a82dad167",
+    "name": "Pantalon khaki Straight GapFlex",
+    "brand": "GAP",
+    "store": "Gap",
+    "type": "pants",
+    "gender": "unisex",
+    "price": 54.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual"
+    ],
+    "colors": [
+      "kaki"
+    ],
+    "fits": [
+      "straight"
+    ],
+    "sizes": [],
+    "image": "https://gap.cdn.csagdev.cz/zoh4eiLi/IMG/31536000/3HRcZYGdS_UmN3nF2k7YvfIIf8K0010SLdxcgK0x_qs/fill/0/0/sm/1/aHR0cHM6Ly9nYXAuY2RuLWJlLmNzYWdkZXYuY3ovY2F0YWxvZy9pdGVtLXBpY3R1cmVzLzNiNTEwMDFjLTA5YjctNDNjZi05N2E2LThmOTVkNjBkYjlkZDFkMjI5NDRhYmIxNDJhZjA2NWZlZjk3MDAzZmFmYzMwLTI4NjUyNS5qcGc=",
+    "url": "https://www.gap-france.fr/pantalon-khaki-straight-gapflex-6",
+    "verified": "Donnée publique Gap"
+  },
+  {
+    "id": "gap-f4c522bdca96d47b",
+    "name": "Sweat oversize Heavyweight unisex",
+    "brand": "GAP",
+    "store": "Gap",
+    "type": "sweatshirt",
+    "gender": "unisex",
+    "price": 79.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "streetwear"
+    ],
+    "colors": [
+      "gris"
+    ],
+    "fits": [
+      "oversize"
+    ],
+    "sizes": [],
+    "image": "https://gap.cdn.csagdev.cz/zoh4eiLi/IMG/31536000/K-BT1PNjyfDzNleiUXgei5P7Fkma8RcW-X64X-g3IAw/fill/0/0/sm/1/aHR0cHM6Ly9nYXAuY2RuLWJlLmNzYWdkZXYuY3ovY2F0YWxvZy9pdGVtLXBpY3R1cmVzLzU1NjVjZTRlLTQ4YTctNDQwOS04ZWYxLTllMGI3ZTFjNTM3YmFmYzY4YTYyMDhhYjIwNWVhMGY2ODY4NzViZjMxZDUyLTc2MDkxOC5qcGc=",
+    "url": "https://www.gap-france.fr/sweat-oversize-heavyweight-unisex",
+    "verified": "Donnée publique Gap"
+  },
+  {
+    "id": "gap-271aa382eed66e44",
+    "name": "Sweat réversible oversize VintageSoft unisex avec logo",
+    "brand": "GAP",
+    "store": "Gap",
+    "type": "sweatshirt",
+    "gender": "unisex",
+    "price": 102.39,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "streetwear",
+      "vintage"
+    ],
+    "colors": [
+      "rouge"
+    ],
+    "fits": [
+      "oversize"
+    ],
+    "sizes": [],
+    "image": "https://gap.cdn.csagdev.cz/zoh4eiLi/IMG/31536000/nSsTlmSOHEWcbihZ2rG2T3jTDHDQNUy6oRiDl5OVAEs/fill/0/0/sm/1/aHR0cHM6Ly9nYXAuY2RuLWJlLmNzYWdkZXYuY3ovY2F0YWxvZy9pdGVtLXBpY3R1cmVzL2NhNjcxMmQ4LTM2ZmYtNDc2NC1hYjI2LWIwYmM0OWVkN2ZlN2U0NTE3MzM3ZGM2NjdkNTcyNmMyMjUwY2UwNTEwYjk3LTQ2ODE0Ny5qcGc=",
+    "url": "https://www.gap-france.fr/sweat-reversible-oversize-vintagesoft-unisex-avec-logo",
+    "verified": "Donnée publique Gap"
+  },
+  {
+    "id": "gap-a12a46e6274aca0c",
+    "name": "Sweat unisex avec logo",
+    "brand": "GAP",
+    "store": "Gap",
+    "type": "sweatshirt",
+    "gender": "unisex",
+    "price": 39.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual"
+    ],
+    "colors": [
+      "bleu",
+      "bleu-marine"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://gap.cdn.csagdev.cz/zoh4eiLi/IMG/31536000/0Ffe67V_uZG-xwo6eYcZU7oKl7zS1iqqHA4StvzMn7s/fill/0/0/sm/1/aHR0cHM6Ly9nYXAuY2RuLWJlLmNzYWdkZXYuY3ovY2F0YWxvZy9pdGVtLXBpY3R1cmVzLzQ0MjVlYmZiLWEwOWYtNDllYS04ZDNmLWUwMGUyNDJiNjc1YjU2ZjE3ZTJlMWFhZDkzMTQzN2ZjN2Q0OGY5OThmYzA2LTQwNDEyMS5qcGc=",
+    "url": "https://www.gap-france.fr/sweat-unisex-avec-logo-15",
+    "verified": "Donnée publique Gap"
+  },
+  {
+    "id": "nike-a6f3509132e1c641",
     "name": "Pantalon cargo tissé Nike Sportswear Air Max pour Homme - Wolf Grey/Cool Grey/Noir - Size 2XL",
     "brand": "Nike",
     "store": "Nike",
@@ -29543,7 +29836,7 @@
     "verified": "Donnée publique Nike"
   },
   {
-    "id": "nike-7717509890566037583",
+    "id": "nike-727c42ffd810fd34",
     "name": "Veste de foot nationale Nike Dri-FIT Brésil pour homme - Geode Teal/Light Menta/Midwest Gold - Size 3XL",
     "brand": "Nike",
     "store": "Nike",
@@ -29565,55 +29858,7 @@
     "verified": "Donnée publique Nike"
   },
   {
-    "id": "nike-5675518743190604062",
-    "name": "Veste de running déperlante Nike Therma-FIT ADV AeroLoft pour homme - Blue Void - Size 2XL",
-    "brand": "Nike",
-    "store": "Nike",
-    "type": "jacket",
-    "gender": "homme",
-    "price": 259.99,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "sport"
-    ],
-    "colors": [
-      "bleu"
-    ],
-    "fits": [
-      "cropped"
-    ],
-    "sizes": [],
-    "image": "https://static.nike.com/a/images/t_default/90be5a4a-e9a0-4ff4-a6e4-ab287b50692b/M+NK+TFADV+RPL+AEROLOFT+JKT.png",
-    "url": "https://www.nike.com/fr/t/veste-de-running-deperlante-nike-therma-fit-adv-aeroloft-pour-homme-gBVkXT/FB7556-492",
-    "verified": "Donnée publique Nike"
-  },
-  {
-    "id": "nike-9083903371650863352",
-    "name": "Veste de running imperméable Storm-FIT ADV Nike Stride pour homme - Noir - Size 3XL",
-    "brand": "Nike",
-    "store": "Nike",
-    "type": "jacket",
-    "gender": "homme",
-    "price": 189.99,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "sport"
-    ],
-    "colors": [
-      "noir"
-    ],
-    "fits": [
-      "cropped"
-    ],
-    "sizes": [],
-    "image": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/9b6941be-b1a2-4230-bb73-1a3e96831fa7/M+NK+SFADV+STRIDE+WTRPRF+JKT.png",
-    "url": "https://www.nike.com/fr/t/veste-de-running-impermeable-storm-fit-adv-nike-stride-pour-homme-iYIor5z7/IH0757-010",
-    "verified": "Donnée publique Nike"
-  },
-  {
-    "id": "nike-1503354512339696567",
+    "id": "nike-474c82cc35546904",
     "name": "Veste à zip en Fleece Windrunner Nike Tech pour homme - Noir/Noir - Size 3XL",
     "brand": "Nike",
     "store": "Nike",
@@ -29637,87 +29882,13 @@
     "verified": "Donnée publique Nike"
   },
   {
-    "id": "nike-9104302927534236678",
-    "name": "Pantalon de jogging Nike Solo Fleece pour homme - Total Black/Sail - Size 3XL",
-    "brand": "Nike",
-    "store": "Nike",
-    "type": "jogger",
-    "gender": "homme",
-    "price": 64.99,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "casual"
-    ],
-    "colors": [
-      "noir"
-    ],
-    "fits": [
-      "wide"
-    ],
-    "sizes": [],
-    "image": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/d2a9ba4a-8989-4dcc-9623-e0e0f8f45584/M+NK+SOLO+BB+JOGGER.png",
-    "url": "https://www.nike.com/fr/t/pantalon-de-jogging-nike-solo-fleece-pour-homme-aXv4llQq/IX1932-001",
-    "verified": "Donnée publique Nike"
-  },
-  {
-    "id": "nike-1442437448200040199",
-    "name": "Short de foot Nike Dri-FIT Academy pour homme - Noir/Noir/Blanc - Size 2XL",
-    "brand": "Nike",
-    "store": "Nike",
-    "type": "short",
-    "gender": "homme",
-    "price": 17.49,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "sport"
-    ],
-    "colors": [
-      "noir",
-      "blanc"
-    ],
-    "fits": [
-      "slim"
-    ],
-    "sizes": [],
-    "image": "https://static.nike.com/a/images/t_default/2f158930-885b-44b4-97ce-38c0de5d867a/M+NK+DF+ACD25+SHORT+K+BR.png",
-    "url": "https://www.nike.com/fr/t/short-de-foot-nike-dri-fit-academy-pour-homme-ZCHtgB9G/HJ3796-010",
-    "verified": "Donnée publique Nike"
-  },
-  {
-    "id": "nike-1944991341581788589",
-    "name": "T-shirt Nike Sportswear - Noir - Size 3XL",
-    "brand": "Nike",
-    "store": "Nike",
-    "type": "tshirt",
-    "gender": "unisex",
-    "price": 19.99,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "sport",
-      "casual"
-    ],
-    "colors": [
-      "noir"
-    ],
-    "fits": [
-      "relaxed"
-    ],
-    "sizes": [],
-    "image": "https://static.nike.com/a/images/t_default/b65dfd9d-77ac-48b2-b94a-640562dd4eec/U+NSW+TEE+STD+NIKE+OFFICIAL.png",
-    "url": "https://www.nike.com/fr/t/t-shirt-nike-sportswear-Fx78e0wz/IH1143-010",
-    "verified": "Donnée publique Nike"
-  },
-  {
-    "id": "snipes-7604441749341231111",
-    "name": "NRG CS Fleece Hoodie 2",
-    "brand": "Nike Nocta",
-    "store": "SNIPES",
-    "type": "hoodie",
-    "gender": "unisex",
-    "price": 119.99,
+    "id": "promod-9d40ad4c3a4f019b",
+    "name": "Cardigan frou-frou Femme",
+    "brand": "Promod",
+    "store": "Promod",
+    "type": "cardigan",
+    "gender": "femme",
+    "price": 39.99,
     "quality": 7,
     "deliveryDays": 4,
     "styles": [
@@ -29730,8 +29901,296 @@
       "regular"
     ],
     "sizes": [],
-    "image": "https://asset.snipes.com/images/f_auto,q_100/02605348_1/Nike-Nocta-NRG-CS-Fleece-Hoodie-2-noir",
-    "url": "https://www.snipes.com/fr-fr/p/nike-nocta-nrg-cs-fleece-hoodie-2-noir-100253",
+    "image": "https://asset.promod.com/product/254585-gz-1793266537.jpg",
+    "url": "https://www.promod.fr/fr-fr/cardigan-frou-frou-femme-noir--p254585/",
+    "verified": "Donnée publique Promod"
+  },
+  {
+    "id": "promod-d13e52d62d4ebdf2",
+    "name": "Robe courte portefeuille Femme",
+    "brand": "Promod",
+    "store": "Promod",
+    "type": "dress",
+    "gender": "femme",
+    "price": 39.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual"
+    ],
+    "colors": [
+      "noir"
+    ],
+    "fits": [
+      "cropped"
+    ],
+    "sizes": [],
+    "image": "https://asset.promod.com/product/255494-gz-1792597895.jpg",
+    "url": "https://www.promod.fr/fr-fr/robe-courte-portefeuille-femme-noir--p255494/",
+    "verified": "Donnée publique Promod"
+  },
+  {
+    "id": "promod-aa43a4f825ba9a83",
+    "name": "Pull avec laine et alpaga",
+    "brand": "Promod",
+    "store": "Promod",
+    "type": "pull",
+    "gender": "femme",
+    "price": 39.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "chic"
+    ],
+    "colors": [
+      "beige"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://asset.promod.com/product/254570-lb1-1793264873.jpg",
+    "url": "https://www.promod.fr/fr-fr/pull-avec-laine-et-alpaga-beige--p254570/",
+    "verified": "Donnée publique Promod"
+  },
+  {
+    "id": "promod-f825c399452b1cbe",
+    "name": "Pull camionneur ROYALTIES",
+    "brand": "Promod",
+    "store": "Promod",
+    "type": "pull",
+    "gender": "femme",
+    "price": 49.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual"
+    ],
+    "colors": [
+      "bleu"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://asset.promod.com/product/254576-lb1-1793264877.jpg",
+    "url": "https://www.promod.fr/fr-fr/pull-camionneur-royalties-bleu-ciel--p254576/",
+    "verified": "Donnée publique Promod"
+  },
+  {
+    "id": "promod-855b85f5887d8838",
+    "name": "Pull manches coude 100% laine",
+    "brand": "Promod",
+    "store": "Promod",
+    "type": "pull",
+    "gender": "femme",
+    "price": 49.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "chic"
+    ],
+    "colors": [
+      "violet"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://asset.promod.com/product/254582-lb1-1793264879.jpg",
+    "url": "https://www.promod.fr/fr-fr/pull-manches-coude-100-laine-violet-clair--p254582/",
+    "verified": "Donnée publique Promod"
+  },
+  {
+    "id": "promod-7c49868488ad1151",
+    "name": "Pull mouliné ROYALTIES",
+    "brand": "Promod",
+    "store": "Promod",
+    "type": "pull",
+    "gender": "femme",
+    "price": 89.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual"
+    ],
+    "colors": [
+      "blanc"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://asset.promod.com/product/254590-lb1-1793264880.jpg",
+    "url": "https://www.promod.fr/fr-fr/pull-mouline-royalties-ecru--p254590/",
+    "verified": "Donnée publique Promod"
+  },
+  {
+    "id": "promod-7a9efcaec6eea6ec",
+    "name": "Chemise en mousseline imprimée",
+    "brand": "Promod",
+    "store": "Promod",
+    "type": "shirt",
+    "gender": "femme",
+    "price": 35.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual"
+    ],
+    "colors": [
+      "violet"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://asset.promod.com/product/254926-gz-1792049248.jpg",
+    "url": "https://www.promod.fr/fr-fr/chemise-en-mousseline-imprimee-imprime-violet--p254926/",
+    "verified": "Donnée publique Promod"
+  },
+  {
+    "id": "promod-d5c8e3f0a26d3679",
+    "name": "Chemise à carreaux perlée",
+    "brand": "Promod",
+    "store": "Promod",
+    "type": "shirt",
+    "gender": "femme",
+    "price": 39.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual"
+    ],
+    "colors": [
+      "noir"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://asset.promod.com/product/254909-lb1-1793264894.jpg",
+    "url": "https://www.promod.fr/fr-fr/chemise-a-carreaux-perlee-carreaux-noirs--p254909/",
+    "verified": "Donnée publique Promod"
+  },
+  {
+    "id": "promod-344c8241c79722aa",
+    "name": "Jupe mi-longue à pois",
+    "brand": "Promod",
+    "store": "Promod",
+    "type": "skirt",
+    "gender": "femme",
+    "price": 35.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual"
+    ],
+    "colors": [
+      "noir"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://asset.promod.com/product/253545-gz-1792678061.jpg",
+    "url": "https://www.promod.fr/fr-fr/jupe-mi-longue-a-pois-imprime-noir--p253545/",
+    "verified": "Donnée publique Promod"
+  },
+  {
+    "id": "promod-85dc49b9d9c40d73",
+    "name": "Jupe midi en satin imprimé",
+    "brand": "Promod",
+    "store": "Promod",
+    "type": "skirt",
+    "gender": "femme",
+    "price": 39.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "chic"
+    ],
+    "colors": [
+      "violet"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://asset.promod.com/product/253546-lb1-1793264862.jpg",
+    "url": "https://www.promod.fr/fr-fr/jupe-midi-en-satin-imprime-imprime-violet--p253546/",
+    "verified": "Donnée publique Promod"
+  },
+  {
+    "id": "promod-a86276f45e02b1cb",
+    "name": "Sweat-shirt à pois Femme",
+    "brand": "Promod",
+    "store": "Promod",
+    "type": "sweatshirt",
+    "gender": "femme",
+    "price": 36.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual"
+    ],
+    "colors": [
+      "gris"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://asset.promod.com/product/254739-gz-1793276255.jpg",
+    "url": "https://www.promod.fr/fr-fr/sweat-shirt-a-pois-femme-imprime-gris--p254739/",
+    "verified": "Donnée publique Promod"
+  },
+  {
+    "id": "promod-a48f53e887855e07",
+    "name": "T-shirt à pois en résille",
+    "brand": "Promod",
+    "store": "Promod",
+    "type": "tshirt",
+    "gender": "femme",
+    "price": 22.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual"
+    ],
+    "colors": [
+      "noir"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://asset.promod.com/product/254738-gz-1792049248.jpg",
+    "url": "https://www.promod.fr/fr-fr/t-shirt-a-pois-en-resille-noir--p254738/",
+    "verified": "Donnée publique Promod"
+  },
+  {
+    "id": "snipes-40e5aaebd48d2191",
+    "name": "Ladies Short Puffer Jacket",
+    "brand": "Urban Classics",
+    "store": "SNIPES",
+    "type": "short",
+    "gender": "unisex",
+    "price": 49.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual"
+    ],
+    "colors": [
+      "noir"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://asset.snipes.com/images/f_auto,q_100/02644533_1/Urban-Classics-Ladies-Short-Puffer-Jacket-noir",
+    "url": "https://www.snipes.com/fr-fr/p/urban-classics-ladies-short-puffer-jacket-noir-102034",
     "verified": "Donnée publique SNIPES"
   }
 ]

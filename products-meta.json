@@ -1,123 +1,126 @@
 {
-  "source": "ASOS + import public multi-marchands (0 €)",
-  "updated_at": "2026-10-30T18:40:31.088627+00:00",
-  "count": 1210,
+  "source": "catalogue public multi-marchands 0 €",
+  "updated_at": "2026-10-30T18:46:17.501117+00:00",
+  "count": 1229,
   "providers_tried": [
     "ASOS",
-    "Foot Locker",
     "Nike",
-    "adidas",
-    "New Balance",
-    "H&M",
-    "UNIQLO",
-    "ZARA",
-    "Bershka",
-    "Stradivarius",
-    "Spartoo",
+    "Gap",
+    "Bonprix",
+    "C&A",
+    "Jules",
+    "Promod",
+    "BSTN",
+    "Size?",
+    "boohooMAN",
+    "Boohoo",
     "SNIPES",
     "Celio",
     "Courir",
     "Decathlon",
     "La Redoute",
-    "Zalando"
+    "Zalando",
+    "Foot Locker",
+    "Spartoo"
   ],
   "providers_with_products": [
     "ASOS",
+    "Courir",
+    "Gap",
     "Nike",
-    "SNIPES",
-    "Courir"
+    "Promod",
+    "SNIPES"
   ],
   "provider_counts": {
     "ASOS": 1200,
-    "Nike": 2,
-    "Foot Locker": 0,
-    "adidas": 0,
-    "New Balance": 0,
-    "H&M": 0,
-    "UNIQLO": 0,
-    "ZARA": 0,
-    "Bershka": 0,
-    "Stradivarius": 0,
-    "Spartoo": 0,
+    "Courir": 1,
+    "Gap": 12,
+    "Nike": 3,
+    "Promod": 12,
+    "SNIPES": 1
+  },
+  "last_run_counts": {
+    "Nike": 3,
+    "Gap": 12,
+    "Bonprix": 0,
+    "C&A": 0,
+    "Jules": 0,
+    "Promod": 12,
+    "BSTN": 0,
+    "Size?": 0,
+    "boohooMAN": 0,
+    "Boohoo": 0,
     "SNIPES": 1,
     "Celio": 0,
-    "Courir": 1,
+    "Courir": 0,
     "Decathlon": 0,
     "La Redoute": 0,
-    "Zalando": 0
+    "Zalando": 0,
+    "Foot Locker": 0,
+    "Spartoo": 0
   },
   "diagnostics": {
-    "Foot Locker": {
-      "fetched_pages": 8,
-      "errors": []
-    },
     "Nike": {
-      "fetched_pages": 8,
+      "fetched_pages": 5,
       "errors": []
     },
-    "adidas": {
-      "fetched_pages": 0,
-      "errors": [
-        "https://www.adidas.fr/glass/sitemaps/adidas/FR/fr/html-sitemap/index.html: HTTPError"
-      ]
-    },
-    "New Balance": {
-      "fetched_pages": 0,
-      "errors": [
-        "https://www.newbalance.fr/fr/sitemap/: HTTPError"
-      ]
-    },
-    "H&M": {
-      "fetched_pages": 0,
-      "errors": [
-        "https://www2.hm.com/fr_fr/men/shop-by-product/view-all.html: HTTPError",
-        "https://www2.hm.com/fr_fr/femme/shop-by-product/view-all.html: HTTPError"
-      ]
-    },
-    "UNIQLO": {
-      "fetched_pages": 0,
-      "errors": [
-        "https://www.uniqlo.com/fr/fr/men_home: TimeoutError",
-        "https://www.uniqlo.com/fr/fr/women_home: TimeoutError"
-      ]
-    },
-    "ZARA": {
-      "fetched_pages": 0,
-      "errors": [
-        "https://www.zara.com/fr/fr/homme-mkt534.html: HTTPError",
-        "https://www.zara.com/fr/fr/femme-mkt1000.html: HTTPError"
-      ]
-    },
-    "Bershka": {
-      "fetched_pages": 0,
-      "errors": [
-        "https://www.bershka.com/fr/homme/nouvelle-collection-c1010903178.html: HTTPError",
-        "https://www.bershka.com/fr/femme/nouvelle-collection-c1010874670.html: HTTPError"
-      ]
-    },
-    "Stradivarius": {
-      "fetched_pages": 0,
-      "errors": [
-        "https://www.stradivarius.com/fr/sitemap.html: HTTPError"
-      ]
-    },
-    "Spartoo": {
+    "Gap": {
       "fetched_pages": 1,
       "errors": []
     },
-    "SNIPES": {
-      "fetched_pages": 8,
+    "Bonprix": {
+      "fetched_pages": 5,
       "errors": []
+    },
+    "C&A": {
+      "fetched_pages": 5,
+      "errors": []
+    },
+    "Jules": {
+      "fetched_pages": 5,
+      "errors": []
+    },
+    "Promod": {
+      "fetched_pages": 1,
+      "errors": []
+    },
+    "BSTN": {
+      "fetched_pages": 5,
+      "errors": []
+    },
+    "Size?": {
+      "fetched_pages": 0,
+      "errors": [
+        "https://www.sizeofficial.fr/homme/: HTTPError",
+        "https://www.sizeofficial.fr/femme/: HTTPError"
+      ]
+    },
+    "boohooMAN": {
+      "fetched_pages": 5,
+      "errors": [
+        "https://www.boohooman.com/fr/categories/collections-homme-vêtements-de-sport-vêtements-de-gym-pantalons-de-jogging: UnicodeEncodeError"
+      ]
+    },
+    "Boohoo": {
+      "fetched_pages": 5,
+      "errors": []
+    },
+    "SNIPES": {
+      "fetched_pages": 5,
+      "errors": [
+        "https://www.snipes.com/fr-fr/c/chaussures-70: HTTPError",
+        "https://www.snipes.com/fr-fr/p/jordan-brooklyn-shortsleeve-jersey-top-blanc-101158: TimeoutError",
+        "https://www.snipes.com/fr-fr/p/urban-classics-fluffy-zip-hoody-gris-100705: TimeoutError"
+      ]
     },
     "Celio": {
       "fetched_pages": 0,
       "errors": [
-        "https://www.celio.com/fr-fr: HTTPError",
         "https://www.celio.com/fr-fr/c/toute-la-collection: HTTPError"
       ]
     },
     "Courir": {
-      "fetched_pages": 8,
+      "fetched_pages": 5,
       "errors": []
     },
     "Decathlon": {
@@ -140,7 +143,15 @@
         "https://www.zalando.fr/catalogue/: HTTPError",
         "https://www.zalando.fr/homme/: HTTPError"
       ]
+    },
+    "Foot Locker": {
+      "fetched_pages": 5,
+      "errors": []
+    },
+    "Spartoo": {
+      "fetched_pages": 1,
+      "errors": []
     }
   },
-  "note": "Best effort: aucune clé API, aucun compte, aucune image inventée. Les sources qui bloquent les requêtes sont ignorées."
+  "note": "Aucun compte, aucune clé API, aucune image inventée. Les sites qui refusent les requêtes publiques sont laissés de côté."
 }
