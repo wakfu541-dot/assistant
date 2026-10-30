@@ -1,5 +1,7 @@
 {
-  "source": "catalogue de test",
-  "count": 8,
-  "note": "Ce fichier sera remplacé automatiquement par les flux Awin une fois la clé connectée."
+  "source": "ASOS France · données publiques (non affiliées)",
+  "generated_at": "2026-10-30T18:25:03.297956+00:00",
+  "count": 1800,
+  "categories_ok": 39,
+  "affiliate": false
 }
