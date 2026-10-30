@@ -33,10 +33,10 @@ jobs:
 
       - name: Import additional public retailers
         env:
-          MAX_PER_SOURCE: '20'
-          MAX_PAGES_PER_SOURCE: '12'
-          FETCH_TIMEOUT: '7'
-          FETCH_SLEEP: '0.05'
+          MAX_PER_SOURCE: '12'
+          MAX_PAGES_PER_SOURCE: '5'
+          FETCH_TIMEOUT: '5'
+          FETCH_SLEEP: '0.03'
         run: python scripts/import_public_retailers.py
 
       - name: Publish catalogue changes
