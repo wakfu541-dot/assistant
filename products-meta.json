@@ -1,7 +1,7 @@
 {
   "source": "ASOS + import public multi-marchands (0 €)",
-  "updated_at": "2026-10-30T18:34:54.073186+00:00",
-  "count": 1207,
+  "updated_at": "2026-10-30T18:40:31.088627+00:00",
+  "count": 1210,
   "providers_tried": [
     "ASOS",
     "Foot Locker",
@@ -13,16 +13,24 @@
     "ZARA",
     "Bershka",
     "Stradivarius",
-    "Spartoo"
+    "Spartoo",
+    "SNIPES",
+    "Celio",
+    "Courir",
+    "Decathlon",
+    "La Redoute",
+    "Zalando"
   ],
   "providers_with_products": [
     "ASOS",
-    "Nike"
+    "Nike",
+    "SNIPES",
+    "Courir"
   ],
   "provider_counts": {
     "ASOS": 1200,
+    "Nike": 2,
     "Foot Locker": 0,
-    "Nike": 7,
     "adidas": 0,
     "New Balance": 0,
     "H&M": 0,
@@ -30,15 +38,21 @@
     "ZARA": 0,
     "Bershka": 0,
     "Stradivarius": 0,
-    "Spartoo": 0
+    "Spartoo": 0,
+    "SNIPES": 1,
+    "Celio": 0,
+    "Courir": 1,
+    "Decathlon": 0,
+    "La Redoute": 0,
+    "Zalando": 0
   },
   "diagnostics": {
     "Foot Locker": {
-      "fetched_pages": 14,
+      "fetched_pages": 8,
       "errors": []
     },
     "Nike": {
-      "fetched_pages": 14,
+      "fetched_pages": 8,
       "errors": []
     },
     "adidas": {
@@ -90,6 +104,42 @@
     "Spartoo": {
       "fetched_pages": 1,
       "errors": []
+    },
+    "SNIPES": {
+      "fetched_pages": 8,
+      "errors": []
+    },
+    "Celio": {
+      "fetched_pages": 0,
+      "errors": [
+        "https://www.celio.com/fr-fr: HTTPError",
+        "https://www.celio.com/fr-fr/c/toute-la-collection: HTTPError"
+      ]
+    },
+    "Courir": {
+      "fetched_pages": 8,
+      "errors": []
+    },
+    "Decathlon": {
+      "fetched_pages": 0,
+      "errors": [
+        "https://www.decathlon.fr/homme/vetements: HTTPError",
+        "https://www.decathlon.fr/femme/vetements: HTTPError"
+      ]
+    },
+    "La Redoute": {
+      "fetched_pages": 0,
+      "errors": [
+        "https://www.laredoute.fr/pplp/100/157938/cat-244.aspx: HTTPError",
+        "https://www.laredoute.fr/pplp/100/157878/cat-201.aspx: HTTPError"
+      ]
+    },
+    "Zalando": {
+      "fetched_pages": 0,
+      "errors": [
+        "https://www.zalando.fr/catalogue/: HTTPError",
+        "https://www.zalando.fr/homme/: HTTPError"
+      ]
     }
   },
   "note": "Best effort: aucune clé API, aucun compte, aucune image inventée. Les sources qui bloquent les requêtes sont ignorées."

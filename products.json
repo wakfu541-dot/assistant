@@ -29495,6 +29495,28 @@
     "verified": "Donnée publique ASOS"
   },
   {
+    "id": "courir-1606160",
+    "name": "MASTERS COURT TAPE",
+    "brand": "POLO RALPH LAUREN",
+    "store": "Courir",
+    "type": "polo",
+    "gender": "unisex",
+    "price": null,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "preppy"
+    ],
+    "colors": [],
+    "fits": [
+      "cropped"
+    ],
+    "sizes": [],
+    "image": "https://www.courir.com/on/demandware.static/-/Sites-master-catalog-courir/default/dw8814c9ff/images/hi-res/001606160_101.jpg?sw=1000&sh=1000&sm=fit",
+    "url": "https://www.courir.com/fr/p/polo-ralph-lauren-masters-court-tape-1606160.html",
+    "verified": "Donnée publique Courir"
+  },
+  {
     "id": "nike-3808868133432987395",
     "name": "Pantalon cargo tissé Nike Sportswear Air Max pour Homme - Wolf Grey/Cool Grey/Noir - Size 2XL",
     "brand": "Nike",
@@ -29518,6 +29540,28 @@
     "sizes": [],
     "image": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/6cc3848f-61dd-4116-896a-bdcd297c379d/M+NSW+AIR+MAX+WVN+CARGO+PANT.png",
     "url": "https://www.nike.com/fr/t/pantalon-cargo-tisse-nike-sportswear-air-max-pour-homme-HrDvCml8/IU5684-012",
+    "verified": "Donnée publique Nike"
+  },
+  {
+    "id": "nike-7717509890566037583",
+    "name": "Veste de foot nationale Nike Dri-FIT Brésil pour homme - Geode Teal/Light Menta/Midwest Gold - Size 3XL",
+    "brand": "Nike",
+    "store": "Nike",
+    "type": "jacket",
+    "gender": "homme",
+    "price": 119.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "sport"
+    ],
+    "colors": [],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/dec277e9-16f0-4a49-8ea2-1b4f740e9857/CBF+M+NK+DF+KMC+NTL+ANT+JKT.png",
+    "url": "https://www.nike.com/fr/t/veste-de-foot-nationale-nike-dri-fit-bresil-pour-homme-PLHiptBr/IH1757-369",
     "verified": "Donnée publique Nike"
   },
   {
@@ -29642,7 +29686,7 @@
     "verified": "Donnée publique Nike"
   },
   {
-    "id": "nike-4684584149743314191",
+    "id": "nike-1944991341581788589",
     "name": "T-shirt Nike Sportswear - Noir - Size 3XL",
     "brand": "Nike",
     "store": "Nike",
@@ -29665,5 +29709,29 @@
     "image": "https://static.nike.com/a/images/t_default/b65dfd9d-77ac-48b2-b94a-640562dd4eec/U+NSW+TEE+STD+NIKE+OFFICIAL.png",
     "url": "https://www.nike.com/fr/t/t-shirt-nike-sportswear-Fx78e0wz/IH1143-010",
     "verified": "Donnée publique Nike"
+  },
+  {
+    "id": "snipes-7604441749341231111",
+    "name": "NRG CS Fleece Hoodie 2",
+    "brand": "Nike Nocta",
+    "store": "SNIPES",
+    "type": "hoodie",
+    "gender": "unisex",
+    "price": 119.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual"
+    ],
+    "colors": [
+      "noir"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://asset.snipes.com/images/f_auto,q_100/02605348_1/Nike-Nocta-NRG-CS-Fleece-Hoodie-2-noir",
+    "url": "https://www.snipes.com/fr-fr/p/nike-nocta-nrg-cs-fleece-hoodie-2-noir-100253",
+    "verified": "Donnée publique SNIPES"
   }
 ]
