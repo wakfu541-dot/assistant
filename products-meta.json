@@ -1,7 +1,7 @@
 {
   "source": "catalogue public multi-marchands 0 €",
-  "updated_at": "2026-10-30T18:46:17.501117+00:00",
-  "count": 1229,
+  "updated_at": "2026-10-31T01:20:35.306396+00:00",
+  "count": 1231,
   "providers_tried": [
     "ASOS",
     "Nike",
@@ -33,14 +33,14 @@
   ],
   "provider_counts": {
     "ASOS": 1200,
-    "Courir": 1,
+    "Courir": 3,
     "Gap": 12,
-    "Nike": 3,
+    "Nike": 2,
     "Promod": 12,
-    "SNIPES": 1
+    "SNIPES": 2
   },
   "last_run_counts": {
-    "Nike": 3,
+    "Nike": 2,
     "Gap": 12,
     "Bonprix": 0,
     "C&A": 0,
@@ -50,9 +50,9 @@
     "Size?": 0,
     "boohooMAN": 0,
     "Boohoo": 0,
-    "SNIPES": 1,
+    "SNIPES": 2,
     "Celio": 0,
-    "Courir": 0,
+    "Courir": 3,
     "Decathlon": 0,
     "La Redoute": 0,
     "Zalando": 0,
@@ -86,7 +86,9 @@
     },
     "BSTN": {
       "fetched_pages": 5,
-      "errors": []
+      "errors": [
+        "https://www.bstn.com/eu_fr/men/all-products?categories=Men~All%20Products&brand=Comme%20des%20Garçons%20Parfum: UnicodeEncodeError"
+      ]
     },
     "Size?": {
       "fetched_pages": 0,
@@ -97,9 +99,7 @@
     },
     "boohooMAN": {
       "fetched_pages": 5,
-      "errors": [
-        "https://www.boohooman.com/fr/categories/collections-homme-vêtements-de-sport-vêtements-de-gym-pantalons-de-jogging: UnicodeEncodeError"
-      ]
+      "errors": []
     },
     "Boohoo": {
       "fetched_pages": 5,
@@ -108,9 +108,7 @@
     "SNIPES": {
       "fetched_pages": 5,
       "errors": [
-        "https://www.snipes.com/fr-fr/c/chaussures-70: HTTPError",
-        "https://www.snipes.com/fr-fr/p/jordan-brooklyn-shortsleeve-jersey-top-blanc-101158: TimeoutError",
-        "https://www.snipes.com/fr-fr/p/urban-classics-fluffy-zip-hoody-gris-100705: TimeoutError"
+        "https://www.snipes.com/fr-fr/c/chaussures-70: HTTPError"
       ]
     },
     "Celio": {
@@ -140,8 +138,8 @@
     "Zalando": {
       "fetched_pages": 0,
       "errors": [
-        "https://www.zalando.fr/catalogue/: HTTPError",
-        "https://www.zalando.fr/homme/: HTTPError"
+        "https://www.zalando.fr/catalogue/: TimeoutError",
+        "https://www.zalando.fr/homme/: TimeoutError"
       ]
     },
     "Foot Locker": {
