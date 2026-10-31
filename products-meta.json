@@ -1,6 +1,6 @@
 {
   "source": "catalogue public multi-marchands 0 €",
-  "updated_at": "2026-10-31T01:20:35.306396+00:00",
+  "updated_at": "2026-10-31T13:07:28.741794+00:00",
   "count": 1231,
   "providers_tried": [
     "ASOS",
@@ -86,9 +86,7 @@
     },
     "BSTN": {
       "fetched_pages": 5,
-      "errors": [
-        "https://www.bstn.com/eu_fr/men/all-products?categories=Men~All%20Products&brand=Comme%20des%20Garçons%20Parfum: UnicodeEncodeError"
-      ]
+      "errors": []
     },
     "Size?": {
       "fetched_pages": 0,
@@ -138,7 +136,7 @@
     "Zalando": {
       "fetched_pages": 0,
       "errors": [
-        "https://www.zalando.fr/catalogue/: TimeoutError",
+        "https://www.zalando.fr/catalogue/: HTTPError",
         "https://www.zalando.fr/homme/: TimeoutError"
       ]
     },
