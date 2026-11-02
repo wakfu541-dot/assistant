@@ -1,7 +1,7 @@
 {
   "source": "catalogue public multi-marchands 0 €",
-  "updated_at": "2026-11-01T13:09:48.195566+00:00",
-  "count": 1230,
+  "updated_at": "2026-11-02T01:28:47.103559+00:00",
+  "count": 1227,
   "providers_tried": [
     "ASOS",
     "Nike",
@@ -28,19 +28,17 @@
     "Courir",
     "Gap",
     "Nike",
-    "Promod",
-    "SNIPES"
+    "Promod"
   ],
   "provider_counts": {
     "ASOS": 1200,
     "Courir": 2,
     "Gap": 12,
-    "Nike": 2,
-    "Promod": 12,
-    "SNIPES": 2
+    "Nike": 1,
+    "Promod": 12
   },
   "last_run_counts": {
-    "Nike": 2,
+    "Nike": 1,
     "Gap": 12,
     "Bonprix": 0,
     "C&A": 0,
@@ -50,7 +48,7 @@
     "Size?": 0,
     "boohooMAN": 0,
     "Boohoo": 0,
-    "SNIPES": 2,
+    "SNIPES": 0,
     "Celio": 0,
     "Courir": 2,
     "Decathlon": 0,
