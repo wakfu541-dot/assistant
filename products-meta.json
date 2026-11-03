@@ -1,7 +1,7 @@
 {
   "source": "catalogue public multi-marchands 0 €",
-  "updated_at": "2026-11-03T01:25:11.329788+00:00",
-  "count": 1227,
+  "updated_at": "2026-11-03T13:26:21.269327+00:00",
+  "count": 1228,
   "providers_tried": [
     "ASOS",
     "Nike",
@@ -25,20 +25,20 @@
   ],
   "providers_with_products": [
     "ASOS",
-    "Courir",
     "Gap",
     "Nike",
-    "Promod"
+    "Promod",
+    "SNIPES"
   ],
   "provider_counts": {
     "ASOS": 1200,
-    "Courir": 2,
     "Gap": 12,
-    "Nike": 1,
-    "Promod": 12
+    "Nike": 2,
+    "Promod": 12,
+    "SNIPES": 2
   },
   "last_run_counts": {
-    "Nike": 1,
+    "Nike": 2,
     "Gap": 12,
     "Bonprix": 0,
     "C&A": 0,
@@ -48,9 +48,9 @@
     "Size?": 0,
     "boohooMAN": 0,
     "Boohoo": 0,
-    "SNIPES": 0,
+    "SNIPES": 2,
     "Celio": 0,
-    "Courir": 2,
+    "Courir": 0,
     "Decathlon": 0,
     "La Redoute": 0,
     "Zalando": 0,
@@ -99,14 +99,11 @@
     },
     "Boohoo": {
       "fetched_pages": 5,
-      "errors": [
-        "https://fr.boohoo.com/categories/pret-pour-la-plui: HTTPError"
-      ]
+      "errors": []
     },
     "SNIPES": {
-      "fetched_pages": 0,
+      "fetched_pages": 5,
       "errors": [
-        "https://www.snipes.com/fr-fr/c/vetements-81: HTTPError",
         "https://www.snipes.com/fr-fr/c/chaussures-70: HTTPError"
       ]
     },
@@ -117,8 +114,11 @@
       ]
     },
     "Courir": {
-      "fetched_pages": 5,
-      "errors": []
+      "fetched_pages": 0,
+      "errors": [
+        "https://www.courir.com/fr/c/homme/chaussures/sneakers/: HTTPError",
+        "https://www.courir.com/fr/c/femme/chaussures/sneakers/: HTTPError"
+      ]
     },
     "Decathlon": {
       "fetched_pages": 0,
@@ -137,7 +137,7 @@
     "Zalando": {
       "fetched_pages": 0,
       "errors": [
-        "https://www.zalando.fr/catalogue/: HTTPError",
+        "https://www.zalando.fr/catalogue/: TimeoutError",
         "https://www.zalando.fr/homme/: HTTPError"
       ]
     },
