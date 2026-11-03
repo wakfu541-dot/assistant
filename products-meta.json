@@ -1,7 +1,7 @@
 {
   "source": "catalogue public multi-marchands 0 €",
-  "updated_at": "2026-11-02T13:29:25.569354+00:00",
-  "count": 1232,
+  "updated_at": "2026-11-03T01:25:11.329788+00:00",
+  "count": 1227,
   "providers_tried": [
     "ASOS",
     "Nike",
@@ -28,19 +28,17 @@
     "Courir",
     "Gap",
     "Nike",
-    "Promod",
-    "SNIPES"
+    "Promod"
   ],
   "provider_counts": {
     "ASOS": 1200,
-    "Courir": 3,
+    "Courir": 2,
     "Gap": 12,
-    "Nike": 2,
-    "Promod": 12,
-    "SNIPES": 3
+    "Nike": 1,
+    "Promod": 12
   },
   "last_run_counts": {
-    "Nike": 2,
+    "Nike": 1,
     "Gap": 12,
     "Bonprix": 0,
     "C&A": 0,
@@ -50,9 +48,9 @@
     "Size?": 0,
     "boohooMAN": 0,
     "Boohoo": 0,
-    "SNIPES": 3,
+    "SNIPES": 0,
     "Celio": 0,
-    "Courir": 3,
+    "Courir": 2,
     "Decathlon": 0,
     "La Redoute": 0,
     "Zalando": 0,
@@ -97,20 +95,18 @@
     },
     "boohooMAN": {
       "fetched_pages": 5,
-      "errors": [
-        "https://www.boohooman.com/fr/categories/vêtements-grands-hommes-chemises: UnicodeEncodeError"
-      ]
+      "errors": []
     },
     "Boohoo": {
       "fetched_pages": 5,
       "errors": [
-        "https://fr.boohoo.com/categories/chaussures-femme-compensées: UnicodeEncodeError",
-        "https://fr.boohoo.com/categories/collections-homme-vêtements-de-sport-vêtements-de-gym-sweats-à-capuche-et-pulls: UnicodeEncodeError"
+        "https://fr.boohoo.com/categories/pret-pour-la-plui: HTTPError"
       ]
     },
     "SNIPES": {
-      "fetched_pages": 5,
+      "fetched_pages": 0,
       "errors": [
+        "https://www.snipes.com/fr-fr/c/vetements-81: HTTPError",
         "https://www.snipes.com/fr-fr/c/chaussures-70: HTTPError"
       ]
     },
