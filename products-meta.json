@@ -1,7 +1,7 @@
 {
   "source": "catalogue public multi-marchands 0 €",
-  "updated_at": "2026-11-03T13:26:21.269327+00:00",
-  "count": 1228,
+  "updated_at": "2026-11-04T01:26:24.623609+00:00",
+  "count": 1232,
   "providers_tried": [
     "ASOS",
     "Nike",
@@ -25,6 +25,7 @@
   ],
   "providers_with_products": [
     "ASOS",
+    "Courir",
     "Gap",
     "Nike",
     "Promod",
@@ -32,10 +33,11 @@
   ],
   "provider_counts": {
     "ASOS": 1200,
+    "Courir": 3,
     "Gap": 12,
     "Nike": 2,
     "Promod": 12,
-    "SNIPES": 2
+    "SNIPES": 3
   },
   "last_run_counts": {
     "Nike": 2,
@@ -48,9 +50,9 @@
     "Size?": 0,
     "boohooMAN": 0,
     "Boohoo": 0,
-    "SNIPES": 2,
+    "SNIPES": 3,
     "Celio": 0,
-    "Courir": 0,
+    "Courir": 3,
     "Decathlon": 0,
     "La Redoute": 0,
     "Zalando": 0,
@@ -95,7 +97,9 @@
     },
     "boohooMAN": {
       "fetched_pages": 5,
-      "errors": []
+      "errors": [
+        "https://www.boohooman.com/fr/categories/vetements-homme-grande-taille-survêtements: UnicodeEncodeError"
+      ]
     },
     "Boohoo": {
       "fetched_pages": 5,
@@ -114,11 +118,8 @@
       ]
     },
     "Courir": {
-      "fetched_pages": 0,
-      "errors": [
-        "https://www.courir.com/fr/c/homme/chaussures/sneakers/: HTTPError",
-        "https://www.courir.com/fr/c/femme/chaussures/sneakers/: HTTPError"
-      ]
+      "fetched_pages": 5,
+      "errors": []
     },
     "Decathlon": {
       "fetched_pages": 0,
@@ -137,7 +138,7 @@
     "Zalando": {
       "fetched_pages": 0,
       "errors": [
-        "https://www.zalando.fr/catalogue/: TimeoutError",
+        "https://www.zalando.fr/catalogue/: HTTPError",
         "https://www.zalando.fr/homme/: HTTPError"
       ]
     },
