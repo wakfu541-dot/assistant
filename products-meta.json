@@ -1,7 +1,7 @@
 {
   "source": "catalogue public multi-marchands 0 €",
-  "updated_at": "2026-11-05T01:28:15.365391+00:00",
-  "count": 1227,
+  "updated_at": "2026-11-05T13:31:57.560434+00:00",
+  "count": 1231,
   "providers_tried": [
     "ASOS",
     "Nike",
@@ -25,6 +25,7 @@
   ],
   "providers_with_products": [
     "ASOS",
+    "Courir",
     "Gap",
     "Nike",
     "Promod",
@@ -32,10 +33,11 @@
   ],
   "provider_counts": {
     "ASOS": 1200,
+    "Courir": 3,
     "Gap": 12,
     "Nike": 2,
     "Promod": 12,
-    "SNIPES": 1
+    "SNIPES": 2
   },
   "last_run_counts": {
     "Nike": 2,
@@ -48,9 +50,9 @@
     "Size?": 0,
     "boohooMAN": 0,
     "Boohoo": 0,
-    "SNIPES": 1,
+    "SNIPES": 2,
     "Celio": 0,
-    "Courir": 0,
+    "Courir": 3,
     "Decathlon": 0,
     "La Redoute": 0,
     "Zalando": 0,
@@ -104,7 +106,8 @@
     "SNIPES": {
       "fetched_pages": 5,
       "errors": [
-        "https://www.snipes.com/fr-fr/c/chaussures-70: HTTPError"
+        "https://www.snipes.com/fr-fr/c/chaussures-70: HTTPError",
+        "https://www.snipes.com/fr-fr/p/adidas-originals-firebrid-tracktop-pourpre-99057: TimeoutError"
       ]
     },
     "Celio": {
@@ -114,11 +117,8 @@
       ]
     },
     "Courir": {
-      "fetched_pages": 0,
-      "errors": [
-        "https://www.courir.com/fr/c/homme/chaussures/sneakers/: HTTPError",
-        "https://www.courir.com/fr/c/femme/chaussures/sneakers/: HTTPError"
-      ]
+      "fetched_pages": 5,
+      "errors": []
     },
     "Decathlon": {
       "fetched_pages": 0,
