@@ -1,7 +1,7 @@
 {
   "source": "catalogue public multi-marchands 0 €",
-  "updated_at": "2026-11-04T13:27:47.430389+00:00",
-  "count": 1231,
+  "updated_at": "2026-11-05T01:28:15.365391+00:00",
+  "count": 1227,
   "providers_tried": [
     "ASOS",
     "Nike",
@@ -25,7 +25,6 @@
   ],
   "providers_with_products": [
     "ASOS",
-    "Courir",
     "Gap",
     "Nike",
     "Promod",
@@ -33,11 +32,10 @@
   ],
   "provider_counts": {
     "ASOS": 1200,
-    "Courir": 3,
     "Gap": 12,
     "Nike": 2,
     "Promod": 12,
-    "SNIPES": 2
+    "SNIPES": 1
   },
   "last_run_counts": {
     "Nike": 2,
@@ -50,9 +48,9 @@
     "Size?": 0,
     "boohooMAN": 0,
     "Boohoo": 0,
-    "SNIPES": 2,
+    "SNIPES": 1,
     "Celio": 0,
-    "Courir": 3,
+    "Courir": 0,
     "Decathlon": 0,
     "La Redoute": 0,
     "Zalando": 0,
@@ -101,15 +99,12 @@
     },
     "Boohoo": {
       "fetched_pages": 5,
-      "errors": [
-        "https://fr.boohoo.com/categories/hommes-survêtements-grande-taille: UnicodeEncodeError"
-      ]
+      "errors": []
     },
     "SNIPES": {
       "fetched_pages": 5,
       "errors": [
-        "https://www.snipes.com/fr-fr/c/chaussures-70: HTTPError",
-        "https://www.snipes.com/fr-fr/p/urban-classics-90s-jeans-bleu-107074: TimeoutError"
+        "https://www.snipes.com/fr-fr/c/chaussures-70: HTTPError"
       ]
     },
     "Celio": {
@@ -119,8 +114,11 @@
       ]
     },
     "Courir": {
-      "fetched_pages": 5,
-      "errors": []
+      "fetched_pages": 0,
+      "errors": [
+        "https://www.courir.com/fr/c/homme/chaussures/sneakers/: HTTPError",
+        "https://www.courir.com/fr/c/femme/chaussures/sneakers/: HTTPError"
+      ]
     },
     "Decathlon": {
       "fetched_pages": 0,
@@ -139,7 +137,7 @@
     "Zalando": {
       "fetched_pages": 0,
       "errors": [
-        "https://www.zalando.fr/catalogue/: HTTPError",
+        "https://www.zalando.fr/catalogue/: TimeoutError",
         "https://www.zalando.fr/homme/: HTTPError"
       ]
     },
