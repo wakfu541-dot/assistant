@@ -1,7 +1,7 @@
 {
   "source": "catalogue public multi-marchands 0 €",
-  "updated_at": "2026-11-05T13:31:57.560434+00:00",
-  "count": 1231,
+  "updated_at": "2026-11-06T01:30:30.289467+00:00",
+  "count": 1230,
   "providers_tried": [
     "ASOS",
     "Nike",
@@ -37,7 +37,7 @@
     "Gap": 12,
     "Nike": 2,
     "Promod": 12,
-    "SNIPES": 2
+    "SNIPES": 1
   },
   "last_run_counts": {
     "Nike": 2,
@@ -50,7 +50,7 @@
     "Size?": 0,
     "boohooMAN": 0,
     "Boohoo": 0,
-    "SNIPES": 2,
+    "SNIPES": 1,
     "Celio": 0,
     "Courir": 3,
     "Decathlon": 0,
@@ -106,8 +106,7 @@
     "SNIPES": {
       "fetched_pages": 5,
       "errors": [
-        "https://www.snipes.com/fr-fr/c/chaussures-70: HTTPError",
-        "https://www.snipes.com/fr-fr/p/adidas-originals-firebrid-tracktop-pourpre-99057: TimeoutError"
+        "https://www.snipes.com/fr-fr/c/chaussures-70: HTTPError"
       ]
     },
     "Celio": {
@@ -137,8 +136,8 @@
     "Zalando": {
       "fetched_pages": 0,
       "errors": [
-        "https://www.zalando.fr/catalogue/: TimeoutError",
-        "https://www.zalando.fr/homme/: HTTPError"
+        "https://www.zalando.fr/catalogue/: HTTPError",
+        "https://www.zalando.fr/homme/: TimeoutError"
       ]
     },
     "Foot Locker": {
