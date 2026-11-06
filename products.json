@@ -289,6 +289,30 @@
     "verified": "Donnée publique ASOS"
   },
   {
+    "id": "asos-210554706",
+    "name": "Bershka - Sac bandoulière technique à monogramme - Noir",
+    "brand": "Bershka",
+    "store": "ASOS",
+    "type": "bag",
+    "gender": "homme",
+    "price": 19.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual"
+    ],
+    "colors": [
+      "noir"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://images.asos-media.com/products/bershka-sac-bandouliere-technique-a-monogramme-noir/210554706-1-black",
+    "url": "https://www.asos.com/fr/bershka/bershka-sac-bandouliere-technique-a-monogramme-noir/prd/210554706#colourWayId-210554713",
+    "verified": "Donnée publique ASOS"
+  },
+  {
     "id": "asos-211073058",
     "name": "Calvin Klein - Pochette en daim avec poignée - Noir",
     "brand": "Calvin Klein",
@@ -655,30 +679,6 @@
     "verified": "Donnée publique ASOS"
   },
   {
-    "id": "asos-211608550",
-    "name": "Pull&Bear trousse de toilette avec poignée noire",
-    "brand": "Pull&Bear",
-    "store": "ASOS",
-    "type": "bag",
-    "gender": "homme",
-    "price": 17.99,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "casual"
-    ],
-    "colors": [
-      "noir"
-    ],
-    "fits": [
-      "regular"
-    ],
-    "sizes": [],
-    "image": "https://images.asos-media.com/products/pullbear-trousse-de-toilette-avec-poignee-noire/211608550-1-black",
-    "url": "https://www.asos.com/fr/pullbear/pullbear-trousse-de-toilette-avec-poignee-noire/prd/211608550#colourWayId-211608574",
-    "verified": "Donnée publique ASOS"
-  },
-  {
     "id": "asos-205519686",
     "name": "Rains - 14200 - Sac balluchon unisexe imperméable - Kaki",
     "brand": "Rains",
@@ -993,30 +993,6 @@
     "verified": "Donnée publique ASOS"
   },
   {
-    "id": "asos-210893027",
-    "name": "ASOS DESIGN ceinture en cuir véritable marron à boucle aux bords arrondis",
-    "brand": "ASOS DESIGN",
-    "store": "ASOS",
-    "type": "belt",
-    "gender": "homme",
-    "price": 24.99,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "casual"
-    ],
-    "colors": [
-      "marron"
-    ],
-    "fits": [
-      "regular"
-    ],
-    "sizes": [],
-    "image": "https://images.asos-media.com/products/asos-design-ceinture-en-cuir-veritable-marron-a-boucle-aux-bords-arrondis/210893027-1-brown",
-    "url": "https://www.asos.com/fr/asos-design/asos-design-ceinture-en-cuir-veritable-marron-a-boucle-aux-bords-arrondis/prd/210893027#colourWayId-210893030",
-    "verified": "Donnée publique ASOS"
-  },
-  {
     "id": "asos-208839335",
     "name": "ASOS DESIGN ceinture habillée noire",
     "brand": "ASOS DESIGN",
@@ -1062,30 +1038,6 @@
     "sizes": [],
     "image": "https://images.asos-media.com/products/asos-design-ceinture-habillee-noire-avec-passant-metallique/211163185-1-black",
     "url": "https://www.asos.com/fr/asos-design/asos-design-ceinture-habillee-noire-avec-passant-metallique/prd/211163185#colourWayId-211163189",
-    "verified": "Donnée publique ASOS"
-  },
-  {
-    "id": "asos-210885161",
-    "name": "ASOS DESIGN ceinture western noire",
-    "brand": "ASOS DESIGN",
-    "store": "ASOS",
-    "type": "belt",
-    "gender": "homme",
-    "price": 17.99,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "casual"
-    ],
-    "colors": [
-      "noir"
-    ],
-    "fits": [
-      "regular"
-    ],
-    "sizes": [],
-    "image": "https://images.asos-media.com/products/asos-design-ceinture-western-noire/210885161-1-black",
-    "url": "https://www.asos.com/fr/asos-design/asos-design-ceinture-western-noire/prd/210885161#colourWayId-210885165",
     "verified": "Donnée publique ASOS"
   },
   {
@@ -1570,6 +1522,54 @@
     "verified": "Donnée publique ASOS"
   },
   {
+    "id": "asos-212094024",
+    "name": "Pull&Bear ceinture surpiquée noire",
+    "brand": "Pull&Bear",
+    "store": "ASOS",
+    "type": "belt",
+    "gender": "homme",
+    "price": 12.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual"
+    ],
+    "colors": [
+      "noir"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://images.asos-media.com/products/pullbear-ceinture-surpiquee-noire/212094024-1-black",
+    "url": "https://www.asos.com/fr/pullbear/pullbear-ceinture-surpiquee-noire/prd/212094024#colourWayId-212094025",
+    "verified": "Donnée publique ASOS"
+  },
+  {
+    "id": "asos-212093977",
+    "name": "Pull&Bear ceinture à finition vieillie marron",
+    "brand": "Pull&Bear",
+    "store": "ASOS",
+    "type": "belt",
+    "gender": "homme",
+    "price": 12.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual"
+    ],
+    "colors": [
+      "marron"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://images.asos-media.com/products/pullbear-ceinture-a-finition-vieillie-marron/212093977-1-brown",
+    "url": "https://www.asos.com/fr/pullbear/pullbear-ceinture-a-finition-vieillie-marron/prd/212093977#colourWayId-212093997",
+    "verified": "Donnée publique ASOS"
+  },
+  {
     "id": "asos-208262765",
     "name": "Tommy Hilfiger - Layton - Ceinture en cuir - Noir",
     "brand": "Tommy Hilfiger",
@@ -2016,37 +2016,13 @@
     "verified": "Donnée publique ASOS"
   },
   {
-    "id": "asos-209172977",
-    "name": "ASOS DESIGN - Ramona - Bottines à talon et bout carré en cuir effet peau de serpent - Gris",
+    "id": "asos-209006742",
+    "name": "ASOS DESIGN - Coraline - Bottes hauteur genou en PU à bout carré - Noir",
     "brand": "ASOS DESIGN",
     "store": "ASOS",
     "type": "boots",
     "gender": "femme",
-    "price": 59.5,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "casual"
-    ],
-    "colors": [
-      "gris"
-    ],
-    "fits": [
-      "regular"
-    ],
-    "sizes": [],
-    "image": "https://images.asos-media.com/products/asos-design-ramona-bottines-a-talon-et-bout-carre-en-cuir-effet-peau-de-serpent-gris/209172977-1-greysnake",
-    "url": "https://www.asos.com/fr/asos-design/asos-design-ramona-bottines-a-talon-et-bout-carre-en-cuir-effet-peau-de-serpent-gris/prd/209172977#colourWayId-209172981",
-    "verified": "Donnée publique ASOS"
-  },
-  {
-    "id": "asos-208603969",
-    "name": "ASOS DESIGN - Rory - Bottines à talon et bout rond en cuir - Noir",
-    "brand": "ASOS DESIGN",
-    "store": "ASOS",
-    "type": "boots",
-    "gender": "femme",
-    "price": 89.99,
+    "price": 50.39,
     "quality": 7,
     "deliveryDays": 4,
     "styles": [
@@ -2059,8 +2035,8 @@
       "regular"
     ],
     "sizes": [],
-    "image": "https://images.asos-media.com/products/asos-design-rory-bottines-a-talon-et-bout-rond-en-cuir-noir/208603969-1-black",
-    "url": "https://www.asos.com/fr/asos-design/asos-design-rory-bottines-a-talon-et-bout-rond-en-cuir-noir/prd/208603969#colourWayId-208603973",
+    "image": "https://images.asos-media.com/products/asos-design-coraline-bottes-hauteur-genou-en-pu-a-bout-carre-noir/209006742-1-black",
+    "url": "https://www.asos.com/fr/asos-design/asos-design-coraline-bottes-hauteur-genou-en-pu-a-bout-carre-noir/prd/209006742#colourWayId-209006765",
     "verified": "Donnée publique ASOS"
   },
   {
@@ -2134,6 +2110,30 @@
     "sizes": [],
     "image": "https://images.asos-media.com/products/asos-design-ashton-bottines-chelsea-chunky-couleur-chocolat/210848603-1-chocolatepu",
     "url": "https://www.asos.com/fr/asos-design/asos-design-ashton-bottines-chelsea-chunky-couleur-chocolat/prd/210848603#colourWayId-210848607",
+    "verified": "Donnée publique ASOS"
+  },
+  {
+    "id": "asos-210848467",
+    "name": "ASOS DESIGN Ashton bottines Chelsea chunky noires",
+    "brand": "ASOS DESIGN",
+    "store": "ASOS",
+    "type": "boots",
+    "gender": "femme",
+    "price": 34.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual"
+    ],
+    "colors": [
+      "noir"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://images.asos-media.com/products/asos-design-ashton-bottines-chelsea-chunky-noires/210848467-1-blackpu",
+    "url": "https://www.asos.com/fr/asos-design/asos-design-ashton-bottines-chelsea-chunky-noires/prd/210848467#colourWayId-210848468",
     "verified": "Donnée publique ASOS"
   },
   {
@@ -2527,30 +2527,6 @@
     "verified": "Donnée publique ASOS"
   },
   {
-    "id": "asos-211373268",
-    "name": "Azalea Wang Bardot bottes hauteur genou à bout pointu et lacées avec motif de sequins complexe, en espresso",
-    "brand": "AZALEA WANG",
-    "store": "ASOS",
-    "type": "boots",
-    "gender": "femme",
-    "price": 145.99,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "casual"
-    ],
-    "colors": [
-      "expresso"
-    ],
-    "fits": [
-      "regular"
-    ],
-    "sizes": [],
-    "image": "https://images.asos-media.com/products/azalea-wang-bardot-bottes-hauteur-genou-a-bout-pointu-et-lacees-avec-motif-de-sequins-complexe-en-espresso/211373268-1-espresso",
-    "url": "https://www.asos.com/fr/azalea-wang/azalea-wang-bardot-bottes-hauteur-genou-a-bout-pointu-et-lacees-avec-motif-de-sequins-complexe-en-espresso/prd/211373268#colourWayId-211373270",
-    "verified": "Donnée publique ASOS"
-  },
-  {
     "id": "asos-209937149",
     "name": "Bershka - Bottines à talons carrés - Noir",
     "brand": "Bershka",
@@ -2623,27 +2599,27 @@
     "verified": "Donnée publique ASOS"
   },
   {
-    "id": "asos-210990642",
-    "name": "Bronx Low-Jadey bottes hautes à talons en cognac",
-    "brand": "Bronx",
+    "id": "asos-211686186",
+    "name": "Bershka bottines à pantalon doublées en faux-fur marron",
+    "brand": "Bershka",
     "store": "ASOS",
     "type": "boots",
     "gender": "femme",
-    "price": 279.95,
+    "price": 49.99,
     "quality": 7,
     "deliveryDays": 4,
     "styles": [
       "casual"
     ],
     "colors": [
-      "cognac"
+      "marron"
     ],
     "fits": [
       "regular"
     ],
     "sizes": [],
-    "image": "https://images.asos-media.com/products/bronx-low-jadey-bottes-hautes-a-talons-en-cognac/210990642-1-cognac",
-    "url": "https://www.asos.com/fr/bronx/bronx-low-jadey-bottes-hautes-a-talons-en-cognac/prd/210990642#colourWayId-210990646",
+    "image": "https://images.asos-media.com/products/bershka-bottines-a-pantalon-doublees-en-faux-fur-marron/211686186-1-brown",
+    "url": "https://www.asos.com/fr/bershka/bershka-bottines-a-pantalon-doublees-en-faux-fur-marron/prd/211686186#colourWayId-211686188",
     "verified": "Donnée publique ASOS"
   },
   {
@@ -2815,6 +2791,54 @@
     "verified": "Donnée publique ASOS"
   },
   {
+    "id": "asos-209384144",
+    "name": "New Look - Bottes imitation daim à talon carré - Marron",
+    "brand": "New Look",
+    "store": "ASOS",
+    "type": "boots",
+    "gender": "femme",
+    "price": 47.59,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual"
+    ],
+    "colors": [
+      "marron"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://images.asos-media.com/products/new-look-bottes-imitation-daim-a-talon-carre-marron/209384144-1-24midbrown",
+    "url": "https://www.asos.com/fr/new-look/new-look-bottes-imitation-daim-a-talon-carre-marron/prd/209384144#colourWayId-209384161",
+    "verified": "Donnée publique ASOS"
+  },
+  {
+    "id": "asos-207245506",
+    "name": "New Look bottines mi-hautes à bout pointu bordeaux",
+    "brand": "New Look",
+    "store": "ASOS",
+    "type": "boots",
+    "gender": "femme",
+    "price": 45.0,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual"
+    ],
+    "colors": [
+      "bordeaux"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://images.asos-media.com/products/new-look-bottines-mi-hautes-a-bout-pointu-bordeaux/207245506-1-burgundy",
+    "url": "https://www.asos.com/fr/new-look/new-look-bottines-mi-hautes-a-bout-pointu-bordeaux/prd/207245506#colourWayId-207245516",
+    "verified": "Donnée publique ASOS"
+  },
+  {
     "id": "asos-211595837",
     "name": "OYSHO bottes de pluie marron",
     "brand": "OYSHO",
@@ -2860,30 +2884,6 @@
     "sizes": [],
     "image": "https://images.asos-media.com/products/oysho-bottes-de-pluie-noires/211595545-1-black",
     "url": "https://www.asos.com/fr/oysho/oysho-bottes-de-pluie-noires/prd/211595545#colourWayId-211595548",
-    "verified": "Donnée publique ASOS"
-  },
-  {
-    "id": "asos-208721940",
-    "name": "Public Desire - Scorpion - Bottes hauteur genou à talon et bout carré effet craquelé - Gris rétro",
-    "brand": "Public Desire",
-    "store": "ASOS",
-    "type": "boots",
-    "gender": "femme",
-    "price": 26.99,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "casual"
-    ],
-    "colors": [
-      "gris"
-    ],
-    "fits": [
-      "regular"
-    ],
-    "sizes": [],
-    "image": "https://images.asos-media.com/products/public-desire-scorpion-bottes-hauteur-genou-a-talon-et-bout-carre-effet-craquele-gris-retro/208721940-1-retrogreycracked",
-    "url": "https://www.asos.com/fr/public-desire/public-desire-scorpion-bottes-hauteur-genou-a-talon-et-bout-carre-effet-craquele-gris-retro/prd/208721940#colourWayId-208721943",
     "verified": "Donnée publique ASOS"
   },
   {
@@ -3055,30 +3055,6 @@
     "verified": "Donnée publique ASOS"
   },
   {
-    "id": "asos-210571445",
-    "name": "SEQWL Gaston bottine de randonnée bordeaux",
-    "brand": "SEQWL",
-    "store": "ASOS",
-    "type": "boots",
-    "gender": "homme",
-    "price": 55.99,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "casual"
-    ],
-    "colors": [
-      "bordeaux"
-    ],
-    "fits": [
-      "regular"
-    ],
-    "sizes": [],
-    "image": "https://images.asos-media.com/products/seqwl-gaston-bottine-de-randonnee-bordeaux/210571445-1-burgundy",
-    "url": "https://www.asos.com/fr/seqwl/seqwl-gaston-bottine-de-randonnee-bordeaux/prd/210571445#colourWayId-210571449",
-    "verified": "Donnée publique ASOS"
-  },
-  {
     "id": "asos-210571588",
     "name": "SEQWL Mexton bottines Chelsea chunky marron",
     "brand": "SEQWL",
@@ -3200,6 +3176,30 @@
     "verified": "Donnée publique ASOS"
   },
   {
+    "id": "asos-210552015",
+    "name": "SEQWL Woody boots à bout biseauté hauteur genou à petit talon en noir",
+    "brand": "SEQWL",
+    "store": "ASOS",
+    "type": "boots",
+    "gender": "femme",
+    "price": 60.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual"
+    ],
+    "colors": [
+      "noir"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://images.asos-media.com/products/seqwl-woody-boots-a-bout-biseaute-hauteur-genou-a-petit-talon-en-noir/210552015-1-black",
+    "url": "https://www.asos.com/fr/seqwl/seqwl-woody-boots-a-bout-biseaute-hauteur-genou-a-petit-talon-en-noir/prd/210552015#colourWayId-210552018",
+    "verified": "Donnée publique ASOS"
+  },
+  {
     "id": "asos-211081256",
     "name": "SEQWL Woody bottines à talon kitten et bout biseauté noires",
     "brand": "SEQWL",
@@ -3270,6 +3270,30 @@
     "sizes": [],
     "image": "https://images.asos-media.com/products/seqwl-bottines-chelsea-habillees-aladdin-marron/210571410-1-brownpu",
     "url": "https://www.asos.com/fr/seqwl/seqwl-bottines-chelsea-habillees-aladdin-marron/prd/210571410#colourWayId-210571415",
+    "verified": "Donnée publique ASOS"
+  },
+  {
+    "id": "asos-210571446",
+    "name": "SEQWL bottines Chelsea habillées Aladdin noires",
+    "brand": "SEQWL",
+    "store": "ASOS",
+    "type": "boots",
+    "gender": "homme",
+    "price": 43.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual"
+    ],
+    "colors": [
+      "noir"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://images.asos-media.com/products/seqwl-bottines-chelsea-habillees-aladdin-noires/210571446-1-blackpu",
+    "url": "https://www.asos.com/fr/seqwl/seqwl-bottines-chelsea-habillees-aladdin-noires/prd/210571446#colourWayId-210571452",
     "verified": "Donnée publique ASOS"
   },
   {
@@ -3391,31 +3415,6 @@
     "sizes": [],
     "image": "https://images.asos-media.com/products/stradivarius-bottes-a-talons-aiguilles-a-tige-large-noires/211904194-1-black",
     "url": "https://www.asos.com/fr/stradivarius/stradivarius-bottes-a-talons-aiguilles-a-tige-large-noires/prd/211904194#colourWayId-211904205",
-    "verified": "Donnée publique ASOS"
-  },
-  {
-    "id": "asos-211838576",
-    "name": "Stradivarius bottines à talon carré à chaussant large marron",
-    "brand": "Stradivarius",
-    "store": "ASOS",
-    "type": "boots",
-    "gender": "femme",
-    "price": 39.99,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "casual"
-    ],
-    "colors": [
-      "marron",
-      "bordeaux"
-    ],
-    "fits": [
-      "regular"
-    ],
-    "sizes": [],
-    "image": "https://images.asos-media.com/products/stradivarius-bottines-a-talon-carre-a-chaussant-large-marron/211838576-1-burgundy",
-    "url": "https://www.asos.com/fr/stradivarius/stradivarius-bottines-a-talon-carre-a-chaussant-large-marron/prd/211838576#colourWayId-211838581",
     "verified": "Donnée publique ASOS"
   },
   {
@@ -3660,13 +3659,13 @@
     "verified": "Donnée publique ASOS"
   },
   {
-    "id": "asos-208448598",
-    "name": "Topshop - Niamh - Bottines à talon carré - Noir",
+    "id": "asos-210608396",
+    "name": "Topshop Karter bottines à talon incurvé en noir stretch",
     "brand": "Topshop",
     "store": "ASOS",
     "type": "boots",
     "gender": "femme",
-    "price": 18.99,
+    "price": 64.99,
     "quality": 7,
     "deliveryDays": 4,
     "styles": [
@@ -3679,8 +3678,8 @@
       "regular"
     ],
     "sizes": [],
-    "image": "https://images.asos-media.com/products/topshop-niamh-bottines-a-talon-carre-noir/208448598-1-black",
-    "url": "https://www.asos.com/fr/topshop/topshop-niamh-bottines-a-talon-carre-noir/prd/208448598#colourWayId-208448599",
+    "image": "https://images.asos-media.com/products/topshop-karter-bottines-a-talon-incurve-en-noir-stretch/210608396-1-black",
+    "url": "https://www.asos.com/fr/topshop/topshop-karter-bottines-a-talon-incurve-en-noir-stretch/prd/210608396#colourWayId-210608401",
     "verified": "Donnée publique ASOS"
   },
   {
@@ -3705,6 +3704,82 @@
     "sizes": [],
     "image": "https://images.asos-media.com/products/topshop-kiara-bottine-a-talon-a-bordure-prolongee-noire/211176356-1-black",
     "url": "https://www.asos.com/fr/topshop/topshop-kiara-bottine-a-talon-a-bordure-prolongee-noire/prd/211176356#colourWayId-211176357",
+    "verified": "Donnée publique ASOS"
+  },
+  {
+    "id": "asos-210852503",
+    "name": "47 Brand casquette Clean Up NY Yankees à mini logo marron",
+    "brand": "47 Brand",
+    "store": "ASOS",
+    "type": "cap",
+    "gender": "homme",
+    "price": 30.0,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual",
+      "streetwear",
+      "minimal"
+    ],
+    "colors": [
+      "marron"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://images.asos-media.com/products/47-brand-casquette-clean-up-ny-yankees-a-mini-logo-marron/210852503-1-brown",
+    "url": "https://www.asos.com/fr/47-brand/47-brand-casquette-clean-up-ny-yankees-a-mini-logo-marron/prd/210852503#colourWayId-210852505",
+    "verified": "Donnée publique ASOS"
+  },
+  {
+    "id": "asos-211089454",
+    "name": "ARKET bonnet en coton rouge",
+    "brand": "Arket",
+    "store": "ASOS",
+    "type": "cap",
+    "gender": "homme",
+    "price": 27.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual",
+      "streetwear"
+    ],
+    "colors": [
+      "rouge"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://images.asos-media.com/products/arket-bonnet-en-coton-rouge/211089454-1-red",
+    "url": "https://www.asos.com/fr/arket/arket-bonnet-en-coton-rouge/prd/211089454#colourWayId-211089466",
+    "verified": "Donnée publique ASOS"
+  },
+  {
+    "id": "asos-211331068",
+    "name": "ARKET bonnet à rayures en mélange de mohair jaune",
+    "brand": "Arket",
+    "store": "ASOS",
+    "type": "cap",
+    "gender": "homme",
+    "price": 65.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual",
+      "streetwear"
+    ],
+    "colors": [
+      "jaune"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://images.asos-media.com/products/arket-bonnet-a-rayures-en-melange-de-mohair-jaune/211331068-1-yellow",
+    "url": "https://www.asos.com/fr/arket/arket-bonnet-a-rayures-en-melange-de-mohair-jaune/prd/211331068#colourWayId-211331069",
     "verified": "Donnée publique ASOS"
   },
   {
@@ -3833,32 +3908,6 @@
     "verified": "Donnée publique ASOS"
   },
   {
-    "id": "asos-211051950",
-    "name": "Carhartt WIP bonnet Prentis en polaire moutonnée marron foncé",
-    "brand": "Carhartt WIP",
-    "store": "ASOS",
-    "type": "cap",
-    "gender": "homme",
-    "price": 29.0,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "casual",
-      "streetwear",
-      "workwear"
-    ],
-    "colors": [
-      "marron"
-    ],
-    "fits": [
-      "regular"
-    ],
-    "sizes": [],
-    "image": "https://images.asos-media.com/products/carhartt-wip-bonnet-prentis-en-polaire-moutonnee-marron-fonce/211051950-1-darkbrown",
-    "url": "https://www.asos.com/fr/carhartt-wip/carhartt-wip-bonnet-prentis-en-polaire-moutonnee-marron-fonce/prd/211051950#colourWayId-211051952",
-    "verified": "Donnée publique ASOS"
-  },
-  {
     "id": "asos-211052051",
     "name": "Carhartt WIP bonnet borg noir",
     "brand": "Carhartt WIP",
@@ -3910,6 +3959,31 @@
     "verified": "Donnée publique ASOS"
   },
   {
+    "id": "asos-211462426",
+    "name": "Double A by Wood Wood casquette Eli logo couleur fudge",
+    "brand": "Double A by Wood Wood",
+    "store": "ASOS",
+    "type": "cap",
+    "gender": "homme",
+    "price": 48.0,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual",
+      "streetwear"
+    ],
+    "colors": [
+      "fudge"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://images.asos-media.com/products/double-a-by-wood-wood-casquette-eli-logo-couleur-fudge/211462426-1-fudge",
+    "url": "https://www.asos.com/fr/double-a-by-wood-wood/double-a-by-wood-wood-casquette-eli-logo-couleur-fudge/prd/211462426#colourWayId-211462430",
+    "verified": "Donnée publique ASOS"
+  },
+  {
     "id": "asos-211515088",
     "name": "Element bonnet mi-haut duveteux rouge",
     "brand": "Element",
@@ -3932,6 +4006,31 @@
     "sizes": [],
     "image": "https://images.asos-media.com/products/element-bonnet-mi-haut-duveteux-rouge/211515088-1-red",
     "url": "https://www.asos.com/fr/element/element-bonnet-mi-haut-duveteux-rouge/prd/211515088#colourWayId-211515089",
+    "verified": "Donnée publique ASOS"
+  },
+  {
+    "id": "asos-211848064",
+    "name": "Fred Perry bonnet en laine côtelée à logo couleur bronze",
+    "brand": "Fred Perry",
+    "store": "ASOS",
+    "type": "cap",
+    "gender": "homme",
+    "price": 70.0,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual",
+      "streetwear"
+    ],
+    "colors": [
+      "rouge"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://images.asos-media.com/products/fred-perry-bonnet-en-laine-cotelee-a-logo-couleur-bronze/211848064-1-bronze",
+    "url": "https://www.asos.com/fr/fred-perry/fred-perry-bonnet-en-laine-cotelee-a-logo-couleur-bronze/prd/211848064#colourWayId-211848069",
     "verified": "Donnée publique ASOS"
   },
   {
@@ -3983,6 +4082,31 @@
     "sizes": [],
     "image": "https://images.asos-media.com/products/hollister-bonnet-en-maille-cotelee-noir/212027609-1-black",
     "url": "https://www.asos.com/fr/hollister/hollister-bonnet-en-maille-cotelee-noir/prd/212027609#colourWayId-212027615",
+    "verified": "Donnée publique ASOS"
+  },
+  {
+    "id": "asos-212027540",
+    "name": "Hollister bonnet réversible à motif bleu",
+    "brand": "Hollister",
+    "store": "ASOS",
+    "type": "cap",
+    "gender": "homme",
+    "price": 19.95,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual",
+      "streetwear"
+    ],
+    "colors": [
+      "bleu"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://images.asos-media.com/products/hollister-bonnet-reversible-a-motif-bleu/212027540-1-midblue",
+    "url": "https://www.asos.com/fr/hollister/hollister-bonnet-reversible-a-motif-bleu/prd/212027540#colourWayId-212027554",
     "verified": "Donnée publique ASOS"
   },
   {
@@ -4112,134 +4236,6 @@
     "verified": "Donnée publique ASOS"
   },
   {
-    "id": "asos-211384840",
-    "name": "New Era - NY Yankees 9forty - Casquette en velours côtelé - Noir",
-    "brand": "New Era",
-    "store": "ASOS",
-    "type": "cap",
-    "gender": "homme",
-    "price": 30.0,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "casual",
-      "streetwear"
-    ],
-    "colors": [
-      "noir"
-    ],
-    "fits": [
-      "regular"
-    ],
-    "sizes": [],
-    "image": "https://images.asos-media.com/products/new-era-ny-yankees-9forty-casquette-en-velours-cotele-noir/211384840-1-black",
-    "url": "https://www.asos.com/fr/new-era/new-era-ny-yankees-9forty-casquette-en-velours-cotele-noir/prd/211384840#colourWayId-211384841",
-    "verified": "Donnée publique ASOS"
-  },
-  {
-    "id": "asos-211384896",
-    "name": "New Era 9forty casquette à patch logo script bleu marine",
-    "brand": "New Era",
-    "store": "ASOS",
-    "type": "cap",
-    "gender": "homme",
-    "price": 36.0,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "casual",
-      "streetwear"
-    ],
-    "colors": [
-      "bleu-marine",
-      "bleu"
-    ],
-    "fits": [
-      "regular"
-    ],
-    "sizes": [],
-    "image": "https://images.asos-media.com/products/new-era-9forty-casquette-a-patch-logo-script-bleu-marine/211384896-1-navy",
-    "url": "https://www.asos.com/fr/new-era/new-era-9forty-casquette-a-patch-logo-script-bleu-marine/prd/211384896#colourWayId-211384899",
-    "verified": "Donnée publique ASOS"
-  },
-  {
-    "id": "asos-211384872",
-    "name": "New Era Chicago White Sox casquette 9Forty en velours côtelé khaki",
-    "brand": "New Era",
-    "store": "ASOS",
-    "type": "cap",
-    "gender": "homme",
-    "price": 30.0,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "casual",
-      "streetwear"
-    ],
-    "colors": [
-      "blanc",
-      "kaki"
-    ],
-    "fits": [
-      "regular"
-    ],
-    "sizes": [],
-    "image": "https://images.asos-media.com/products/new-era-chicago-white-sox-casquette-9forty-en-velours-cotele-khaki/211384872-1-khaki",
-    "url": "https://www.asos.com/fr/new-era/new-era-chicago-white-sox-casquette-9forty-en-velours-cotele-khaki/prd/211384872#colourWayId-211384874",
-    "verified": "Donnée publique ASOS"
-  },
-  {
-    "id": "asos-211384884",
-    "name": "New Era LA Dodgers 9forty casquette en tissu polaire gris foncé",
-    "brand": "New Era",
-    "store": "ASOS",
-    "type": "cap",
-    "gender": "homme",
-    "price": 32.4,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "casual",
-      "streetwear"
-    ],
-    "colors": [
-      "gris"
-    ],
-    "fits": [
-      "regular"
-    ],
-    "sizes": [],
-    "image": "https://images.asos-media.com/products/new-era-la-dodgers-9forty-casquette-en-tissu-polaire-gris-fonce/211384884-1-grey",
-    "url": "https://www.asos.com/fr/new-era/new-era-la-dodgers-9forty-casquette-en-tissu-polaire-gris-fonce/prd/211384884#colourWayId-211384886",
-    "verified": "Donnée publique ASOS"
-  },
-  {
-    "id": "asos-211384948",
-    "name": "New Era NY Yankees 39thirty casquette à protège-nuque imprimé camouflage avec polaire noire, multicolore",
-    "brand": "New Era",
-    "store": "ASOS",
-    "type": "cap",
-    "gender": "homme",
-    "price": 60.0,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "casual",
-      "streetwear"
-    ],
-    "colors": [
-      "noir",
-      "multicolore"
-    ],
-    "fits": [
-      "regular"
-    ],
-    "sizes": [],
-    "image": "https://images.asos-media.com/products/new-era-ny-yankees-39thirty-casquette-a-protege-nuque-imprime-camouflage-avec-polaire-noire-multicolore/211384948-1-multi",
-    "url": "https://www.asos.com/fr/new-era/new-era-ny-yankees-39thirty-casquette-a-protege-nuque-imprime-camouflage-avec-polaire-noire-multicolore/prd/211384948#colourWayId-211384949",
-    "verified": "Donnée publique ASOS"
-  },
-  {
     "id": "asos-211384839",
     "name": "New Era NY Yankees 9forty casquette en tissu hiver noire",
     "brand": "New Era",
@@ -4262,32 +4258,6 @@
     "sizes": [],
     "image": "https://images.asos-media.com/products/new-era-ny-yankees-9forty-casquette-en-tissu-hiver-noire/211384839-1-black",
     "url": "https://www.asos.com/fr/new-era/new-era-ny-yankees-9forty-casquette-en-tissu-hiver-noire/prd/211384839#colourWayId-211384842",
-    "verified": "Donnée publique ASOS"
-  },
-  {
-    "id": "asos-211384922",
-    "name": "New Era NY Yankees 9forty casquette en tissu polaire bleu marine",
-    "brand": "New Era",
-    "store": "ASOS",
-    "type": "cap",
-    "gender": "homme",
-    "price": 32.4,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "casual",
-      "streetwear"
-    ],
-    "colors": [
-      "bleu-marine",
-      "bleu"
-    ],
-    "fits": [
-      "regular"
-    ],
-    "sizes": [],
-    "image": "https://images.asos-media.com/products/new-era-ny-yankees-9forty-casquette-en-tissu-polaire-bleu-marine/211384922-1-navy",
-    "url": "https://www.asos.com/fr/new-era/new-era-ny-yankees-9forty-casquette-en-tissu-polaire-bleu-marine/prd/211384922#colourWayId-211384923",
     "verified": "Donnée publique ASOS"
   },
   {
@@ -4342,6 +4312,31 @@
     "verified": "Donnée publique ASOS"
   },
   {
+    "id": "asos-211384862",
+    "name": "New Era NY Yankees casquette 39THIRTY à rabat avec imprimé camouflage en polaire noire",
+    "brand": "New Era",
+    "store": "ASOS",
+    "type": "cap",
+    "gender": "homme",
+    "price": 60.0,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual",
+      "streetwear"
+    ],
+    "colors": [
+      "noir"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://images.asos-media.com/products/new-era-ny-yankees-casquette-39thirty-a-rabat-avec-imprime-camouflage-en-polaire-noire/211384862-1-black",
+    "url": "https://www.asos.com/fr/new-era/new-era-ny-yankees-casquette-39thirty-a-rabat-avec-imprime-camouflage-en-polaire-noire/prd/211384862#colourWayId-211384864",
+    "verified": "Donnée publique ASOS"
+  },
+  {
     "id": "asos-211300761",
     "name": "New Era X ASOS exclusivité casquette plate en denim avec logo NY Yankees en bleu foncé délavé",
     "brand": "New Era",
@@ -4364,57 +4359,6 @@
     "sizes": [],
     "image": "https://images.asos-media.com/products/new-era-x-asos-exclusivite-casquette-plate-en-denim-avec-logo-ny-yankees-en-bleu-fonce-delave/211300761-1-darkwashblue",
     "url": "https://www.asos.com/fr/new-era/new-era-x-asos-exclusivite-casquette-plate-en-denim-avec-logo-ny-yankees-en-bleu-fonce-delave/prd/211300761#colourWayId-211300774",
-    "verified": "Donnée publique ASOS"
-  },
-  {
-    "id": "asos-211932518",
-    "name": "New Era bob en faux-fur noir",
-    "brand": "New Era",
-    "store": "ASOS",
-    "type": "cap",
-    "gender": "homme",
-    "price": 35.0,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "casual",
-      "streetwear"
-    ],
-    "colors": [
-      "noir"
-    ],
-    "fits": [
-      "regular"
-    ],
-    "sizes": [],
-    "image": "https://images.asos-media.com/products/new-era-bob-en-faux-fur-noir/211932518-1-black",
-    "url": "https://www.asos.com/fr/new-era/new-era-bob-en-faux-fur-noir/prd/211932518#colourWayId-211932519",
-    "verified": "Donnée publique ASOS"
-  },
-  {
-    "id": "asos-211932740",
-    "name": "New Era chapka faux-fur à imprimé léopard marron multicolore",
-    "brand": "New Era",
-    "store": "ASOS",
-    "type": "cap",
-    "gender": "homme",
-    "price": 45.99,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "casual",
-      "streetwear"
-    ],
-    "colors": [
-      "marron",
-      "multicolore"
-    ],
-    "fits": [
-      "regular"
-    ],
-    "sizes": [],
-    "image": "https://images.asos-media.com/products/new-era-chapka-faux-fur-a-imprime-leopard-marron-multicolore/211932740-1-brown",
-    "url": "https://www.asos.com/fr/new-era/new-era-chapka-faux-fur-a-imprime-leopard-marron-multicolore/prd/211932740#colourWayId-211932741",
     "verified": "Donnée publique ASOS"
   },
   {
@@ -4520,13 +4464,13 @@
     "verified": "Donnée publique ASOS"
   },
   {
-    "id": "asos-211979007",
-    "name": "Pull&Bear casquette Birmingham contrastée en autres",
+    "id": "asos-212086971",
+    "name": "Pull&Bear bonnet basique marron",
     "brand": "Pull&Bear",
     "store": "ASOS",
     "type": "cap",
     "gender": "homme",
-    "price": 17.99,
+    "price": 12.99,
     "quality": 7,
     "deliveryDays": 4,
     "styles": [
@@ -4534,14 +4478,14 @@
       "streetwear"
     ],
     "colors": [
-      "autre"
+      "marron"
     ],
     "fits": [
       "regular"
     ],
     "sizes": [],
-    "image": "https://images.asos-media.com/products/pullbear-casquette-birmingham-contrastee-en-autres/211979007-1-others",
-    "url": "https://www.asos.com/fr/pullbear/pullbear-casquette-birmingham-contrastee-en-autres/prd/211979007#colourWayId-211979030",
+    "image": "https://images.asos-media.com/products/pullbear-bonnet-basique-marron/212086971-1-brown",
+    "url": "https://www.asos.com/fr/pullbear/pullbear-bonnet-basique-marron/prd/212086971#colourWayId-212086991",
     "verified": "Donnée publique ASOS"
   },
   {
@@ -4571,6 +4515,32 @@
     "verified": "Donnée publique ASOS"
   },
   {
+    "id": "asos-210868680",
+    "name": "Reclaimed Vintage bonnet de pêcheur unisexe neutre",
+    "brand": "Reclaimed Vintage",
+    "store": "ASOS",
+    "type": "cap",
+    "gender": "homme",
+    "price": 7.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual",
+      "streetwear",
+      "vintage"
+    ],
+    "colors": [
+      "beige"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://images.asos-media.com/products/reclaimed-vintage-bonnet-de-pecheur-unisexe-neutre/210868680-1-ecru",
+    "url": "https://www.asos.com/fr/reclaimed-vintage/reclaimed-vintage-bonnet-de-pecheur-unisexe-neutre/prd/210868680#colourWayId-210868687",
+    "verified": "Donnée publique ASOS"
+  },
+  {
     "id": "asos-210868701",
     "name": "Reclaimed Vintage bonnet de pêcheur unisexe noir",
     "brand": "Reclaimed Vintage",
@@ -4597,6 +4567,32 @@
     "verified": "Donnée publique ASOS"
   },
   {
+    "id": "asos-212148227",
+    "name": "adidas Originals Casquette de baseball style dad en twill délavé coloris Team Maroon 2",
+    "brand": "adidas Originals",
+    "store": "ASOS",
+    "type": "cap",
+    "gender": "homme",
+    "price": 28.0,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual",
+      "streetwear",
+      "sport"
+    ],
+    "colors": [
+      "bordeaux"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://images.asos-media.com/products/adidas-originals-casquette-de-baseball-style-dad-en-twill-delave-coloris-team-maroon-2/212148227-1-teammaroon2",
+    "url": "https://www.asos.com/fr/adidas-originals/adidas-originals-casquette-de-baseball-style-dad-en-twill-delave-coloris-team-maroon-2/prd/212148227#colourWayId-212148232",
+    "verified": "Donnée publique ASOS"
+  },
+  {
     "id": "asos-212148152",
     "name": "adidas Originals casquette baseball dad en sergé délavé noire",
     "brand": "adidas Originals",
@@ -4620,6 +4616,30 @@
     "sizes": [],
     "image": "https://images.asos-media.com/products/adidas-originals-casquette-baseball-dad-en-serge-delave-noire/212148152-1-black",
     "url": "https://www.asos.com/fr/adidas-originals/adidas-originals-casquette-baseball-dad-en-serge-delave-noire/prd/212148152#colourWayId-212148157",
+    "verified": "Donnée publique ASOS"
+  },
+  {
+    "id": "asos-211156145",
+    "name": "ASOS DESIGN cardigan ample à col cheminée et patte de boutonnage cachée rouge",
+    "brand": "ASOS DESIGN",
+    "store": "ASOS",
+    "type": "cardigan",
+    "gender": "femme",
+    "price": 39.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual"
+    ],
+    "colors": [
+      "rouge"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://images.asos-media.com/products/asos-design-cardigan-ample-a-col-cheminee-et-patte-de-boutonnage-cachee-rouge/211156145-1-red",
+    "url": "https://www.asos.com/fr/asos-design/asos-design-cardigan-ample-a-col-cheminee-et-patte-de-boutonnage-cachee-rouge/prd/211156145#colourWayId-211156158",
     "verified": "Donnée publique ASOS"
   },
   {
@@ -5226,31 +5246,6 @@
     "verified": "Donnée publique ASOS"
   },
   {
-    "id": "asos-211183277",
-    "name": "ASOS DESIGN robe blazer courte structurée à boutons noire",
-    "brand": "ASOS DESIGN",
-    "store": "ASOS",
-    "type": "dress",
-    "gender": "femme",
-    "price": 54.99,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "casual",
-      "chic"
-    ],
-    "colors": [
-      "noir"
-    ],
-    "fits": [
-      "regular"
-    ],
-    "sizes": [],
-    "image": "https://images.asos-media.com/products/asos-design-robe-blazer-courte-structuree-a-boutons-noire/211183277-1-black",
-    "url": "https://www.asos.com/fr/asos-design/asos-design-robe-blazer-courte-structuree-a-boutons-noire/prd/211183277#colourWayId-211183281",
-    "verified": "Donnée publique ASOS"
-  },
-  {
     "id": "asos-211254796",
     "name": "ASOS DESIGN robe courte côtelée en coton à emmanchures intégrées noire",
     "brand": "ASOS DESIGN",
@@ -5477,32 +5472,6 @@
     "verified": "Donnée publique ASOS"
   },
   {
-    "id": "asos-211149787",
-    "name": "ASOS DESIGN robe longue en mousseline à col bénitier avec détail foulard, imprimé floral vintage foncé",
-    "brand": "ASOS DESIGN",
-    "store": "ASOS",
-    "type": "dress",
-    "gender": "femme",
-    "price": 69.99,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "casual",
-      "chic",
-      "vintage"
-    ],
-    "colors": [
-      "imprimé floral"
-    ],
-    "fits": [
-      "regular"
-    ],
-    "sizes": [],
-    "image": "https://images.asos-media.com/products/asos-design-robe-longue-en-mousseline-a-col-benitier-avec-detail-foulard-imprime-floral-vintage-fonce/211149787-1-floralprint",
-    "url": "https://www.asos.com/fr/asos-design/asos-design-robe-longue-en-mousseline-a-col-benitier-avec-detail-foulard-imprime-floral-vintage-fonce/prd/211149787#colourWayId-211149788",
-    "verified": "Donnée publique ASOS"
-  },
-  {
     "id": "asos-211585458",
     "name": "ASOS DESIGN robe longue noire à épaules dénudées, effet portefeuille, détail corsage et traîne",
     "brand": "ASOS DESIGN",
@@ -5580,6 +5549,31 @@
     "verified": "Donnée publique ASOS"
   },
   {
+    "id": "asos-211175130",
+    "name": "ASOS DESIGN robe longue à sequins avec détails en dentelle sur les côtés et bonnets intégrés, olive",
+    "brand": "ASOS DESIGN",
+    "store": "ASOS",
+    "type": "dress",
+    "gender": "femme",
+    "price": 94.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual",
+      "chic"
+    ],
+    "colors": [
+      "vert"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://images.asos-media.com/products/asos-design-robe-longue-a-sequins-avec-details-en-dentelle-sur-les-cotes-et-bonnets-integres-olive/211175130-1-olive",
+    "url": "https://www.asos.com/fr/asos-design/asos-design-robe-longue-a-sequins-avec-details-en-dentelle-sur-les-cotes-et-bonnets-integres-olive/prd/211175130#colourWayId-211175131",
+    "verified": "Donnée publique ASOS"
+  },
+  {
     "id": "asos-211990631",
     "name": "Bershka robe courte à bretelles en dentelle à sequins noire",
     "brand": "Bershka",
@@ -5627,31 +5621,6 @@
     "sizes": [],
     "image": "https://images.asos-media.com/products/brave-soul-robe-courte-smockee-a-manches-longues-a-carreaux-marron/210965411-1-brown",
     "url": "https://www.asos.com/fr/brave-soul/brave-soul-robe-courte-smockee-a-manches-longues-a-carreaux-marron/prd/210965411#colourWayId-210965419",
-    "verified": "Donnée publique ASOS"
-  },
-  {
-    "id": "asos-211835669",
-    "name": "Lioness Bare robe longue en satin à col échancré dorée",
-    "brand": "Lioness",
-    "store": "ASOS",
-    "type": "dress",
-    "gender": "femme",
-    "price": 94.99,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "casual",
-      "chic"
-    ],
-    "colors": [
-      "doré"
-    ],
-    "fits": [
-      "regular"
-    ],
-    "sizes": [],
-    "image": "https://images.asos-media.com/products/lioness-bare-robe-longue-en-satin-a-col-echancre-doree/211835669-1-gold",
-    "url": "https://www.asos.com/fr/lioness/lioness-bare-robe-longue-en-satin-a-col-echancre-doree/prd/211835669#colourWayId-211835670",
     "verified": "Donnée publique ASOS"
   },
   {
@@ -5705,6 +5674,81 @@
     "verified": "Donnée publique ASOS"
   },
   {
+    "id": "asos-211226143",
+    "name": "Rare London robe longue en satin avec détail cape marron",
+    "brand": "Rare",
+    "store": "ASOS",
+    "type": "dress",
+    "gender": "femme",
+    "price": 129.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual",
+      "chic"
+    ],
+    "colors": [
+      "marron"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://images.asos-media.com/products/rare-london-robe-longue-en-satin-avec-detail-cape-marron/211226143-1-chocolate",
+    "url": "https://www.asos.com/fr/rare/rare-london-robe-longue-en-satin-avec-detail-cape-marron/prd/211226143#colourWayId-211226145",
+    "verified": "Donnée publique ASOS"
+  },
+  {
+    "id": "asos-211226142",
+    "name": "Rare London robe longue en satin stretch avec détail drapé bordeaux",
+    "brand": "Rare",
+    "store": "ASOS",
+    "type": "dress",
+    "gender": "femme",
+    "price": 129.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual",
+      "chic"
+    ],
+    "colors": [
+      "bordeaux"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://images.asos-media.com/products/rare-london-robe-longue-en-satin-stretch-avec-detail-drape-bordeaux/211226142-1-burgundy",
+    "url": "https://www.asos.com/fr/rare/rare-london-robe-longue-en-satin-stretch-avec-detail-drape-bordeaux/prd/211226142#colourWayId-211226144",
+    "verified": "Donnée publique ASOS"
+  },
+  {
+    "id": "asos-211226196",
+    "name": "Rare London robe longue à dos plongeant drapé à sequins couleur huître",
+    "brand": "Rare",
+    "store": "ASOS",
+    "type": "dress",
+    "gender": "femme",
+    "price": 137.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual",
+      "chic"
+    ],
+    "colors": [
+      "nacre"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://images.asos-media.com/products/rare-london-robe-longue-a-dos-plongeant-drape-a-sequins-couleur-huitre/211226196-1-oyster",
+    "url": "https://www.asos.com/fr/rare/rare-london-robe-longue-a-dos-plongeant-drape-a-sequins-couleur-huitre/prd/211226196#colourWayId-211226199",
+    "verified": "Donnée publique ASOS"
+  },
+  {
     "id": "asos-211125825",
     "name": "Reclaimed Vintage robe courte avec corsage smocké et finitions contrastées à carreaux marron",
     "brand": "Reclaimed Vintage",
@@ -5728,31 +5772,6 @@
     "sizes": [],
     "image": "https://images.asos-media.com/products/reclaimed-vintage-robe-courte-avec-corsage-smocke-et-finitions-contrastees-a-carreaux-marron/211125825-1-brown",
     "url": "https://www.asos.com/fr/reclaimed-vintage/reclaimed-vintage-robe-courte-avec-corsage-smocke-et-finitions-contrastees-a-carreaux-marron/prd/211125825#colourWayId-211125845",
-    "verified": "Donnée publique ASOS"
-  },
-  {
-    "id": "asos-211472884",
-    "name": "TFNC robe longue noire à sequins floraux, col carré, dos nu à nouer, fente haute",
-    "brand": "TFNC",
-    "store": "ASOS",
-    "type": "dress",
-    "gender": "femme",
-    "price": 116.99,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "casual",
-      "chic"
-    ],
-    "colors": [
-      "noir"
-    ],
-    "fits": [
-      "regular"
-    ],
-    "sizes": [],
-    "image": "https://images.asos-media.com/products/tfnc-robe-longue-noire-a-sequins-floraux-col-carre-dos-nu-a-nouer-fente-haute/211472884-1-black",
-    "url": "https://www.asos.com/fr/tfnc/tfnc-robe-longue-noire-a-sequins-floraux-col-carre-dos-nu-a-nouer-fente-haute/prd/211472884#colourWayId-211472885",
     "verified": "Donnée publique ASOS"
   },
   {
@@ -5782,13 +5801,13 @@
     "verified": "Donnée publique ASOS"
   },
   {
-    "id": "asos-211165597",
-    "name": "Topshop premium robe longue bustier en satin à taille basse noire",
-    "brand": "Topshop",
+    "id": "asos-211875233",
+    "name": "Vila Clara robe longue à col V et manches longues marron",
+    "brand": "Vila",
     "store": "ASOS",
     "type": "dress",
     "gender": "femme",
-    "price": 109.0,
+    "price": 69.99,
     "quality": 7,
     "deliveryDays": 4,
     "styles": [
@@ -5796,14 +5815,14 @@
       "chic"
     ],
     "colors": [
-      "noir"
+      "marron"
     ],
     "fits": [
       "regular"
     ],
     "sizes": [],
-    "image": "https://images.asos-media.com/products/topshop-premium-robe-longue-bustier-en-satin-a-taille-basse-noire/211165597-1-black",
-    "url": "https://www.asos.com/fr/topshop/topshop-premium-robe-longue-bustier-en-satin-a-taille-basse-noire/prd/211165597#colourWayId-211165598",
+    "image": "https://images.asos-media.com/products/vila-clara-robe-longue-a-col-v-et-manches-longues-marron/211875233-1-coffeebean1",
+    "url": "https://www.asos.com/fr/vila/vila-clara-robe-longue-a-col-v-et-manches-longues-marron/prd/211875233#colourWayId-211875248",
     "verified": "Donnée publique ASOS"
   },
   {
@@ -5829,32 +5848,6 @@
     "sizes": [],
     "image": "https://images.asos-media.com/products/asos-design-hoodie-coupe-carree-brushback-noir/210892769-1-black",
     "url": "https://www.asos.com/fr/asos-design/asos-design-mix-match-sweat-a-envers-brosse-noir/grp/211784155#colourWayId-210892771&productId-210892769",
-    "verified": "Donnée publique ASOS"
-  },
-  {
-    "id": "asos-211782601",
-    "name": "COLLUSION hoodie coupe carrée raglan en gris chiné et noir",
-    "brand": "Collusion",
-    "store": "ASOS",
-    "type": "hoodie",
-    "gender": "homme",
-    "price": 44.99,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "casual",
-      "streetwear"
-    ],
-    "colors": [
-      "noir",
-      "gris"
-    ],
-    "fits": [
-      "regular"
-    ],
-    "sizes": [],
-    "image": "https://images.asos-media.com/products/collusion-hoodie-coupe-carree-raglan-en-gris-chine-et-noir/211782601-1-greyandblack",
-    "url": "https://www.asos.com/fr/collusion/collusion-hoodie-coupe-carree-raglan-en-gris-chine-et-noir/prd/211782601#colourWayId-211782602",
     "verified": "Donnée publique ASOS"
   },
   {
@@ -6053,31 +6046,6 @@
     "verified": "Donnée publique ASOS"
   },
   {
-    "id": "asos-210702158",
-    "name": "ASOS DESIGN manteau cape court habillé à col montant noir",
-    "brand": "ASOS DESIGN",
-    "store": "ASOS",
-    "type": "jacket",
-    "gender": "femme",
-    "price": 69.99,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "casual"
-    ],
-    "colors": [
-      "noir",
-      "marron"
-    ],
-    "fits": [
-      "regular"
-    ],
-    "sizes": [],
-    "image": "https://images.asos-media.com/products/asos-design-manteau-cape-court-habille-a-col-montant-noir/210702158-1-black",
-    "url": "https://www.asos.com/fr/asos-design/asos-design-manteau-cape-court-habille-a-col-montant-noir/prd/210702158#colourWayId-210702164",
-    "verified": "Donnée publique ASOS"
-  },
-  {
     "id": "asos-211268202",
     "name": "ASOS DESIGN manteau court en fausse fourrure à panneaux marron foncé",
     "brand": "ASOS DESIGN",
@@ -6147,6 +6115,30 @@
     "sizes": [],
     "image": "https://images.asos-media.com/products/asos-design-manteau-long-a-double-boutonnage-en-chevrons-brosse/210389167-1-herringbone",
     "url": "https://www.asos.com/fr/asos-design/asos-design-manteau-long-a-double-boutonnage-en-chevrons-brosse/prd/210389167#colourWayId-210389173",
+    "verified": "Donnée publique ASOS"
+  },
+  {
+    "id": "asos-210370133",
+    "name": "ASOS DESIGN veste Harrington habillée noire",
+    "brand": "ASOS DESIGN",
+    "store": "ASOS",
+    "type": "jacket",
+    "gender": "femme",
+    "price": 64.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual"
+    ],
+    "colors": [
+      "noir"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://images.asos-media.com/products/asos-design-veste-harrington-habillee-noire/210370133-1-black",
+    "url": "https://www.asos.com/fr/asos-design/asos-design-veste-harrington-habillee-noire/prd/210370133#colourWayId-210370135",
     "verified": "Donnée publique ASOS"
   },
   {
@@ -6634,30 +6626,6 @@
     "verified": "Donnée publique ASOS"
   },
   {
-    "id": "asos-211265385",
-    "name": "JJXX doudoune crème",
-    "brand": "JJXX",
-    "store": "ASOS",
-    "type": "jacket",
-    "gender": "femme",
-    "price": 31.99,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "casual"
-    ],
-    "colors": [
-      "beige"
-    ],
-    "fits": [
-      "regular"
-    ],
-    "sizes": [],
-    "image": "https://images.asos-media.com/products/jjxx-doudoune-creme/211265385-1-moonbeam",
-    "url": "https://www.asos.com/fr/jjxx/jjxx-doudoune-creme/prd/211265385#colourWayId-211265386",
-    "verified": "Donnée publique ASOS"
-  },
-  {
     "id": "asos-211265644",
     "name": "JJXX doudoune noire",
     "brand": "JJXX",
@@ -6730,6 +6698,30 @@
     "verified": "Donnée publique ASOS"
   },
   {
+    "id": "asos-211017860",
+    "name": "Jack & Jones Originals Norrebro veste de travail matelassée avec fermeture par pressions et zip en vert foncé",
+    "brand": "Jack & Jones",
+    "store": "ASOS",
+    "type": "jacket",
+    "gender": "homme",
+    "price": 69.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual"
+    ],
+    "colors": [
+      "vert"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://images.asos-media.com/products/jack-jones-originals-norrebro-veste-de-travail-matelassee-avec-fermeture-par-pressions-et-zip-en-vert-fonce/211017860-1-rosin",
+    "url": "https://www.asos.com/fr/jack-jones/jack-jones-originals-norrebro-veste-de-travail-matelassee-avec-fermeture-par-pressions-et-zip-en-vert-fonce/prd/211017860#colourWayId-211017863",
+    "verified": "Donnée publique ASOS"
+  },
+  {
     "id": "asos-210904591",
     "name": "Jack & Jones Wolf veste worker courte à fermeture boutonnée et zippée en noir",
     "brand": "Jack & Jones",
@@ -6775,30 +6767,6 @@
     "sizes": [],
     "image": "https://images.asos-media.com/products/jack-jones-manteau-court-mac-beige/211017948-1-crockery",
     "url": "https://www.asos.com/fr/jack-jones/jack-jones-manteau-court-mac-beige/prd/211017948#colourWayId-211017952",
-    "verified": "Donnée publique ASOS"
-  },
-  {
-    "id": "asos-210399662",
-    "name": "Jack & Jones surchemise brossée à carreaux vert foncé",
-    "brand": "Jack & Jones",
-    "store": "ASOS",
-    "type": "jacket",
-    "gender": "homme",
-    "price": 49.99,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "casual"
-    ],
-    "colors": [
-      "vert"
-    ],
-    "fits": [
-      "regular"
-    ],
-    "sizes": [],
-    "image": "https://images.asos-media.com/products/jack-jones-surchemise-brossee-a-carreaux-vert-fonce/210399662-1-olivenightcheck",
-    "url": "https://www.asos.com/fr/jack-jones/jack-jones-surchemise-brossee-a-carreaux-vert-fonce/prd/210399662#colourWayId-210399664",
     "verified": "Donnée publique ASOS"
   },
   {
@@ -6921,6 +6889,30 @@
     "sizes": [],
     "image": "https://images.asos-media.com/products/only-sons-veste-en-jean-avec-col-en-velours-cotele-bleu-fonce/211477035-1-darkblue",
     "url": "https://www.asos.com/fr/only-sons/only-sons-veste-en-jean-avec-col-en-velours-cotele-bleu-fonce/prd/211477035#colourWayId-211477036",
+    "verified": "Donnée publique ASOS"
+  },
+  {
+    "id": "asos-211562747",
+    "name": "Pieces veste matelassée à poches marron chocolat",
+    "brand": "Pieces",
+    "store": "ASOS",
+    "type": "jacket",
+    "gender": "femme",
+    "price": 89.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual"
+    ],
+    "colors": [
+      "marron"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://images.asos-media.com/products/pieces-veste-matelassee-a-poches-marron-chocolat/211562747-1-hotfudge",
+    "url": "https://www.asos.com/fr/pieces/pieces-veste-matelassee-a-poches-marron-chocolat/prd/211562747#colourWayId-211562748",
     "verified": "Donnée publique ASOS"
   },
   {
@@ -7341,13 +7333,13 @@
     "verified": "Donnée publique ASOS"
   },
   {
-    "id": "asos-211181961",
-    "name": "adidas Originals x ASOS veste de survêtement color block orange",
+    "id": "asos-211172711",
+    "name": "adidas Originals x ASOS veste de survêtement oversize ajustée beige chiné",
     "brand": "adidas Originals x ASOS",
     "store": "ASOS",
     "type": "jacket",
     "gender": "femme",
-    "price": 108.0,
+    "price": 120.0,
     "quality": 7,
     "deliveryDays": 4,
     "styles": [
@@ -7355,14 +7347,15 @@
       "sport"
     ],
     "colors": [
-      "orange"
+      "gris",
+      "beige"
     ],
     "fits": [
-      "regular"
+      "oversize"
     ],
     "sizes": [],
-    "image": "https://images.asos-media.com/products/adidas-originals-x-asos-veste-de-survetement-color-block-orange/211181961-1-orange",
-    "url": "https://www.asos.com/fr/adidas-originals-x-asos/adidas-originals-x-asos-veste-de-survetement-color-block-orange/prd/211181961#colourWayId-211181974",
+    "image": "https://images.asos-media.com/products/adidas-originals-x-asos-veste-de-survetement-oversize-ajustee-beige-chine/211172711-1-grey",
+    "url": "https://www.asos.com/fr/adidas-originals-x-asos/adidas-originals-x-asos-veste-de-survetement-oversize-ajustee-beige-chine/prd/211172711#colourWayId-211172726",
     "verified": "Donnée publique ASOS"
   },
   {
@@ -7942,6 +7935,30 @@
     "sizes": [],
     "image": "https://images.asos-media.com/products/bershka-jean-droit-evase-gris-clair/211407328-1-lightgrey",
     "url": "https://www.asos.com/fr/bershka/bershka-jean-droit-evase-gris-clair/prd/211407328#colourWayId-211407329",
+    "verified": "Donnée publique ASOS"
+  },
+  {
+    "id": "asos-211444745",
+    "name": "Bershka - Jean large taille haute - Bleu denim",
+    "brand": "Bershka",
+    "store": "ASOS",
+    "type": "jean",
+    "gender": "femme",
+    "price": 35.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual"
+    ],
+    "colors": [
+      "bleu"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://images.asos-media.com/products/bershka-jean-large-taille-haute-bleu-denim/211444745-1-denimblue",
+    "url": "https://www.asos.com/fr/bershka/bershka-jean-large-taille-haute-bleu-denim/prd/211444745#colourWayId-211444747",
     "verified": "Donnée publique ASOS"
   },
   {
@@ -8838,30 +8855,6 @@
     "verified": "Donnée publique ASOS"
   },
   {
-    "id": "asos-210430326",
-    "name": "Pull&Bear - Jean droit ample - Noir chiné",
-    "brand": "Pull&Bear",
-    "store": "ASOS",
-    "type": "jean",
-    "gender": "femme",
-    "price": 29.99,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "casual"
-    ],
-    "colors": [
-      "noir"
-    ],
-    "fits": [
-      "regular"
-    ],
-    "sizes": [],
-    "image": "https://images.asos-media.com/products/pullbear-jean-droit-ample-noir-chine/210430326-1-blackmarl",
-    "url": "https://www.asos.com/fr/pullbear/pullbear-jean-droit-ample-noir-chine/prd/210430326#colourWayId-210430327",
-    "verified": "Donnée publique ASOS"
-  },
-  {
     "id": "asos-209387008",
     "name": "Pull&Bear - Jean mom à taille haute - Noir",
     "brand": "Pull&Bear",
@@ -9203,31 +9196,6 @@
     "verified": "Donnée publique ASOS"
   },
   {
-    "id": "asos-210476998",
-    "name": "ASOS DESIGN - Pantalon de jogging bouffant oversize - Gris",
-    "brand": "ASOS DESIGN",
-    "store": "ASOS",
-    "type": "jogger",
-    "gender": "homme",
-    "price": 29.99,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "casual",
-      "streetwear"
-    ],
-    "colors": [
-      "gris"
-    ],
-    "fits": [
-      "oversize"
-    ],
-    "sizes": [],
-    "image": "https://images.asos-media.com/products/asos-design-pantalon-de-jogging-bouffant-oversize-gris/210476998-1-sweatshirtgrey",
-    "url": "https://www.asos.com/fr/asos-design/asos-design-pantalon-de-jogging-bouffant-oversize-gris/prd/210476998#colourWayId-210477000",
-    "verified": "Donnée publique ASOS"
-  },
-  {
     "id": "asos-211609789",
     "name": "ASOS DESIGN jogger barrel oversize à plis ballon avec cordon élastique en noir délavé",
     "brand": "ASOS DESIGN",
@@ -9530,13 +9498,13 @@
     "verified": "Donnée publique ASOS"
   },
   {
-    "id": "asos-211028349",
-    "name": "COLLUSION jogger ample épais et décontracté noir",
+    "id": "asos-210718237",
+    "name": "COLLUSION Jogger baggy XL gris chiné",
     "brand": "Collusion",
     "store": "ASOS",
     "type": "jogger",
     "gender": "homme",
-    "price": 32.99,
+    "price": 47.99,
     "quality": 7,
     "deliveryDays": 4,
     "styles": [
@@ -9544,14 +9512,14 @@
       "streetwear"
     ],
     "colors": [
-      "noir"
+      "gris"
     ],
     "fits": [
-      "regular"
+      "baggy"
     ],
     "sizes": [],
-    "image": "https://images.asos-media.com/products/collusion-jogger-ample-epais-et-decontracte-noir/211028349-1-black",
-    "url": "https://www.asos.com/fr/collusion/collusion-jogger-ample-epais-et-decontracte-noir/prd/211028349#colourWayId-211028363",
+    "image": "https://images.asos-media.com/products/collusion-jogger-baggy-xl-gris-chine/210718237-1-greymarl",
+    "url": "https://www.asos.com/fr/collusion/collusion-jogger-baggy-xl-gris-chine/prd/210718237#colourWayId-210718239",
     "verified": "Donnée publique ASOS"
   },
   {
@@ -9705,6 +9673,31 @@
     "verified": "Donnée publique ASOS"
   },
   {
+    "id": "asos-211916545",
+    "name": "Jack & Jones Kane jogging coupe relaxed taille mi-haute gris",
+    "brand": "Jack & Jones",
+    "store": "ASOS",
+    "type": "jogger",
+    "gender": "homme",
+    "price": 39.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual",
+      "streetwear"
+    ],
+    "colors": [
+      "gris"
+    ],
+    "fits": [
+      "relaxed"
+    ],
+    "sizes": [],
+    "image": "https://images.asos-media.com/products/jack-jones-kane-jogging-coupe-relaxed-taille-mi-haute-gris/211916545-1-crockery",
+    "url": "https://www.asos.com/fr/jack-jones/jack-jones-kane-jogging-coupe-relaxed-taille-mi-haute-gris/prd/211916545#colourWayId-211916552",
+    "verified": "Donnée publique ASOS"
+  },
+  {
     "id": "asos-211018312",
     "name": "Jack & Jones pantalon de jogging large bleu marine",
     "brand": "Jack & Jones",
@@ -9809,6 +9802,32 @@
     "verified": "Donnée publique ASOS"
   },
   {
+    "id": "asos-211891688",
+    "name": "Pull&Bear lot de 2 pantalons de jogging gris chiné et noir",
+    "brand": "Pull&Bear",
+    "store": "ASOS",
+    "type": "jogger",
+    "gender": "homme",
+    "price": 44.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual",
+      "streetwear"
+    ],
+    "colors": [
+      "noir",
+      "gris"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://images.asos-media.com/products/pullbear-lot-de-2-pantalons-de-jogging-gris-chine-et-noir/211891688-1-greymarl",
+    "url": "https://www.asos.com/fr/pullbear/pullbear-lot-de-2-pantalons-de-jogging-gris-chine-et-noir/prd/211891688#colourWayId-211891689",
+    "verified": "Donnée publique ASOS"
+  },
+  {
     "id": "asos-211371524",
     "name": "Reclaimed Vintage jogger unisexe épais à jambe barrel couleur chocolat",
     "brand": "Reclaimed Vintage",
@@ -9832,32 +9851,6 @@
     "sizes": [],
     "image": "https://images.asos-media.com/products/reclaimed-vintage-jogger-unisexe-epais-a-jambe-barrel-couleur-chocolat/211371524-1-choc",
     "url": "https://www.asos.com/fr/reclaimed-vintage/reclaimed-vintage-survetement-unisexe-en-tissu-epais-chocolat/grp/212125782#colourWayId-211371525&productId-211371524",
-    "verified": "Donnée publique ASOS"
-  },
-  {
-    "id": "asos-211371560",
-    "name": "Reclaimed Vintage jogging unisexe épais à jambe barrel gris chiné",
-    "brand": "Reclaimed Vintage",
-    "store": "ASOS",
-    "type": "jogger",
-    "gender": "homme",
-    "price": 39.99,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "casual",
-      "streetwear",
-      "vintage"
-    ],
-    "colors": [
-      "gris"
-    ],
-    "fits": [
-      "regular"
-    ],
-    "sizes": [],
-    "image": "https://images.asos-media.com/products/reclaimed-vintage-jogging-unisexe-epais-a-jambe-barrel-gris-chine/211371560-1-greymarl",
-    "url": "https://www.asos.com/fr/reclaimed-vintage/reclaimed-vintage-survetement-unisexe-en-tissu-epais-gris-chine/grp/212125746#colourWayId-211371561&productId-211371560",
     "verified": "Donnée publique ASOS"
   },
   {
@@ -9886,13 +9879,13 @@
     "verified": "Donnée publique ASOS"
   },
   {
-    "id": "asos-211573759",
-    "name": "Topman jogger coupe barrel épais noir",
-    "brand": "Topman",
+    "id": "asos-211673297",
+    "name": "Weekday jogger en tissu effet scuba à jambe barrel, taille élastiquée, noir",
+    "brand": "Weekday",
     "store": "ASOS",
     "type": "jogger",
     "gender": "homme",
-    "price": 59.99,
+    "price": 67.99,
     "quality": 7,
     "deliveryDays": 4,
     "styles": [
@@ -9906,33 +9899,8 @@
       "regular"
     ],
     "sizes": [],
-    "image": "https://images.asos-media.com/products/topman-jogger-coupe-barrel-epais-noir/211573759-1-black",
-    "url": "https://www.asos.com/fr/topman/topman-jogger-coupe-barrel-epais-noir/prd/211573759#colourWayId-211573771",
-    "verified": "Donnée publique ASOS"
-  },
-  {
-    "id": "asos-211616164",
-    "name": "Topman jogger premium à jambes larges, épais, avec zip latéral intégral, gris chiné",
-    "brand": "Topman",
-    "store": "ASOS",
-    "type": "jogger",
-    "gender": "homme",
-    "price": 79.99,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "casual",
-      "streetwear"
-    ],
-    "colors": [
-      "gris"
-    ],
-    "fits": [
-      "regular"
-    ],
-    "sizes": [],
-    "image": "https://images.asos-media.com/products/topman-jogger-premium-a-jambes-larges-epais-avec-zip-lateral-integral-gris-chine/211616164-1-greymarl",
-    "url": "https://www.asos.com/fr/topman/topman-ensemble-pantalon-de-jogging-large-avec-fermeture-eclair-sur-le-cote-et-sweat-a-capuche-coupe-carree-en-tissu-epais-de-qualite-superieure-gris-chine/grp/212099236#colourWayId-211616196&productId-211616164",
+    "image": "https://images.asos-media.com/products/weekday-jogger-en-tissu-effet-scuba-a-jambe-barrel-taille-elastiquee-noir/211673297-1-black",
+    "url": "https://www.asos.com/fr/weekday/weekday-jogger-en-tissu-effet-scuba-a-jambe-barrel-taille-elastiquee-noir/prd/211673297#colourWayId-211673298",
     "verified": "Donnée publique ASOS"
   },
   {
@@ -10209,30 +10177,6 @@
     "verified": "Donnée publique ASOS"
   },
   {
-    "id": "asos-210986652",
-    "name": "ASOS DESIGN combinaison en jean à col cheminée bleu moyen foncé",
-    "brand": "ASOS DESIGN",
-    "store": "ASOS",
-    "type": "jumpsuit",
-    "gender": "femme",
-    "price": 59.99,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "casual"
-    ],
-    "colors": [
-      "bleu"
-    ],
-    "fits": [
-      "regular"
-    ],
-    "sizes": [],
-    "image": "https://images.asos-media.com/products/asos-design-combinaison-en-jean-a-col-cheminee-bleu-moyen-fonce/210986652-1-darkmidblue",
-    "url": "https://www.asos.com/fr/asos-design/asos-design-combinaison-en-jean-a-col-cheminee-bleu-moyen-fonce/prd/210986652#colourWayId-210986656",
-    "verified": "Donnée publique ASOS"
-  },
-  {
     "id": "asos-210718294",
     "name": "ASOS DESIGN combinaison en jean à jambe barrel bleu moyen foncé",
     "brand": "ASOS DESIGN",
@@ -10303,6 +10247,30 @@
     "sizes": [],
     "image": "https://images.asos-media.com/products/asos-design-combinaison-pantalon-a-col-montant-et-jambes-larges-avec-detail-asymetrique-au-buste-en-bleu-marine/211543470-1-navy",
     "url": "https://www.asos.com/fr/asos-design/asos-design-combinaison-pantalon-a-col-montant-et-jambes-larges-avec-detail-asymetrique-au-buste-en-bleu-marine/prd/211543470#colourWayId-211543472",
+    "verified": "Donnée publique ASOS"
+  },
+  {
+    "id": "asos-211675892",
+    "name": "ASOS DESIGN combinaison à col halter en velours avec détail portefeuille à franges en noir",
+    "brand": "ASOS DESIGN",
+    "store": "ASOS",
+    "type": "jumpsuit",
+    "gender": "femme",
+    "price": 64.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual"
+    ],
+    "colors": [
+      "noir"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://images.asos-media.com/products/asos-design-combinaison-a-col-halter-en-velours-avec-detail-portefeuille-a-franges-en-noir/211675892-1-black",
+    "url": "https://www.asos.com/fr/asos-design/asos-design-combinaison-a-col-halter-en-velours-avec-detail-portefeuille-a-franges-en-noir/prd/211675892#colourWayId-211675897",
     "verified": "Donnée publique ASOS"
   },
   {
@@ -10892,31 +10860,6 @@
     "verified": "Donnée publique ASOS"
   },
   {
-    "id": "asos-210882562",
-    "name": "Bershka - Mocassins à fronces - Noir",
-    "brand": "Bershka",
-    "store": "ASOS",
-    "type": "loafers",
-    "gender": "homme",
-    "price": 39.99,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "casual",
-      "chic"
-    ],
-    "colors": [
-      "noir"
-    ],
-    "fits": [
-      "regular"
-    ],
-    "sizes": [],
-    "image": "https://images.asos-media.com/products/bershka-mocassins-a-fronces-noir/210882562-1-black",
-    "url": "https://www.asos.com/fr/bershka/bershka-mocassins-a-fronces-noir/prd/210882562#colourWayId-210882576",
-    "verified": "Donnée publique ASOS"
-  },
-  {
     "id": "asos-211518525",
     "name": "Bershka mocassins Penny noirs",
     "brand": "Bershka",
@@ -11289,6 +11232,31 @@
     "sizes": [],
     "image": "https://images.asos-media.com/products/pullbear-mocassins-penny-noirs/211886665-1-black",
     "url": "https://www.asos.com/fr/pullbear/pullbear-mocassins-penny-noirs/prd/211886665#colourWayId-211886666",
+    "verified": "Donnée publique ASOS"
+  },
+  {
+    "id": "asos-211573828",
+    "name": "Pull&Bear sabots à détail mors marron",
+    "brand": "Pull&Bear",
+    "store": "ASOS",
+    "type": "loafers",
+    "gender": "homme",
+    "price": 39.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual",
+      "chic"
+    ],
+    "colors": [
+      "marron"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://images.asos-media.com/products/pullbear-sabots-a-detail-mors-marron/211573828-1-brown",
+    "url": "https://www.asos.com/fr/pullbear/pullbear-sabots-a-detail-mors-marron/prd/211573828#colourWayId-211573829",
     "verified": "Donnée publique ASOS"
   },
   {
@@ -11817,6 +11785,30 @@
     "verified": "Donnée publique ASOS"
   },
   {
+    "id": "asos-210990050",
+    "name": "ARRANGE ensemble 2 pièces premium ajusté à jambe barrel en noir",
+    "brand": "ARRANGE",
+    "store": "ASOS",
+    "type": "pants",
+    "gender": "femme",
+    "price": 138.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual"
+    ],
+    "colors": [
+      "noir"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://images.asos-media.com/products/arrange-ensemble-2-pieces-premium-ajuste-a-jambe-barrel-en-noir/210990050-1-black",
+    "url": "https://www.asos.com/fr/arrange/arrange-ensemble-blazer-a-manches-ovoidales-et-empiecement-en-velours-jupe-mi-longue-et-pantalon-barrel-noir/grp/212064354#colourWayId-210990056&productId-210990050",
+    "verified": "Donnée publique ASOS"
+  },
+  {
     "id": "asos-208370047",
     "name": "ASOS DESIGN - Pantacourt d'ensemble fendu sur les côtés - Noir",
     "brand": "ASOS DESIGN",
@@ -11937,30 +11929,6 @@
     "verified": "Donnée publique ASOS"
   },
   {
-    "id": "asos-211814937",
-    "name": "ASOS DESIGN ensemble 2 pièces pantalon ballon gris",
-    "brand": "ASOS DESIGN",
-    "store": "ASOS",
-    "type": "pants",
-    "gender": "femme",
-    "price": 47.99,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "casual"
-    ],
-    "colors": [
-      "gris"
-    ],
-    "fits": [
-      "regular"
-    ],
-    "sizes": [],
-    "image": "https://images.asos-media.com/products/asos-design-ensemble-2-pieces-pantalon-ballon-gris/211814937-1-grey",
-    "url": "https://www.asos.com/fr/asos-design/asos-design-ensemble-en-tissu-imitation-neoprene-gris/grp/211895202#colourWayId-211814939&productId-211814937",
-    "verified": "Donnée publique ASOS"
-  },
-  {
     "id": "asos-211036760",
     "name": "ASOS DESIGN pantalon avec détail d’ourlet ajustable en kaki délavé",
     "brand": "ASOS DESIGN",
@@ -12078,30 +12046,6 @@
     "sizes": [],
     "image": "https://images.asos-media.com/products/asos-design-pantalon-culotte-ajuste-taille-haute-chocolat/210824668-1-chocolate",
     "url": "https://www.asos.com/fr/asos-design/asos-design-pantalon-culotte-ajuste-taille-haute-chocolat/prd/210824668#colourWayId-210824669",
-    "verified": "Donnée publique ASOS"
-  },
-  {
-    "id": "asos-210918235",
-    "name": "ASOS DESIGN pantalon de costume fuselé marron foncé",
-    "brand": "ASOS DESIGN",
-    "store": "ASOS",
-    "type": "pants",
-    "gender": "homme",
-    "price": 37.99,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "casual"
-    ],
-    "colors": [
-      "marron"
-    ],
-    "fits": [
-      "regular"
-    ],
-    "sizes": [],
-    "image": "https://images.asos-media.com/products/asos-design-pantalon-de-costume-fusele-marron-fonce/210918235-1-darkbrown",
-    "url": "https://www.asos.com/fr/asos-design/asos-design-costume-avec-blazer-ajuste-et-pantalon-fusele-marron-fonce/grp/212072909#colourWayId-210918236&productId-210918235",
     "verified": "Donnée publique ASOS"
   },
   {
@@ -12270,6 +12214,30 @@
     "sizes": [],
     "image": "https://images.asos-media.com/products/bershka-pantalon-baggy-a-carreaux-gris-delave/212061884-1-washedgrey",
     "url": "https://www.asos.com/fr/bershka/bershka-pantalon-baggy-a-carreaux-gris-delave/prd/212061884#colourWayId-212061885",
+    "verified": "Donnée publique ASOS"
+  },
+  {
+    "id": "asos-211517000",
+    "name": "Bershka pantalon barrel technique noir",
+    "brand": "Bershka",
+    "store": "ASOS",
+    "type": "pants",
+    "gender": "homme",
+    "price": 39.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual"
+    ],
+    "colors": [
+      "noir"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://images.asos-media.com/products/bershka-pantalon-barrel-technique-noir/211517000-1-black",
+    "url": "https://www.asos.com/fr/bershka/bershka-pantalon-barrel-technique-noir/prd/211517000#colourWayId-211517001",
     "verified": "Donnée publique ASOS"
   },
   {
@@ -12984,6 +12952,31 @@
     "verified": "Donnée publique ASOS"
   },
   {
+    "id": "asos-210684982",
+    "name": "adidas Originals pantalon de survêtement Firebird rouille - exclusivité ASOS",
+    "brand": "adidas Originals",
+    "store": "ASOS",
+    "type": "pants",
+    "gender": "homme",
+    "price": 49.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual",
+      "sport"
+    ],
+    "colors": [
+      "rouge"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://images.asos-media.com/products/adidas-originals-pantalon-de-survetement-firebird-rouille-exclusivite-asos/210684982-1-red",
+    "url": "https://www.asos.com/fr/adidas-originals/exclusivite-asos-adidas-originals-firebird-ensemble-de-survetement-rouille/grp/211557341#colourWayId-210684983&productId-210684982",
+    "verified": "Donnée publique ASOS"
+  },
+  {
     "id": "asos-210682756",
     "name": "adidas Originals pantalon de survêtement classique marron et jaune",
     "brand": "adidas Originals",
@@ -13035,13 +13028,13 @@
     "verified": "Donnée publique ASOS"
   },
   {
-    "id": "asos-211267652",
-    "name": "adidas Originals pantalon de survêtement signature à empiècements noir",
+    "id": "asos-210687139",
+    "name": "adidas Originals pantalon de survêtement à carreaux marron désert, exclusivité ASOS",
     "brand": "adidas Originals",
     "store": "ASOS",
     "type": "pants",
-    "gender": "homme",
-    "price": 70.0,
+    "gender": "femme",
+    "price": 80.0,
     "quality": 7,
     "deliveryDays": 4,
     "styles": [
@@ -13049,14 +13042,14 @@
       "sport"
     ],
     "colors": [
-      "noir"
+      "marron"
     ],
     "fits": [
       "regular"
     ],
     "sizes": [],
-    "image": "https://images.asos-media.com/products/adidas-originals-pantalon-de-survetement-signature-a-empiecements-noir/211267652-1-utilityblack",
-    "url": "https://www.asos.com/fr/adidas-originals/adidas-originals-pantalon-de-survetement-signature-a-empiecements-noir/prd/211267652#colourWayId-211267654",
+    "image": "https://images.asos-media.com/products/adidas-originals-pantalon-de-survetement-a-carreaux-marron-desert-exclusivite-asos/210687139-1-browndesert",
+    "url": "https://www.asos.com/fr/adidas-originals/adidas-originals-pantalon-de-survetement-a-carreaux-marron-desert-exclusivite-asos/prd/210687139#colourWayId-210687140",
     "verified": "Donnée publique ASOS"
   },
   {
@@ -13082,32 +13075,6 @@
     "sizes": [],
     "image": "https://images.asos-media.com/products/adidas-originals-pantalon-de-survetement-a-carreaux-marron-nuit/210687188-1-nightbrown",
     "url": "https://www.asos.com/fr/adidas-originals/adidas-originals-pantalon-de-survetement-a-carreaux-marron-nuit/prd/210687188#colourWayId-210687189",
-    "verified": "Donnée publique ASOS"
-  },
-  {
-    "id": "asos-211192727",
-    "name": "adidas Originals pantalon de survêtement à carreaux noir",
-    "brand": "adidas Originals",
-    "store": "ASOS",
-    "type": "pants",
-    "gender": "femme",
-    "price": 80.0,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "casual",
-      "sport"
-    ],
-    "colors": [
-      "noir",
-      "gris"
-    ],
-    "fits": [
-      "regular"
-    ],
-    "sizes": [],
-    "image": "https://images.asos-media.com/products/adidas-originals-pantalon-de-survetement-a-carreaux-noir/211192727-1-grey",
-    "url": "https://www.asos.com/fr/adidas-originals/adidas-originals-pantalon-de-survetement-a-carreaux-noir/prd/211192727#colourWayId-211192728",
     "verified": "Donnée publique ASOS"
   },
   {
@@ -14241,6 +14208,54 @@
     "verified": "Donnée publique ASOS"
   },
   {
+    "id": "asos-210356243",
+    "name": "ASOS DESIGN - Pull décontracté en laine mélangée duveteuse à col cheminée - Bordeaux",
+    "brand": "ASOS DESIGN",
+    "store": "ASOS",
+    "type": "pull",
+    "gender": "femme",
+    "price": 39.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual"
+    ],
+    "colors": [
+      "bordeaux"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://images.asos-media.com/products/asos-design-pull-decontracte-en-laine-melangee-duveteuse-a-col-cheminee-bordeaux/210356243-1-burgundy",
+    "url": "https://www.asos.com/fr/asos-design/asos-design-pull-decontracte-en-laine-melangee-duveteuse-a-col-cheminee-bordeaux/prd/210356243#colourWayId-210356245",
+    "verified": "Donnée publique ASOS"
+  },
+  {
+    "id": "asos-210354079",
+    "name": "ASOS DESIGN - Pull oversize duveteux - Chocolat",
+    "brand": "ASOS DESIGN",
+    "store": "ASOS",
+    "type": "pull",
+    "gender": "femme",
+    "price": 37.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual"
+    ],
+    "colors": [
+      "chocolat"
+    ],
+    "fits": [
+      "oversize"
+    ],
+    "sizes": [],
+    "image": "https://images.asos-media.com/products/asos-design-pull-oversize-duveteux-chocolat/210354079-1-chocolate",
+    "url": "https://www.asos.com/fr/asos-design/asos-design-pull-oversize-duveteux-chocolat/prd/210354079#colourWayId-210354083",
+    "verified": "Donnée publique ASOS"
+  },
+  {
     "id": "asos-210354052",
     "name": "ASOS DESIGN - Pull oversize duveteux - Crème",
     "brand": "ASOS DESIGN",
@@ -14286,30 +14301,6 @@
     "sizes": [],
     "image": "https://images.asos-media.com/products/asos-design-pull-oversize-duveteux-rose/210354087-1-pink",
     "url": "https://www.asos.com/fr/asos-design/asos-design-pull-oversize-duveteux-rose/prd/210354087#colourWayId-210354104",
-    "verified": "Donnée publique ASOS"
-  },
-  {
-    "id": "asos-210343425",
-    "name": "ASOS DESIGN gilet ample avec fentes côtés, prune",
-    "brand": "ASOS DESIGN",
-    "store": "ASOS",
-    "type": "pull",
-    "gender": "femme",
-    "price": 32.99,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "casual"
-    ],
-    "colors": [
-      "prune"
-    ],
-    "fits": [
-      "regular"
-    ],
-    "sizes": [],
-    "image": "https://images.asos-media.com/products/asos-design-gilet-ample-avec-fentes-cotes-prune/210343425-1-plum",
-    "url": "https://www.asos.com/fr/asos-design/asos-design-gilet-ample-avec-fentes-cotes-prune/prd/210343425#colourWayId-210343427",
     "verified": "Donnée publique ASOS"
   },
   {
@@ -14458,6 +14449,30 @@
     "verified": "Donnée publique ASOS"
   },
   {
+    "id": "asos-211818290",
+    "name": "ASOS DESIGN pull oversize duveteux turquoise",
+    "brand": "ASOS DESIGN",
+    "store": "ASOS",
+    "type": "pull",
+    "gender": "femme",
+    "price": 37.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual"
+    ],
+    "colors": [
+      "turquoise"
+    ],
+    "fits": [
+      "oversize"
+    ],
+    "sizes": [],
+    "image": "https://images.asos-media.com/products/asos-design-pull-oversize-duveteux-turquoise/211818290-1-turquoise",
+    "url": "https://www.asos.com/fr/asos-design/asos-design-pull-oversize-duveteux-turquoise/prd/211818290#colourWayId-211818297",
+    "verified": "Donnée publique ASOS"
+  },
+  {
     "id": "asos-211150209",
     "name": "ASOS DESIGN pull à col montant argyle bordeaux et chocolat",
     "brand": "ASOS DESIGN",
@@ -14504,30 +14519,6 @@
     "sizes": [],
     "image": "https://images.asos-media.com/products/asos-design-top-tricote-a-manches-chauve-souris-cintre-a-la-taille-a-manches-longues-noir/211782527-1-black",
     "url": "https://www.asos.com/fr/asos-design/asos-design-top-tricote-a-manches-chauve-souris-cintre-a-la-taille-a-manches-longues-noir/prd/211782527#colourWayId-211782532",
-    "verified": "Donnée publique ASOS"
-  },
-  {
-    "id": "asos-211378499",
-    "name": "Bershka - Pull oversize à col polo - Bleu",
-    "brand": "Bershka",
-    "store": "ASOS",
-    "type": "pull",
-    "gender": "femme",
-    "price": 20.99,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "casual"
-    ],
-    "colors": [
-      "bleu"
-    ],
-    "fits": [
-      "oversize"
-    ],
-    "sizes": [],
-    "image": "https://images.asos-media.com/products/bershka-pull-oversize-a-col-polo-bleu/211378499-1-blue",
-    "url": "https://www.asos.com/fr/bershka/bershka-pull-oversize-a-col-polo-bleu/prd/211378499#colourWayId-211378505",
     "verified": "Donnée publique ASOS"
   },
   {
@@ -14775,30 +14766,6 @@
     "verified": "Donnée publique ASOS"
   },
   {
-    "id": "asos-212083414",
-    "name": "Bershka pull en maille Henley marron",
-    "brand": "Bershka",
-    "store": "ASOS",
-    "type": "pull",
-    "gender": "homme",
-    "price": 25.99,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "casual"
-    ],
-    "colors": [
-      "marron"
-    ],
-    "fits": [
-      "regular"
-    ],
-    "sizes": [],
-    "image": "https://images.asos-media.com/products/bershka-pull-en-maille-henley-marron/212083414-1-brown",
-    "url": "https://www.asos.com/fr/bershka/bershka-pull-en-maille-henley-marron/prd/212083414#colourWayId-212083418",
-    "verified": "Donnée publique ASOS"
-  },
-  {
     "id": "asos-211278672",
     "name": "Bershka pull à col rond et manches raglan jaune",
     "brand": "Bershka",
@@ -14823,27 +14790,27 @@
     "verified": "Donnée publique ASOS"
   },
   {
-    "id": "asos-211545319",
-    "name": "Bershka sweat-shirt à col rond noir",
+    "id": "asos-211628966",
+    "name": "Bershka sweat-shirt demi-zip gris clair",
     "brand": "Bershka",
     "store": "ASOS",
     "type": "pull",
-    "gender": "femme",
-    "price": 22.99,
+    "gender": "homme",
+    "price": 29.99,
     "quality": 7,
     "deliveryDays": 4,
     "styles": [
       "casual"
     ],
     "colors": [
-      "noir"
+      "gris"
     ],
     "fits": [
       "regular"
     ],
     "sizes": [],
-    "image": "https://images.asos-media.com/products/bershka-sweat-shirt-a-col-rond-noir/211545319-1-black",
-    "url": "https://www.asos.com/fr/bershka/bershka-sweat-shirt-a-col-rond-noir/prd/211545319#colourWayId-211545330",
+    "image": "https://images.asos-media.com/products/bershka-sweat-shirt-demi-zip-gris-clair/211628966-1-lightgrey",
+    "url": "https://www.asos.com/fr/bershka/bershka-sweat-shirt-demi-zip-gris-clair/prd/211628966#colourWayId-211628968",
     "verified": "Donnée publique ASOS"
   },
   {
@@ -14943,30 +14910,6 @@
     "verified": "Donnée publique ASOS"
   },
   {
-    "id": "asos-210618160",
-    "name": "Brave Soul pull col roulé toucher doux en bordeaux foncé",
-    "brand": "Brave Soul",
-    "store": "ASOS",
-    "type": "pull",
-    "gender": "homme",
-    "price": 26.99,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "casual"
-    ],
-    "colors": [
-      "bordeaux"
-    ],
-    "fits": [
-      "regular"
-    ],
-    "sizes": [],
-    "image": "https://images.asos-media.com/products/brave-soul-pull-col-roule-toucher-doux-en-bordeaux-fonce/210618160-1-oxblood",
-    "url": "https://www.asos.com/fr/brave-soul/brave-soul-pull-col-roule-toucher-doux-en-bordeaux-fonce/prd/210618160#colourWayId-210618163",
-    "verified": "Donnée publique ASOS"
-  },
-  {
     "id": "asos-210618202",
     "name": "Brave Soul pull en maille zippé 1/4 avec patte polo, marron chocolat",
     "brand": "Brave Soul",
@@ -15038,31 +14981,6 @@
     "sizes": [],
     "image": "https://images.asos-media.com/products/brave-soul-pull-en-maille-a-col-montant-noir/210618203-1-black",
     "url": "https://www.asos.com/fr/brave-soul/brave-soul-pull-en-maille-a-col-montant-noir/prd/210618203#colourWayId-210618205",
-    "verified": "Donnée publique ASOS"
-  },
-  {
-    "id": "asos-210618133",
-    "name": "Brave Soul pull en maille à demi-zip avec patte polo bleu marine",
-    "brand": "Brave Soul",
-    "store": "ASOS",
-    "type": "pull",
-    "gender": "homme",
-    "price": 26.99,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "casual"
-    ],
-    "colors": [
-      "bleu-marine",
-      "bleu"
-    ],
-    "fits": [
-      "regular"
-    ],
-    "sizes": [],
-    "image": "https://images.asos-media.com/products/brave-soul-pull-en-maille-a-demi-zip-avec-patte-polo-bleu-marine/210618133-1-navy",
-    "url": "https://www.asos.com/fr/brave-soul/brave-soul-pull-en-maille-a-demi-zip-avec-patte-polo-bleu-marine/prd/210618133#colourWayId-210618134",
     "verified": "Donnée publique ASOS"
   },
   {
@@ -15163,6 +15081,54 @@
     "verified": "Donnée publique ASOS"
   },
   {
+    "id": "asos-210976484",
+    "name": "JJ Rebel pull col roulé côtelé crème",
+    "brand": "JJ Rebel",
+    "store": "ASOS",
+    "type": "pull",
+    "gender": "homme",
+    "price": 27.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual"
+    ],
+    "colors": [
+      "beige"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://images.asos-media.com/products/jj-rebel-pull-col-roule-cotele-creme/210976484-1-moonbeam",
+    "url": "https://www.asos.com/fr/jj-rebel/jj-rebel-pull-col-roule-cotele-creme/prd/210976484#colourWayId-210976487",
+    "verified": "Donnée publique ASOS"
+  },
+  {
+    "id": "asos-210976486",
+    "name": "JJ Rebel pull col roulé côtelé noir",
+    "brand": "JJ Rebel",
+    "store": "ASOS",
+    "type": "pull",
+    "gender": "homme",
+    "price": 27.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual"
+    ],
+    "colors": [
+      "noir"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://images.asos-media.com/products/jj-rebel-pull-col-roule-cotele-noir/210976486-1-black",
+    "url": "https://www.asos.com/fr/jj-rebel/jj-rebel-pull-col-roule-cotele-noir/prd/210976486#colourWayId-210976493",
+    "verified": "Donnée publique ASOS"
+  },
+  {
     "id": "asos-210976126",
     "name": "JJ Rebel pull col roulé noir",
     "brand": "JJ Rebel",
@@ -15184,30 +15150,6 @@
     "sizes": [],
     "image": "https://images.asos-media.com/products/jj-rebel-pull-col-roule-noir/210976126-1-black",
     "url": "https://www.asos.com/fr/jj-rebel/jj-rebel-pull-col-roule-noir/prd/210976126#colourWayId-210976144",
-    "verified": "Donnée publique ASOS"
-  },
-  {
-    "id": "asos-211225922",
-    "name": "JJ Rebel pull structuré à col roulé couleur crème",
-    "brand": "JJ Rebel",
-    "store": "ASOS",
-    "type": "pull",
-    "gender": "homme",
-    "price": 34.99,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "casual"
-    ],
-    "colors": [
-      "beige"
-    ],
-    "fits": [
-      "regular"
-    ],
-    "sizes": [],
-    "image": "https://images.asos-media.com/products/jj-rebel-pull-structure-a-col-roule-couleur-creme/211225922-1-moonbeam",
-    "url": "https://www.asos.com/fr/jj-rebel/jj-rebel-pull-structure-a-col-roule-couleur-creme/prd/211225922#colourWayId-211225926",
     "verified": "Donnée publique ASOS"
   },
   {
@@ -15309,6 +15251,30 @@
     "verified": "Donnée publique ASOS"
   },
   {
+    "id": "asos-210909716",
+    "name": "Jack & Jones pull duveteux coupe relaxed gris clair",
+    "brand": "Jack & Jones",
+    "store": "ASOS",
+    "type": "pull",
+    "gender": "homme",
+    "price": 24.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual"
+    ],
+    "colors": [
+      "gris"
+    ],
+    "fits": [
+      "relaxed"
+    ],
+    "sizes": [],
+    "image": "https://images.asos-media.com/products/jack-jones-pull-duveteux-coupe-relaxed-gris-clair/210909716-1-lightgreymelange",
+    "url": "https://www.asos.com/fr/jack-jones/jack-jones-pull-duveteux-coupe-relaxed-gris-clair/prd/210909716#colourWayId-210909725",
+    "verified": "Donnée publique ASOS"
+  },
+  {
     "id": "asos-210909989",
     "name": "Jack & Jones pull en maille Christmas vert et blanc",
     "brand": "Jack & Jones",
@@ -15358,6 +15324,31 @@
     "verified": "Donnée publique ASOS"
   },
   {
+    "id": "asos-210399271",
+    "name": "Jack & Jones pull oversize duveteux bleu marine",
+    "brand": "Jack & Jones",
+    "store": "ASOS",
+    "type": "pull",
+    "gender": "homme",
+    "price": 39.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual"
+    ],
+    "colors": [
+      "bleu-marine",
+      "bleu"
+    ],
+    "fits": [
+      "oversize"
+    ],
+    "sizes": [],
+    "image": "https://images.asos-media.com/products/jack-jones-pull-oversize-duveteux-bleu-marine/210399271-1-navyblazer",
+    "url": "https://www.asos.com/fr/jack-jones/jack-jones-pull-oversize-duveteux-bleu-marine/prd/210399271#colourWayId-210399279",
+    "verified": "Donnée publique ASOS"
+  },
+  {
     "id": "asos-210398771",
     "name": "Jack & Jones pull oversize duveteux rouge brique",
     "brand": "Jack & Jones",
@@ -15382,13 +15373,13 @@
     "verified": "Donnée publique ASOS"
   },
   {
-    "id": "asos-210398668",
-    "name": "Jack & Jones pull oversize duveteux zippé 1/4 beige",
-    "brand": "Jack & Jones",
+    "id": "asos-211463638",
+    "name": "New Look pull col roulé en crème",
+    "brand": "New Look",
     "store": "ASOS",
     "type": "pull",
     "gender": "homme",
-    "price": 49.99,
+    "price": 27.99,
     "quality": 7,
     "deliveryDays": 4,
     "styles": [
@@ -15398,35 +15389,11 @@
       "beige"
     ],
     "fits": [
-      "oversize"
-    ],
-    "sizes": [],
-    "image": "https://images.asos-media.com/products/jack-jones-pull-oversize-duveteux-zippe-1-4-beige/210398668-1-atmosphere",
-    "url": "https://www.asos.com/fr/jack-jones/jack-jones-pull-oversize-duveteux-zippe-1-4-beige/prd/210398668#colourWayId-210398671",
-    "verified": "Donnée publique ASOS"
-  },
-  {
-    "id": "asos-210909945",
-    "name": "Jack & Jones pull à fines côtes noir",
-    "brand": "Jack & Jones",
-    "store": "ASOS",
-    "type": "pull",
-    "gender": "homme",
-    "price": 24.99,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "casual"
-    ],
-    "colors": [
-      "noir"
-    ],
-    "fits": [
       "regular"
     ],
     "sizes": [],
-    "image": "https://images.asos-media.com/products/jack-jones-pull-a-fines-cotes-noir/210909945-1-black",
-    "url": "https://www.asos.com/fr/jack-jones/jack-jones-pull-a-fines-cotes-noir/prd/210909945#colourWayId-210909963",
+    "image": "https://images.asos-media.com/products/new-look-pull-col-roule-en-creme/211463638-1-cream",
+    "url": "https://www.asos.com/fr/new-look/new-look-pull-col-roule-en-creme/prd/211463638#colourWayId-211463643",
     "verified": "Donnée publique ASOS"
   },
   {
@@ -15451,30 +15418,6 @@
     "sizes": [],
     "image": "https://images.asos-media.com/products/oysho-pull-a-col-montant-avec-demi-zip-camel/211868519-1-camel",
     "url": "https://www.asos.com/fr/oysho/oysho-pull-a-col-montant-avec-demi-zip-camel/prd/211868519#colourWayId-211868535",
-    "verified": "Donnée publique ASOS"
-  },
-  {
-    "id": "asos-211562731",
-    "name": "Pieces Iva pull en maille col rond avec détail franges couleur crème",
-    "brand": "Pieces",
-    "store": "ASOS",
-    "type": "pull",
-    "gender": "femme",
-    "price": 40.99,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "casual"
-    ],
-    "colors": [
-      "beige"
-    ],
-    "fits": [
-      "regular"
-    ],
-    "sizes": [],
-    "image": "https://images.asos-media.com/products/pieces-iva-pull-en-maille-col-rond-avec-detail-franges-couleur-creme/211562731-1-birch",
-    "url": "https://www.asos.com/fr/pieces/pieces-iva-pull-en-maille-col-rond-avec-detail-franges-couleur-creme/prd/211562731#colourWayId-211562734",
     "verified": "Donnée publique ASOS"
   },
   {
@@ -15944,27 +15887,29 @@
     "verified": "Donnée publique ASOS"
   },
   {
-    "id": "asos-209653315",
-    "name": "ASOS DESIGN - Mules à petit talon - Noir",
+    "id": "asos-204989589",
+    "name": "ASOS DESIGN - Nali - Sandales minimalistes en PU à talon - Noir",
     "brand": "ASOS DESIGN",
     "store": "ASOS",
     "type": "sandals",
     "gender": "femme",
-    "price": 29.99,
+    "price": 27.99,
     "quality": 7,
     "deliveryDays": 4,
     "styles": [
-      "casual"
+      "casual",
+      "minimal"
     ],
     "colors": [
-      "noir"
+      "noir",
+      "beige"
     ],
     "fits": [
       "regular"
     ],
     "sizes": [],
-    "image": "https://images.asos-media.com/products/asos-design-mules-a-petit-talon-noir/209653315-1-black",
-    "url": "https://www.asos.com/fr/asos-design/asos-design-mules-a-petit-talon-noir/prd/209653315#colourWayId-209653318",
+    "image": "https://images.asos-media.com/products/asos-design-nali-sandales-minimalistes-en-pu-a-talon-noir/204989589-1-black",
+    "url": "https://www.asos.com/fr/asos-design/asos-design-nali-sandales-minimalistes-en-pu-a-talon-noir/prd/204989589#colourWayId-204989609",
     "verified": "Donnée publique ASOS"
   },
   {
@@ -16092,6 +16037,30 @@
     "verified": "Donnée publique ASOS"
   },
   {
+    "id": "asos-211414769",
+    "name": "ASOS DESIGN Harmony sandale à talons à brides en argenté",
+    "brand": "ASOS DESIGN",
+    "store": "ASOS",
+    "type": "sandals",
+    "gender": "femme",
+    "price": 39.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual"
+    ],
+    "colors": [
+      "beige"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://images.asos-media.com/products/asos-design-harmony-sandale-a-talons-a-brides-en-argente/211414769-1-silver",
+    "url": "https://www.asos.com/fr/asos-design/asos-design-harmony-sandale-a-talons-a-brides-en-argente/prd/211414769#colourWayId-211414781",
+    "verified": "Donnée publique ASOS"
+  },
+  {
     "id": "asos-211153770",
     "name": "ASOS DESIGN Hooray mules à talon moyen en mesh chocolat",
     "brand": "ASOS DESIGN",
@@ -16113,30 +16082,6 @@
     "sizes": [],
     "image": "https://images.asos-media.com/products/asos-design-hooray-mules-a-talon-moyen-en-mesh-chocolat/211153770-1-chocolatemesh",
     "url": "https://www.asos.com/fr/asos-design/asos-design-hooray-mules-a-talon-moyen-en-mesh-chocolat/prd/211153770#colourWayId-211153810",
-    "verified": "Donnée publique ASOS"
-  },
-  {
-    "id": "asos-210761666",
-    "name": "ASOS DESIGN Nightfall mules à talon et plateforme en vernis noir",
-    "brand": "ASOS DESIGN",
-    "store": "ASOS",
-    "type": "sandals",
-    "gender": "femme",
-    "price": 42.99,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "casual"
-    ],
-    "colors": [
-      "noir"
-    ],
-    "fits": [
-      "regular"
-    ],
-    "sizes": [],
-    "image": "https://images.asos-media.com/products/asos-design-nightfall-mules-a-talon-et-plateforme-en-vernis-noir/210761666-1-blackpatent",
-    "url": "https://www.asos.com/fr/asos-design/asos-design-nightfall-mules-a-talon-et-plateforme-en-vernis-noir/prd/210761666#colourWayId-210761667",
     "verified": "Donnée publique ASOS"
   },
   {
@@ -16701,6 +16646,31 @@
     "sizes": [],
     "image": "https://images.asos-media.com/products/public-desire-large-fit-sandales-a-talons-a-liens-dores-couleur-etain/211273938-1-pewter",
     "url": "https://www.asos.com/fr/public-desire-wide-fit/public-desire-large-fit-sandales-a-talons-a-liens-dores-couleur-etain/prd/211273938#colourWayId-211273940",
+    "verified": "Donnée publique ASOS"
+  },
+  {
+    "id": "asos-211274033",
+    "name": "Public Desire sandales mules à talons coupe large Zorya à sequins noirs",
+    "brand": "Public Desire Wide Fit",
+    "store": "ASOS",
+    "type": "sandals",
+    "gender": "femme",
+    "price": 39.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual"
+    ],
+    "colors": [
+      "noir",
+      "beige"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://images.asos-media.com/products/public-desire-sandales-mules-a-talons-coupe-large-zorya-a-sequins-noirs/211274033-1-black",
+    "url": "https://www.asos.com/fr/public-desire-wide-fit/public-desire-sandales-mules-a-talons-coupe-large-zorya-a-sequins-noirs/prd/211274033#colourWayId-211274044",
     "verified": "Donnée publique ASOS"
   },
   {
@@ -17471,30 +17441,6 @@
     "verified": "Donnée publique ASOS"
   },
   {
-    "id": "asos-211255399",
-    "name": "4505 Rest Day jogging ample en coton épais 400 g/m² à bas resserrés, brun taupe",
-    "brand": "4505",
-    "store": "ASOS",
-    "type": "set",
-    "gender": "homme",
-    "price": 37.99,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "casual"
-    ],
-    "colors": [
-      "marron"
-    ],
-    "fits": [
-      "regular"
-    ],
-    "sizes": [],
-    "image": "https://images.asos-media.com/products/4505-rest-day-jogging-ample-en-coton-epais-400-g-m-a-bas-resserres-brun-taupe/211255399-1-taupebrown",
-    "url": "https://www.asos.com/fr/4505/4505-rest-day-sweat-a-capuche-coupe-carree-a-enfiler-en-coton-epais-400g-m2-marron-taupe/grp/211967176#colourWayId-211255405&productId-211255399",
-    "verified": "Donnée publique ASOS"
-  },
-  {
     "id": "asos-210995069",
     "name": "4505 Rest Day pantalon de jogging large en maille gaufrée avec taille à cordon de serrage marron",
     "brand": "4505",
@@ -17516,6 +17462,30 @@
     "sizes": [],
     "image": "https://images.asos-media.com/products/4505-rest-day-pantalon-de-jogging-large-en-maille-gaufree-avec-taille-a-cordon-de-serrage-marron/210995069-1-brown",
     "url": "https://www.asos.com/fr/4505/4505-rest-day-t-shirt-gaufre-a-manches-longues-et-col-tunisien-marron/grp/211967163#colourWayId-210995073&productId-210995069",
+    "verified": "Donnée publique ASOS"
+  },
+  {
+    "id": "asos-211357352",
+    "name": "A.Collective jogger droit épais vert",
+    "brand": "A.Collective",
+    "store": "ASOS",
+    "type": "set",
+    "gender": "homme",
+    "price": 50.0,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual"
+    ],
+    "colors": [
+      "vert"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://images.asos-media.com/products/acollective-jogger-droit-epais-vert/211357352-1-green",
+    "url": "https://www.asos.com/fr/acollective/acollective-ensemble-de-survetement-en-tissu-epais-vert/grp/212158199#colourWayId-211357353&productId-211357352",
     "verified": "Donnée publique ASOS"
   },
   {
@@ -17716,6 +17686,30 @@
     "verified": "Donnée publique ASOS"
   },
   {
+    "id": "asos-211338125",
+    "name": "ASOS DESIGN ensemble 2 pièces jogger barrel imprimé léopard",
+    "brand": "ASOS DESIGN",
+    "store": "ASOS",
+    "type": "set",
+    "gender": "femme",
+    "price": 37.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual"
+    ],
+    "colors": [
+      "léopard"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://images.asos-media.com/products/asos-design-ensemble-2-pieces-jogger-barrel-imprime-leopard/211338125-1-leopard",
+    "url": "https://www.asos.com/fr/asos-design/asos-design-ensemble-sweat-a-capuche-et-pantalon-de-jogging-imprime-leopard/grp/211656604#colourWayId-211338128&productId-211338125",
+    "verified": "Donnée publique ASOS"
+  },
+  {
     "id": "asos-211780910",
     "name": "ASOS DESIGN ensemble 2 pièces jupe longue en maille imprimée à effet torsadé sur le devant imprimé animal",
     "brand": "ASOS DESIGN",
@@ -17834,31 +17828,6 @@
     "sizes": [],
     "image": "https://images.asos-media.com/products/asos-design-ensemble-ajuste-blouson-en-seersucker-vert-olive-khaki/210204552-1-olive",
     "url": "https://www.asos.com/fr/asos-design/asos-design-ensemble-elegant-en-crepon-vert-olive/grp/211553153#colourWayId-210204553&productId-210204552",
-    "verified": "Donnée publique ASOS"
-  },
-  {
-    "id": "asos-210204523",
-    "name": "ASOS DESIGN ensemble ajusté blouson en texture gaufrée olive - kaki",
-    "brand": "ASOS DESIGN",
-    "store": "ASOS",
-    "type": "set",
-    "gender": "homme",
-    "price": 64.99,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "casual"
-    ],
-    "colors": [
-      "vert",
-      "kaki"
-    ],
-    "fits": [
-      "regular"
-    ],
-    "sizes": [],
-    "image": "https://images.asos-media.com/products/asos-design-ensemble-ajuste-blouson-en-texture-gaufree-olive-kaki/210204523-1-olive",
-    "url": "https://www.asos.com/fr/asos-design/asos-design-ensemble-bouffant-elegant-en-tissu-gaufre-olive/grp/211467622#colourWayId-210204524&productId-210204523",
     "verified": "Donnée publique ASOS"
   },
   {
@@ -18054,31 +18023,6 @@
     "verified": "Donnée publique ASOS"
   },
   {
-    "id": "asos-210204698",
-    "name": "ASOS DESIGN pantalon fuselé d’ensemble tailleur en texture gaufrée olive - kaki",
-    "brand": "ASOS DESIGN",
-    "store": "ASOS",
-    "type": "set",
-    "gender": "homme",
-    "price": 49.99,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "casual"
-    ],
-    "colors": [
-      "vert",
-      "kaki"
-    ],
-    "fits": [
-      "regular"
-    ],
-    "sizes": [],
-    "image": "https://images.asos-media.com/products/asos-design-pantalon-fusele-densemble-tailleur-en-texture-gaufree-olive-kaki/210204698-1-olive",
-    "url": "https://www.asos.com/fr/asos-design/asos-design-ensemble-bouffant-elegant-en-tissu-gaufre-olive/grp/211467622#colourWayId-210204699&productId-210204698",
-    "verified": "Donnée publique ASOS"
-  },
-  {
     "id": "asos-210823771",
     "name": "ASOS DESIGN veste Harrington ajustée en coton noir - BLACK",
     "brand": "ASOS DESIGN",
@@ -18151,27 +18095,27 @@
     "verified": "Donnée publique ASOS"
   },
   {
-    "id": "asos-211526087",
-    "name": "CAPO surchemise utilitaire coordonnée en kaki",
-    "brand": "CAPO",
+    "id": "asos-212026128",
+    "name": "Abercrombie & Fitch bas de pyjama coordonné en flanelle à carreaux rouges",
+    "brand": "Abercrombie & Fitch",
     "store": "ASOS",
     "type": "set",
     "gender": "homme",
-    "price": 66.0,
+    "price": 45.0,
     "quality": 7,
     "deliveryDays": 4,
     "styles": [
       "casual"
     ],
     "colors": [
-      "kaki"
+      "rouge"
     ],
     "fits": [
       "regular"
     ],
     "sizes": [],
-    "image": "https://images.asos-media.com/products/capo-surchemise-utilitaire-coordonnee-en-kaki/211526087-1-khaki",
-    "url": "https://www.asos.com/fr/capo/capo-ensemble-surchemise-utilitaire-et-pantalon-cargo-kaki/grp/211957625#colourWayId-211526092&productId-211526087",
+    "image": "https://images.asos-media.com/products/abercrombie-fitch-bas-de-pyjama-coordonne-en-flanelle-a-carreaux-rouges/212026128-1-red",
+    "url": "https://www.asos.com/fr/abercrombie-fitch/abercrombie-fitch-pyjama-en-flanelle-a-carreaux-ecossais-rouge/grp/212030414#colourWayId-212026131&productId-212026128",
     "verified": "Donnée publique ASOS"
   },
   {
@@ -18271,52 +18215,27 @@
     "verified": "Donnée publique ASOS"
   },
   {
-    "id": "asos-211086160",
-    "name": "Calvin Klein - Pantalon de jogging d'ensemble en tissu gaufré - Olive",
-    "brand": "Calvin Klein",
+    "id": "asos-211069446",
+    "name": "Calvin Klein Jeans - Jean baggy d'ensemble à surpiqûres - Bleu indigo",
+    "brand": "Calvin Klein Jeans",
     "store": "ASOS",
     "type": "set",
     "gender": "homme",
-    "price": 119.9,
+    "price": 149.9,
     "quality": 7,
     "deliveryDays": 4,
     "styles": [
       "casual"
     ],
     "colors": [
-      "vert"
+      "bleu"
     ],
     "fits": [
-      "regular"
+      "baggy"
     ],
     "sizes": [],
-    "image": "https://images.asos-media.com/products/calvin-klein-pantalon-de-jogging-densemble-en-tissu-gaufre-olive/211086160-1-olive",
-    "url": "https://www.asos.com/fr/calvin-klein/calvin-klein-ensemble-ras-de-cou-en-tissu-gaufre-olive/grp/211407299#colourWayId-211086161&productId-211086160",
-    "verified": "Donnée publique ASOS"
-  },
-  {
-    "id": "asos-211086139",
-    "name": "Calvin Klein t-shirt à manches longues en maille gaufrée, ensemble assorti, avec motif central, kaki",
-    "brand": "Calvin Klein",
-    "store": "ASOS",
-    "type": "set",
-    "gender": "homme",
-    "price": 119.9,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "casual"
-    ],
-    "colors": [
-      "vert",
-      "kaki"
-    ],
-    "fits": [
-      "regular"
-    ],
-    "sizes": [],
-    "image": "https://images.asos-media.com/products/calvin-klein-t-shirt-a-manches-longues-en-maille-gaufree-ensemble-assorti-avec-motif-central-kaki/211086139-1-olive",
-    "url": "https://www.asos.com/fr/calvin-klein/calvin-klein-ensemble-ras-de-cou-en-tissu-gaufre-olive/grp/211407299#colourWayId-211086144&productId-211086139",
+    "image": "https://images.asos-media.com/products/calvin-klein-jeans-jean-baggy-densemble-a-surpiqures-bleu-indigo/211069446-1-indigo",
+    "url": "https://www.asos.com/fr/calvin-klein-jeans/calvin-klein-jeans-ensemble-veste-camionneur-classique-en-denim-et-jean-bleu-indigo/grp/212049876#colourWayId-211069464&productId-211069446",
     "verified": "Donnée publique ASOS"
   },
   {
@@ -18417,37 +18336,13 @@
     "verified": "Donnée publique ASOS"
   },
   {
-    "id": "asos-210899008",
-    "name": "Kaiia exclusivité bomber tactique coordonné à col cheminée avec poches et taille cintrée en charbon",
+    "id": "asos-211148742",
+    "name": "Kaiia exclusivité ensemble 2 pièces bomber en satin à col montant et ourlet ballon couleur chocolat",
     "brand": "Kaiia",
     "store": "ASOS",
     "type": "set",
     "gender": "femme",
-    "price": 47.99,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "casual"
-    ],
-    "colors": [
-      "anthracite"
-    ],
-    "fits": [
-      "regular"
-    ],
-    "sizes": [],
-    "image": "https://images.asos-media.com/products/kaiia-exclusivite-bomber-tactique-coordonne-a-col-cheminee-avec-poches-et-taille-cintree-en-charbon/210899008-1-charcoal",
-    "url": "https://www.asos.com/fr/kaiia/exclusivite-kaiia-ensemble-bomber-cintre-a-la-taille-a-col-cheminee-et-poche-avec-pantalon-anthracite/grp/211481365#colourWayId-210899013&productId-210899008",
-    "verified": "Donnée publique ASOS"
-  },
-  {
-    "id": "asos-211148694",
-    "name": "Kaiia exclusivité ensemble 2 pièces bomber en satin à col montant et ourlet ballon couleur crème",
-    "brand": "Kaiia",
-    "store": "ASOS",
-    "type": "set",
-    "gender": "femme",
-    "price": 74.99,
+    "price": 87.99,
     "quality": 7,
     "deliveryDays": 4,
     "styles": [
@@ -18455,15 +18350,14 @@
       "chic"
     ],
     "colors": [
-      "beige",
       "marron"
     ],
     "fits": [
       "regular"
     ],
     "sizes": [],
-    "image": "https://images.asos-media.com/products/kaiia-exclusivite-ensemble-2-pieces-bomber-en-satin-a-col-montant-et-ourlet-ballon-couleur-creme/211148694-1-cream",
-    "url": "https://www.asos.com/fr/kaiia/exclusivite-kaiia-bomber-a-ourlet-boule-et-col-cheminee-en-satin-et-jupe-creme/grp/211836568#colourWayId-211148709&productId-211148694",
+    "image": "https://images.asos-media.com/products/kaiia-exclusivite-ensemble-2-pieces-bomber-en-satin-a-col-montant-et-ourlet-ballon-couleur-chocolat/211148742-1-chocolate",
+    "url": "https://www.asos.com/fr/kaiia/exclusivite-kaiia-bomber-a-ourlet-boule-et-col-cheminee-et-jupe-en-satin-chocolat/grp/211836572#colourWayId-211148743&productId-211148742",
     "verified": "Donnée publique ASOS"
   },
   {
@@ -18512,6 +18406,55 @@
     "sizes": [],
     "image": "https://images.asos-media.com/products/lioness-haut-coordonne-a-manches-longues-avec-bordure-en-fausse-fourrure-imprime-zebre-noir/211835687-1-nerozebra",
     "url": "https://www.asos.com/fr/lioness/lioness-ensemble-avec-mini-jupe-en-satin-martini-et-top-manches-longues-en-fausse-fourrure-a-zebrures-dynasty-noir/grp/212100781#colourWayId-211835689&productId-211835687",
+    "verified": "Donnée publique ASOS"
+  },
+  {
+    "id": "asos-211583065",
+    "name": "Liquor N Poker chemise zippée ornée coupe standard grise",
+    "brand": "Liquor N Poker",
+    "store": "ASOS",
+    "type": "set",
+    "gender": "homme",
+    "price": 48.0,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual"
+    ],
+    "colors": [
+      "gris",
+      "marron"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://images.asos-media.com/products/liquor-n-poker-chemise-zippee-ornee-coupe-standard-grise/211583065-1-grey",
+    "url": "https://www.asos.com/fr/liquor-n-poker/liquor-n-poker-ensemble-chemise-ornementee-a-fermeture-eclair-et-jean-baggy-gris/grp/212079552#colourWayId-211583072&productId-211583065",
+    "verified": "Donnée publique ASOS"
+  },
+  {
+    "id": "asos-211583081",
+    "name": "Liquor N Poker ensemble coordonné veste à fermoir type pompier rayé marron chocolat",
+    "brand": "Liquor N Poker",
+    "store": "ASOS",
+    "type": "set",
+    "gender": "homme",
+    "price": 72.0,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual"
+    ],
+    "colors": [
+      "marron"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://images.asos-media.com/products/liquor-n-poker-ensemble-coordonne-veste-a-fermoir-type-pompier-raye-marron-chocolat/211583081-1-chocolatebrown",
+    "url": "https://www.asos.com/fr/liquor-n-poker/liquor-n-poker-ensemble-a-rayures-avec-jean-et-veste-a-fermoirs-mousqueton-marron/grp/211911053#colourWayId-211583088&productId-211583081",
     "verified": "Donnée publique ASOS"
   },
   {
@@ -18631,7 +18574,7 @@
     ],
     "sizes": [],
     "image": "https://images.asos-media.com/products/mango-teen-jorge-ensemble-coordonne-pantalon-droit-ajuste-noir/211865191-1-black",
-    "url": "https://www.asos.com/fr/mango/mango-teen-jorge-ensemble-coordonne-pantalon-droit-ajuste-noir/grp/212150882#colourWayId-211865192&productId-211865191",
+    "url": "https://www.asos.com/fr/mango/mango-teen-jorge-ensemble-blazer-ajuste-et-pantalon-noir/grp/212150882#colourWayId-211865192&productId-211865191",
     "verified": "Donnée publique ASOS"
   },
   {
@@ -18782,30 +18725,6 @@
     "verified": "Donnée publique ASOS"
   },
   {
-    "id": "asos-210900602",
-    "name": "Pieces - Pantalon d'ensemble ample et ajusté à taille nouée - Marron chocolat",
-    "brand": "Pieces",
-    "store": "ASOS",
-    "type": "set",
-    "gender": "femme",
-    "price": 42.99,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "casual"
-    ],
-    "colors": [
-      "marron"
-    ],
-    "fits": [
-      "regular"
-    ],
-    "sizes": [],
-    "image": "https://images.asos-media.com/products/pieces-pantalon-densemble-ample-et-ajuste-a-taille-nouee-marron-chocolat/210900602-1-hotfudge",
-    "url": "https://www.asos.com/fr/pieces/pieces-ensemble-blazer-ajuste-oversize-et-pantalon-large-noue-a-la-taille-marron-chocolat/grp/211730754#colourWayId-210900603&productId-210900602",
-    "verified": "Donnée publique ASOS"
-  },
-  {
     "id": "asos-211403942",
     "name": "Pieces veste coordonnée en satin à fermeture style mandarin couleur champagne",
     "brand": "Pieces",
@@ -18903,6 +18822,30 @@
     "verified": "Donnée publique ASOS"
   },
   {
+    "id": "asos-211676577",
+    "name": "Pull&Bear veste zippée effet néoprène gris chiné",
+    "brand": "Pull&Bear",
+    "store": "ASOS",
+    "type": "set",
+    "gender": "homme",
+    "price": 39.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual"
+    ],
+    "colors": [
+      "gris"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://images.asos-media.com/products/pullbear-veste-zippee-effet-neoprene-gris-chine/211676577-1-greymarl",
+    "url": "https://www.asos.com/fr/pullbear/pullbear-ensemble-decontracte-gris-chine/grp/211781635#colourWayId-211676605&productId-211676577",
+    "verified": "Donnée publique ASOS"
+  },
+  {
     "id": "asos-211340285",
     "name": "Reclaimed Vintage Limited Edition ensemble coordonné veste de costume oversize rouille à bords effilochés",
     "brand": "Reclaimed Vintage",
@@ -18979,6 +18922,31 @@
     "verified": "Donnée publique ASOS"
   },
   {
+    "id": "asos-211371560",
+    "name": "Reclaimed Vintage jogging unisexe épais à jambe barrel gris chiné",
+    "brand": "Reclaimed Vintage",
+    "store": "ASOS",
+    "type": "set",
+    "gender": "homme",
+    "price": 39.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual",
+      "vintage"
+    ],
+    "colors": [
+      "gris"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://images.asos-media.com/products/reclaimed-vintage-jogging-unisexe-epais-a-jambe-barrel-gris-chine/211371560-1-greymarl",
+    "url": "https://www.asos.com/fr/reclaimed-vintage/reclaimed-vintage-survetement-unisexe-en-tissu-epais-gris-chine/grp/212125746#colourWayId-211371561&productId-211371560",
+    "verified": "Donnée publique ASOS"
+  },
+  {
     "id": "asos-211340222",
     "name": "Reclaimed Vintage édition limitée ensemble coordonné pantalon de costume oversize vert olive avec finitions effilochées",
     "brand": "Reclaimed Vintage",
@@ -19002,6 +18970,31 @@
     "sizes": [],
     "image": "https://images.asos-media.com/products/reclaimed-vintage-edition-limitee-ensemble-coordonne-pantalon-de-costume-oversize-vert-olive-avec-finitions-effilochees/211340222-1-khaki",
     "url": "https://www.asos.com/fr/reclaimed-vintage/reclaimed-vintage-edition-limitee-costume-oversize-a-details-franges-olive/grp/212106705#colourWayId-211340238&productId-211340222",
+    "verified": "Donnée publique ASOS"
+  },
+  {
+    "id": "asos-210680535",
+    "name": "Ruched & Ready - Made You Look - Legging d'ensemble effet sculptant - Noir ultra brillant",
+    "brand": "Ruched & Ready",
+    "store": "ASOS",
+    "type": "set",
+    "gender": "femme",
+    "price": 65.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual"
+    ],
+    "colors": [
+      "noir",
+      "marron"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://images.asos-media.com/products/ruched-ready-made-you-look-legging-densemble-effet-sculptant-noir-ultra-brillant/210680535-1-black",
+    "url": "https://www.asos.com/fr/ruched-ready/ruched-ready-made-you-look-ensemble-ultra-brillant-et-sculptant-avec-body-dos-nu-a-decollete-en-coeur-et-legging-noir/grp/211256180#colourWayId-210680536&productId-210680535",
     "verified": "Donnée publique ASOS"
   },
   {
@@ -19076,30 +19069,6 @@
     "sizes": [],
     "image": "https://images.asos-media.com/products/topshop-ensemble-pantalon-plisse-a-carreaux/211462223-1-brown",
     "url": "https://www.asos.com/fr/topshop/topshop-top-a-encolure-asymetrique-et-pantalon-plisse-a-carreaux/grp/211549289#colourWayId-211462226&productId-211462223",
-    "verified": "Donnée publique ASOS"
-  },
-  {
-    "id": "asos-211166069",
-    "name": "True Religion jean coupe loose Ricky à poches à rabat et surpiqûres corde, délavage bleu usé",
-    "brand": "True Religion",
-    "store": "ASOS",
-    "type": "set",
-    "gender": "homme",
-    "price": 203.0,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "casual"
-    ],
-    "colors": [
-      "bleu"
-    ],
-    "fits": [
-      "regular"
-    ],
-    "sizes": [],
-    "image": "https://images.asos-media.com/products/true-religion-jean-coupe-loose-ricky-a-poches-a-rabat-et-surpiqures-corde-delavage-bleu-use/211166069-1-dirtywashblue",
-    "url": "https://www.asos.com/fr/true-religion/true-religion-jimmy-veste-camionneur-oversize-a-surpiqures-corde-contrastantes-bleu/grp/212092334#colourWayId-211166075&productId-211166069",
     "verified": "Donnée publique ASOS"
   },
   {
@@ -19226,6 +19195,30 @@
     "verified": "Donnée publique ASOS"
   },
   {
+    "id": "asos-210781541",
+    "name": "ASOS DESIGN - Chemise oversize à carreaux avec col contrastant",
+    "brand": "ASOS DESIGN",
+    "store": "ASOS",
+    "type": "shirt",
+    "gender": "femme",
+    "price": 37.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual"
+    ],
+    "colors": [
+      "marron"
+    ],
+    "fits": [
+      "oversize"
+    ],
+    "sizes": [],
+    "image": "https://images.asos-media.com/products/asos-design-chemise-oversize-a-carreaux-avec-col-contrastant/210781541-1-check",
+    "url": "https://www.asos.com/fr/asos-design/asos-design-chemise-oversize-a-carreaux-avec-col-contrastant/prd/210781541#colourWayId-210781548",
+    "verified": "Donnée publique ASOS"
+  },
+  {
     "id": "asos-209715068",
     "name": "ASOS DESIGN - Chemise rayée en lin mélangé - Bleu",
     "brand": "ASOS DESIGN",
@@ -19295,30 +19288,6 @@
     "sizes": [],
     "image": "https://images.asos-media.com/products/asos-design-chemise-a-carreaux-jaune-delave/210856742-1-yellowcheck",
     "url": "https://www.asos.com/fr/asos-design/asos-design-chemise-a-carreaux-jaune-delave/prd/210856742#colourWayId-210856749",
-    "verified": "Donnée publique ASOS"
-  },
-  {
-    "id": "asos-211062053",
-    "name": "ASOS DESIGN chemise cintrée à la taille à rayures bordeaux",
-    "brand": "ASOS DESIGN",
-    "store": "ASOS",
-    "type": "shirt",
-    "gender": "femme",
-    "price": 44.99,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "casual"
-    ],
-    "colors": [
-      "bordeaux"
-    ],
-    "fits": [
-      "regular"
-    ],
-    "sizes": [],
-    "image": "https://images.asos-media.com/products/asos-design-chemise-cintree-a-la-taille-a-rayures-bordeaux/211062053-1-burgundystripe",
-    "url": "https://www.asos.com/fr/asos-design/asos-design-chemise-cintree-a-la-taille-a-rayures-bordeaux/prd/211062053#colourWayId-211062067",
     "verified": "Donnée publique ASOS"
   },
   {
@@ -19465,6 +19434,30 @@
     "sizes": [],
     "image": "https://images.asos-media.com/products/asos-design-chemise-oversize-a-carreaux-verts-brossee/210836845-1-greencheck",
     "url": "https://www.asos.com/fr/asos-design/asos-design-chemise-oversize-a-carreaux-verts-brossee/prd/210836845#colourWayId-210836846",
+    "verified": "Donnée publique ASOS"
+  },
+  {
+    "id": "asos-211038828",
+    "name": "ASOS DESIGN chemise oversize à ourlet plongeant à carreaux bleus",
+    "brand": "ASOS DESIGN",
+    "store": "ASOS",
+    "type": "shirt",
+    "gender": "femme",
+    "price": 39.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual"
+    ],
+    "colors": [
+      "bleu"
+    ],
+    "fits": [
+      "oversize"
+    ],
+    "sizes": [],
+    "image": "https://images.asos-media.com/products/asos-design-chemise-oversize-a-ourlet-plongeant-a-carreaux-bleus/211038828-1-bluecheck",
+    "url": "https://www.asos.com/fr/asos-design/asos-design-chemise-oversize-a-ourlet-plongeant-a-carreaux-bleus/prd/211038828#colourWayId-211038831",
     "verified": "Donnée publique ASOS"
   },
   {
@@ -19758,30 +19751,6 @@
     "verified": "Donnée publique ASOS"
   },
   {
-    "id": "asos-211657549",
-    "name": "Bershka t-shirt à manches longues froncé bordeaux",
-    "brand": "Bershka",
-    "store": "ASOS",
-    "type": "shirt",
-    "gender": "femme",
-    "price": 17.99,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "casual"
-    ],
-    "colors": [
-      "bordeaux"
-    ],
-    "fits": [
-      "regular"
-    ],
-    "sizes": [],
-    "image": "https://images.asos-media.com/products/bershka-t-shirt-a-manches-longues-fronce-bordeaux/211657549-1-burgundy",
-    "url": "https://www.asos.com/fr/bershka/bershka-t-shirt-a-manches-longues-fronce-bordeaux/prd/211657549#colourWayId-211657560",
-    "verified": "Donnée publique ASOS"
-  },
-  {
     "id": "asos-211657570",
     "name": "Bershka t-shirt à manches longues froncé en blanc",
     "brand": "Bershka",
@@ -19879,31 +19848,6 @@
     "sizes": [],
     "image": "https://images.asos-media.com/products/carhartt-wip-lucas-chemise-en-jean-a-manches-longues-bleu-stonewash/211063712-1-blue",
     "url": "https://www.asos.com/fr/carhartt-wip/carhartt-wip-lucas-chemise-en-jean-a-manches-longues-bleu-stonewash/prd/211063712#colourWayId-211063722",
-    "verified": "Donnée publique ASOS"
-  },
-  {
-    "id": "asos-211063981",
-    "name": "Carhartt WIP chemise Bagley à carreaux marron",
-    "brand": "Carhartt WIP",
-    "store": "ASOS",
-    "type": "shirt",
-    "gender": "homme",
-    "price": 119.0,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "casual",
-      "workwear"
-    ],
-    "colors": [
-      "marron"
-    ],
-    "fits": [
-      "regular"
-    ],
-    "sizes": [],
-    "image": "https://images.asos-media.com/products/carhartt-wip-chemise-bagley-a-carreaux-marron/211063981-1-brown",
-    "url": "https://www.asos.com/fr/carhartt-wip/carhartt-wip-chemise-bagley-a-carreaux-marron/prd/211063981#colourWayId-211063991",
     "verified": "Donnée publique ASOS"
   },
   {
@@ -20079,6 +20023,30 @@
     "verified": "Donnée publique ASOS"
   },
   {
+    "id": "asos-211875078",
+    "name": "Jack & Jones Joe chemise coupe slim à col italien à manches longues blanche",
+    "brand": "Jack & Jones",
+    "store": "ASOS",
+    "type": "shirt",
+    "gender": "homme",
+    "price": 29.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual"
+    ],
+    "colors": [
+      "blanc"
+    ],
+    "fits": [
+      "slim"
+    ],
+    "sizes": [],
+    "image": "https://images.asos-media.com/products/jack-jones-joe-chemise-coupe-slim-a-col-italien-a-manches-longues-blanche/211875078-1-white",
+    "url": "https://www.asos.com/fr/jack-jones/jack-jones-joe-chemise-coupe-slim-a-col-italien-a-manches-longues-blanche/prd/211875078#colourWayId-211875086",
+    "verified": "Donnée publique ASOS"
+  },
+  {
     "id": "asos-211940298",
     "name": "Jack & Jones Joe chemise coupe slim à col italien à manches longues bleue",
     "brand": "Jack & Jones",
@@ -20221,6 +20189,30 @@
     "sizes": [],
     "image": "https://images.asos-media.com/products/jack-jones-surchemise-brossee-a-carreaux-noirs/210399751-1-asphaltcheck",
     "url": "https://www.asos.com/fr/jack-jones/jack-jones-surchemise-brossee-a-carreaux-noirs/prd/210399751#colourWayId-210399752",
+    "verified": "Donnée publique ASOS"
+  },
+  {
+    "id": "asos-210399662",
+    "name": "Jack & Jones surchemise brossée à carreaux vert foncé",
+    "brand": "Jack & Jones",
+    "store": "ASOS",
+    "type": "shirt",
+    "gender": "homme",
+    "price": 49.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual"
+    ],
+    "colors": [
+      "vert"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://images.asos-media.com/products/jack-jones-surchemise-brossee-a-carreaux-vert-fonce/210399662-1-olivenightcheck",
+    "url": "https://www.asos.com/fr/jack-jones/jack-jones-surchemise-brossee-a-carreaux-vert-fonce/prd/210399662#colourWayId-210399664",
     "verified": "Donnée publique ASOS"
   },
   {
@@ -20418,37 +20410,13 @@
     "verified": "Donnée publique ASOS"
   },
   {
-    "id": "asos-211617571",
-    "name": "ONLY & SONS chemise relaxed fit à rayures marron",
-    "brand": "ONLY & SONS",
-    "store": "ASOS",
-    "type": "shirt",
-    "gender": "homme",
-    "price": 30.99,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "casual"
-    ],
-    "colors": [
-      "marron"
-    ],
-    "fits": [
-      "relaxed"
-    ],
-    "sizes": [],
-    "image": "https://images.asos-media.com/products/only-sons-chemise-relaxed-fit-a-rayures-marron/211617571-1-coffeebranfog",
-    "url": "https://www.asos.com/fr/only-sons/only-sons-chemise-relaxed-fit-a-rayures-marron/prd/211617571#colourWayId-211617573",
-    "verified": "Donnée publique ASOS"
-  },
-  {
     "id": "asos-210899943",
     "name": "ONLY & SONS chemise texturée à manches longues en mélange de lin coordonnée bleu délavé",
     "brand": "ONLY & SONS",
     "store": "ASOS",
     "type": "shirt",
     "gender": "homme",
-    "price": 39.99,
+    "price": 31.95,
     "quality": 7,
     "deliveryDays": 4,
     "styles": [
@@ -20611,6 +20579,31 @@
     "verified": "Donnée publique ASOS"
   },
   {
+    "id": "asos-210717128",
+    "name": "Reclaimed Vintage - Chemise à rayures ton sur ton avec double patte de boutonnage",
+    "brand": "Reclaimed Vintage",
+    "store": "ASOS",
+    "type": "shirt",
+    "gender": "homme",
+    "price": 19.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual",
+      "vintage"
+    ],
+    "colors": [
+      "multicolore"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://images.asos-media.com/products/reclaimed-vintage-chemise-a-rayures-ton-sur-ton-avec-double-patte-de-boutonnage/210717128-1-multi",
+    "url": "https://www.asos.com/fr/reclaimed-vintage/reclaimed-vintage-chemise-a-rayures-ton-sur-ton-avec-double-patte-de-boutonnage/prd/210717128#colourWayId-210717130",
+    "verified": "Donnée publique ASOS"
+  },
+  {
     "id": "asos-211574804",
     "name": "Reclaimed Vintage chemise boxy à manches courtes à carreaux assemblés",
     "brand": "Reclaimed Vintage",
@@ -20756,31 +20749,6 @@
     "sizes": [],
     "image": "https://images.asos-media.com/products/threadbare-chemise-coupe-regular-en-velours-cotele-fin-bleu-marine/211556966-1-navy",
     "url": "https://www.asos.com/fr/threadbare/threadbare-chemise-coupe-regular-en-velours-cotele-fin-bleu-marine/prd/211556966#colourWayId-211556968",
-    "verified": "Donnée publique ASOS"
-  },
-  {
-    "id": "asos-211093091",
-    "name": "Tommy Jeans chemise Oxford en coton bleu marine",
-    "brand": "Tommy Jeans",
-    "store": "ASOS",
-    "type": "shirt",
-    "gender": "homme",
-    "price": 64.99,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "casual"
-    ],
-    "colors": [
-      "bleu-marine",
-      "bleu"
-    ],
-    "fits": [
-      "regular"
-    ],
-    "sizes": [],
-    "image": "https://images.asos-media.com/products/tommy-jeans-chemise-oxford-en-coton-bleu-marine/211093091-1-darkblue",
-    "url": "https://www.asos.com/fr/tommy-jeans/tommy-jeans-chemise-oxford-en-coton-bleu-marine/prd/211093091#colourWayId-211093093",
     "verified": "Donnée publique ASOS"
   },
   {
@@ -21194,30 +21162,6 @@
     "sizes": [],
     "image": "https://images.asos-media.com/products/asos-design-short-oversize-mi-long-basique-en-jersey-beige/210337106-1-mochameringue",
     "url": "https://www.asos.com/fr/asos-design/asos-design-short-oversize-mi-long-basique-en-jersey-beige/prd/210337106#colourWayId-210337109",
-    "verified": "Donnée publique ASOS"
-  },
-  {
-    "id": "asos-211822355",
-    "name": "ASOS DESIGN Bermuda en imprimé camouflage",
-    "brand": "ASOS DESIGN",
-    "store": "ASOS",
-    "type": "short",
-    "gender": "femme",
-    "price": 39.99,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "casual"
-    ],
-    "colors": [
-      "camouflage"
-    ],
-    "fits": [
-      "regular"
-    ],
-    "sizes": [],
-    "image": "https://images.asos-media.com/products/asos-design-bermuda-en-imprime-camouflage/211822355-1-camo",
-    "url": "https://www.asos.com/fr/asos-design/asos-design-bermuda-en-imprime-camouflage/prd/211822355#colourWayId-211822357",
     "verified": "Donnée publique ASOS"
   },
   {
@@ -22313,6 +22257,30 @@
     "verified": "Donnée publique ASOS"
   },
   {
+    "id": "asos-211849986",
+    "name": "Stradivarius short bermuda habillé à jambe large à pinces noir",
+    "brand": "Stradivarius",
+    "store": "ASOS",
+    "type": "short",
+    "gender": "femme",
+    "price": 29.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual"
+    ],
+    "colors": [
+      "noir"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://images.asos-media.com/products/stradivarius-short-bermuda-habille-a-jambe-large-a-pinces-noir/211849986-1-black",
+    "url": "https://www.asos.com/fr/stradivarius/stradivarius-short-bermuda-habille-a-jambe-large-a-pinces-noir/prd/211849986#colourWayId-211849988",
+    "verified": "Donnée publique ASOS"
+  },
+  {
     "id": "asos-212055595",
     "name": "Stradivarius short bermuda à pinces noir",
     "brand": "Stradivarius",
@@ -22653,30 +22621,6 @@
     "sizes": [],
     "image": "https://images.asos-media.com/products/arrange-jupe-longue-ample-en-denim-avec-details-de-surpiqures-indigo/211462630-1-indigo",
     "url": "https://www.asos.com/fr/arrange/arrange-jupe-longue-ample-en-denim-avec-details-de-surpiqures-indigo/prd/211462630#colourWayId-211462633",
-    "verified": "Donnée publique ASOS"
-  },
-  {
-    "id": "asos-210036833",
-    "name": "ASOS DESIGN - Jupe longue avec taille froncée - Vichy",
-    "brand": "ASOS DESIGN",
-    "store": "ASOS",
-    "type": "skirt",
-    "gender": "femme",
-    "price": 11.99,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "casual"
-    ],
-    "colors": [
-      "vichy"
-    ],
-    "fits": [
-      "regular"
-    ],
-    "sizes": [],
-    "image": "https://images.asos-media.com/products/asos-design-jupe-longue-avec-taille-froncee-vichy/210036833-1-gingham",
-    "url": "https://www.asos.com/fr/asos-design/asos-design-jupe-longue-avec-taille-froncee-vichy/prd/210036833#colourWayId-210036838",
     "verified": "Donnée publique ASOS"
   },
   {
@@ -23188,6 +23132,31 @@
     "verified": "Donnée publique ASOS"
   },
   {
+    "id": "asos-211685146",
+    "name": "Lace & Beads jupe longue satinée taille haute ample noire",
+    "brand": "Lace & Beads",
+    "store": "ASOS",
+    "type": "skirt",
+    "gender": "femme",
+    "price": 79.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual",
+      "chic"
+    ],
+    "colors": [
+      "noir"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://images.asos-media.com/products/lace-beads-jupe-longue-satinee-taille-haute-ample-noire/211685146-1-black",
+    "url": "https://www.asos.com/fr/lace-beads/lace-beads-jupe-longue-satinee-taille-haute-ample-noire/prd/211685146#colourWayId-211685148",
+    "verified": "Donnée publique ASOS"
+  },
+  {
     "id": "asos-211549996",
     "name": "Mango jupe midi noire",
     "brand": "Mango",
@@ -23285,30 +23254,6 @@
     "verified": "Donnée publique ASOS"
   },
   {
-    "id": "asos-211686108",
-    "name": "Stradivarius jupe midi en denim délavage moyen",
-    "brand": "Stradivarius",
-    "store": "ASOS",
-    "type": "skirt",
-    "gender": "femme",
-    "price": 29.99,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "casual"
-    ],
-    "colors": [
-      "bleu"
-    ],
-    "fits": [
-      "regular"
-    ],
-    "sizes": [],
-    "image": "https://images.asos-media.com/products/stradivarius-jupe-midi-en-denim-delavage-moyen/211686108-1-mediumdenimwash",
-    "url": "https://www.asos.com/fr/stradivarius/stradivarius-jupe-midi-en-denim-delavage-moyen/prd/211686108#colourWayId-211686131",
-    "verified": "Donnée publique ASOS"
-  },
-  {
     "id": "asos-211806156",
     "name": "Stradivarius jupe midi en tulle gris foncé",
     "brand": "Stradivarius",
@@ -23403,6 +23348,30 @@
     "sizes": [],
     "image": "https://images.asos-media.com/products/topshop-jupe-longue-colonne-surpiquee-couleur-camel/211101118-1-tan",
     "url": "https://www.asos.com/fr/topshop/topshop-jupe-longue-colonne-surpiquee-couleur-camel/prd/211101118#colourWayId-211101127",
+    "verified": "Donnée publique ASOS"
+  },
+  {
+    "id": "asos-211476925",
+    "name": "Topshop jupe longue plissée à empiècement en noir délavé",
+    "brand": "Topshop",
+    "store": "ASOS",
+    "type": "skirt",
+    "gender": "femme",
+    "price": 74.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual"
+    ],
+    "colors": [
+      "noir"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://images.asos-media.com/products/topshop-jupe-longue-plissee-a-empiecement-en-noir-delave/211476925-1-black",
+    "url": "https://www.asos.com/fr/topshop/topshop-jupe-longue-plissee-a-empiecement-en-noir-delave/prd/211476925#colourWayId-211476929",
     "verified": "Donnée publique ASOS"
   },
   {
@@ -23940,13 +23909,13 @@
     "verified": "Donnée publique ASOS"
   },
   {
-    "id": "asos-210331427",
-    "name": "New Balance - Baskets 740 - Noir",
+    "id": "asos-210326449",
+    "name": "New Balance - 740 - Baskets - Marron",
     "brand": "New Balance",
     "store": "ASOS",
     "type": "sneakers",
     "gender": "homme",
-    "price": 79.99,
+    "price": 130.0,
     "quality": 7,
     "deliveryDays": 4,
     "styles": [
@@ -23955,14 +23924,14 @@
       "sport"
     ],
     "colors": [
-      "noir"
+      "marron"
     ],
     "fits": [
       "regular"
     ],
     "sizes": [],
-    "image": "https://images.asos-media.com/products/new-balance-baskets-740-noir/210331427-1-black",
-    "url": "https://www.asos.com/fr/new-balance/new-balance-baskets-740-noir/prd/210331427#colourWayId-210331429",
+    "image": "https://images.asos-media.com/products/new-balance-740-baskets-marron/210326449-1-brown",
+    "url": "https://www.asos.com/fr/new-balance/new-balance-740-baskets-marron/prd/210326449#colourWayId-210326455",
     "verified": "Donnée publique ASOS"
   },
   {
@@ -25120,6 +25089,30 @@
     "verified": "Donnée publique ASOS"
   },
   {
+    "id": "asos-211007254",
+    "name": "ASOS DESIGN - Lunettes de soleil enveloppantes avec monture enveloppante - Noir",
+    "brand": "ASOS DESIGN",
+    "store": "ASOS",
+    "type": "sunglasses",
+    "gender": "homme",
+    "price": 17.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual"
+    ],
+    "colors": [
+      "noir"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://images.asos-media.com/products/asos-design-lunettes-de-soleil-enveloppantes-avec-monture-enveloppante-noir/211007254-1-black",
+    "url": "https://www.asos.com/fr/asos-design/asos-design-lunettes-de-soleil-enveloppantes-avec-monture-enveloppante-noir/prd/211007254#colourWayId-211007255",
+    "verified": "Donnée publique ASOS"
+  },
+  {
     "id": "asos-211007278",
     "name": "ASOS DESIGN lunettes de mode rondes marron avec verres transparents filtrant la lumière bleue",
     "brand": "ASOS DESIGN",
@@ -25214,30 +25207,6 @@
     "sizes": [],
     "image": "https://images.asos-media.com/products/asos-design-lunettes-de-soleil-enveloppantes-a-monture-metallique-argentee-avec-verres-miroir/211075900-1-silver",
     "url": "https://www.asos.com/fr/asos-design/asos-design-lunettes-de-soleil-enveloppantes-a-monture-metallique-argentee-avec-verres-miroir/prd/211075900#colourWayId-211075908",
-    "verified": "Donnée publique ASOS"
-  },
-  {
-    "id": "asos-211028285",
-    "name": "ASOS DESIGN lunettes mode à monture métal argentée avec verres transparents anti-lumière bleue",
-    "brand": "ASOS DESIGN",
-    "store": "ASOS",
-    "type": "sunglasses",
-    "gender": "homme",
-    "price": 17.99,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "casual"
-    ],
-    "colors": [
-      "bleu"
-    ],
-    "fits": [
-      "regular"
-    ],
-    "sizes": [],
-    "image": "https://images.asos-media.com/products/asos-design-lunettes-mode-a-monture-metal-argentee-avec-verres-transparents-anti-lumiere-bleue/211028285-1-silver",
-    "url": "https://www.asos.com/fr/asos-design/asos-design-lunettes-mode-a-monture-metal-argentee-avec-verres-transparents-anti-lumiere-bleue/prd/211028285#colourWayId-211028286",
     "verified": "Donnée publique ASOS"
   },
   {
@@ -26035,6 +26004,32 @@
     "verified": "Donnée publique ASOS"
   },
   {
+    "id": "asos-209075059",
+    "name": "ASOS DESIGN - Essentials - Sweat décontracté - Anthracite",
+    "brand": "ASOS DESIGN",
+    "store": "ASOS",
+    "type": "sweatshirt",
+    "gender": "homme",
+    "price": 27.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual",
+      "streetwear",
+      "minimal"
+    ],
+    "colors": [
+      "ashpalte"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://images.asos-media.com/products/asos-design-essentials-sweat-decontracte-anthracite/209075059-1-ashpalt",
+    "url": "https://www.asos.com/fr/asos-design/asos-design-essentials-sweat-decontracte-anthracite/prd/209075059#colourWayId-209075065",
+    "verified": "Donnée publique ASOS"
+  },
+  {
     "id": "asos-211783296",
     "name": "ASOS DESIGN - Mix & Match - Sweat à envers brossé - Marron",
     "brand": "ASOS DESIGN",
@@ -26541,32 +26536,6 @@
     "verified": "Donnée publique ASOS"
   },
   {
-    "id": "asos-211048352",
-    "name": "ASOS DESIGN sweat-shirt en molleton gratté, col montant, taille cintrée, noir",
-    "brand": "ASOS DESIGN",
-    "store": "ASOS",
-    "type": "sweatshirt",
-    "gender": "femme",
-    "price": 29.99,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "casual",
-      "streetwear"
-    ],
-    "colors": [
-      "noir",
-      "marron"
-    ],
-    "fits": [
-      "regular"
-    ],
-    "sizes": [],
-    "image": "https://images.asos-media.com/products/asos-design-sweat-shirt-en-molleton-gratte-col-montant-taille-cintree-noir/211048352-1-black",
-    "url": "https://www.asos.com/fr/asos-design/asos-design-mix-match-sweat-a-envers-brosse-noir/grp/211784155#colourWayId-211048355&productId-211048352",
-    "verified": "Donnée publique ASOS"
-  },
-  {
     "id": "asos-211048311",
     "name": "ASOS DESIGN sweat-shirt oversize coupe carrée en molleton gratté kaki",
     "brand": "ASOS DESIGN",
@@ -26592,13 +26561,13 @@
     "verified": "Donnée publique ASOS"
   },
   {
-    "id": "asos-210115648",
-    "name": "ASOS DESIGN sweat-shirt oversize épais premium en jaune poussiéreux",
+    "id": "asos-209911139",
+    "name": "ASOS DESIGN sweat-shirt oversize coupe carrée à quart de zip avec col en gris chiné",
     "brand": "ASOS DESIGN",
     "store": "ASOS",
     "type": "sweatshirt",
     "gender": "homme",
-    "price": 39.99,
+    "price": 34.99,
     "quality": 7,
     "deliveryDays": 4,
     "styles": [
@@ -26606,15 +26575,39 @@
       "streetwear"
     ],
     "colors": [
-      "rose",
-      "jaune"
+      "gris"
     ],
     "fits": [
       "oversize"
     ],
     "sizes": [],
-    "image": "https://images.asos-media.com/products/asos-design-sweat-shirt-oversize-epais-premium-en-jaune-poussiereux/210115648-1-reedyellow",
-    "url": "https://www.asos.com/fr/asos-design/asos-design-sweat-shirt-oversize-epais-premium-en-jaune-poussiereux/prd/210115648#colourWayId-210115649",
+    "image": "https://images.asos-media.com/products/asos-design-sweat-shirt-oversize-coupe-carree-a-quart-de-zip-avec-col-en-gris-chine/209911139-1-greymarl",
+    "url": "https://www.asos.com/fr/asos-design/asos-design-sweat-shirt-oversize-coupe-carree-a-quart-de-zip-avec-col-en-gris-chine/prd/209911139#colourWayId-209911142",
+    "verified": "Donnée publique ASOS"
+  },
+  {
+    "id": "asos-208694105",
+    "name": "ASOS DESIGN sweat-shirt oversize épais premium gris chiné",
+    "brand": "ASOS DESIGN",
+    "store": "ASOS",
+    "type": "sweatshirt",
+    "gender": "homme",
+    "price": 34.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual",
+      "streetwear"
+    ],
+    "colors": [
+      "gris"
+    ],
+    "fits": [
+      "oversize"
+    ],
+    "sizes": [],
+    "image": "https://images.asos-media.com/products/asos-design-sweat-shirt-oversize-epais-premium-gris-chine/208694105-1-greymarl",
+    "url": "https://www.asos.com/fr/asos-design/asos-design-sweat-shirt-oversize-epais-premium-gris-chine/prd/208694105#colourWayId-208694107",
     "verified": "Donnée publique ASOS"
   },
   {
@@ -26694,13 +26687,13 @@
     "verified": "Donnée publique ASOS"
   },
   {
-    "id": "asos-211521842",
-    "name": "COLLUSION - Pantalon de jogging baggy oversize - Anthracite",
-    "brand": "Collusion",
+    "id": "asos-211832652",
+    "name": "Bershka sweat à capuche gris foncé",
+    "brand": "Bershka",
     "store": "ASOS",
     "type": "sweatshirt",
     "gender": "homme",
-    "price": 54.99,
+    "price": 25.99,
     "quality": 7,
     "deliveryDays": 4,
     "styles": [
@@ -26708,15 +26701,14 @@
       "streetwear"
     ],
     "colors": [
-      "noir"
+      "gris"
     ],
     "fits": [
-      "baggy",
-      "oversize"
+      "regular"
     ],
     "sizes": [],
-    "image": "https://images.asos-media.com/products/collusion-pantalon-de-jogging-baggy-oversize-anthracite/211521842-1-black",
-    "url": "https://www.asos.com/fr/collusion/collusion-pantalon-de-jogging-baggy-oversize-anthracite/prd/211521842#colourWayId-211521847",
+    "image": "https://images.asos-media.com/products/bershka-sweat-a-capuche-gris-fonce/211832652-1-darkgrey",
+    "url": "https://www.asos.com/fr/bershka/bershka-sweat-a-capuche-gris-fonce/prd/211832652#colourWayId-211832653",
     "verified": "Donnée publique ASOS"
   },
   {
@@ -26795,31 +26787,6 @@
     "verified": "Donnée publique ASOS"
   },
   {
-    "id": "asos-210256360",
-    "name": "COLLUSION pull en maille décontracté noir",
-    "brand": "Collusion",
-    "store": "ASOS",
-    "type": "sweatshirt",
-    "gender": "homme",
-    "price": 27.99,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "casual",
-      "streetwear"
-    ],
-    "colors": [
-      "noir"
-    ],
-    "fits": [
-      "regular"
-    ],
-    "sizes": [],
-    "image": "https://images.asos-media.com/products/collusion-pull-en-maille-decontracte-noir/210256360-1-black",
-    "url": "https://www.asos.com/fr/collusion/collusion-pull-en-maille-decontracte-noir/prd/210256360#colourWayId-210256362",
-    "verified": "Donnée publique ASOS"
-  },
-  {
     "id": "asos-210256331",
     "name": "COLLUSION pull en maille à côtes pêcheur à manches raglan, crème",
     "brand": "Collusion",
@@ -26867,57 +26834,6 @@
     "sizes": [],
     "image": "https://images.asos-media.com/products/collusion-sweat-a-capuche-zippe-oversize-epais-gris/211121419-1-greymarl",
     "url": "https://www.asos.com/fr/collusion/collusion-sweat-a-capuche-zippe-oversize-epais-gris/prd/211121419#colourWayId-211121425",
-    "verified": "Donnée publique ASOS"
-  },
-  {
-    "id": "asos-211148378",
-    "name": "COLLUSION veste en borg à col cheminée zippé intégral bleu marine",
-    "brand": "Collusion",
-    "store": "ASOS",
-    "type": "sweatshirt",
-    "gender": "homme",
-    "price": 39.99,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "casual",
-      "streetwear"
-    ],
-    "colors": [
-      "bleu-marine",
-      "bleu"
-    ],
-    "fits": [
-      "regular"
-    ],
-    "sizes": [],
-    "image": "https://images.asos-media.com/products/collusion-veste-en-borg-a-col-cheminee-zippe-integral-bleu-marine/211148378-1-navy",
-    "url": "https://www.asos.com/fr/collusion/collusion-veste-en-borg-a-col-cheminee-zippe-integral-bleu-marine/prd/211148378#colourWayId-211148379",
-    "verified": "Donnée publique ASOS"
-  },
-  {
-    "id": "asos-211028831",
-    "name": "COLLUSION veste en polaire borg zippée intégrale ivoire",
-    "brand": "Collusion",
-    "store": "ASOS",
-    "type": "sweatshirt",
-    "gender": "femme",
-    "price": 39.99,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "casual",
-      "streetwear"
-    ],
-    "colors": [
-      "ivoire"
-    ],
-    "fits": [
-      "regular"
-    ],
-    "sizes": [],
-    "image": "https://images.asos-media.com/products/collusion-veste-en-polaire-borg-zippee-integrale-ivoire/211028831-1-ivory",
-    "url": "https://www.asos.com/fr/collusion/collusion-veste-en-polaire-borg-zippee-integrale-ivoire/prd/211028831#colourWayId-211028838",
     "verified": "Donnée publique ASOS"
   },
   {
@@ -26973,13 +26889,13 @@
     "verified": "Donnée publique ASOS"
   },
   {
-    "id": "asos-211282295",
+    "id": "asos-208694902",
     "name": "Champion - Sweat-shirt à demi-fermeture éclair - Gris",
     "brand": "Champion",
     "store": "ASOS",
     "type": "sweatshirt",
     "gender": "homme",
-    "price": 44.99,
+    "price": 59.95,
     "quality": 7,
     "deliveryDays": 4,
     "styles": [
@@ -26993,8 +26909,8 @@
       "regular"
     ],
     "sizes": [],
-    "image": "https://images.asos-media.com/products/champion-sweat-shirt-a-demi-fermeture-eclair-gris/211282295-1-grey",
-    "url": "https://www.asos.com/fr/champion/champion-sweat-shirt-a-demi-fermeture-eclair-gris/prd/211282295#colourWayId-211282302",
+    "image": "https://images.asos-media.com/products/champion-sweat-shirt-a-demi-fermeture-eclair-gris/208694902-1-grey",
+    "url": "https://www.asos.com/fr/champion/champion-survetement-avec-pantalon-de-jogging-et-sweat-a-demi-fermeture-eclair-gris/grp/209253348#colourWayId-208694916&productId-208694902",
     "verified": "Donnée publique ASOS"
   },
   {
@@ -27023,31 +26939,6 @@
     "verified": "Donnée publique ASOS"
   },
   {
-    "id": "asos-210263045",
-    "name": "Columbia Timber Crest polaire zippée intégrale noire",
-    "brand": "Columbia",
-    "store": "ASOS",
-    "type": "sweatshirt",
-    "gender": "homme",
-    "price": 60.0,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "casual",
-      "streetwear"
-    ],
-    "colors": [
-      "noir"
-    ],
-    "fits": [
-      "regular"
-    ],
-    "sizes": [],
-    "image": "https://images.asos-media.com/products/columbia-timber-crest-polaire-zippee-integrale-noire/210263045-1-black",
-    "url": "https://www.asos.com/fr/columbia/columbia-timber-crest-polaire-zippee-integrale-noire/prd/210263045#colourWayId-210263052",
-    "verified": "Donnée publique ASOS"
-  },
-  {
     "id": "asos-210262945",
     "name": "Columbia polaire zippée intégrale à poils longs Rugged Ridge verte",
     "brand": "Columbia",
@@ -27073,13 +26964,13 @@
     "verified": "Donnée publique ASOS"
   },
   {
-    "id": "asos-211972723",
-    "name": "Hollister sweat à capuche coupe décontractée avec logo iconique en marine",
-    "brand": "Hollister",
+    "id": "asos-211849215",
+    "name": "Dare 2b Camber polaire bleu marine",
+    "brand": "Dare 2b",
     "store": "ASOS",
     "type": "sweatshirt",
     "gender": "homme",
-    "price": 39.95,
+    "price": 75.0,
     "quality": 7,
     "deliveryDays": 4,
     "styles": [
@@ -27094,8 +26985,34 @@
       "regular"
     ],
     "sizes": [],
-    "image": "https://images.asos-media.com/products/hollister-sweat-a-capuche-coupe-decontractee-avec-logo-iconique-en-marine/211972723-1-navy",
-    "url": "https://www.asos.com/fr/hollister/hollister-sweat-a-capuche-coupe-decontractee-avec-logo-iconique-en-marine/prd/211972723#colourWayId-211972725",
+    "image": "https://images.asos-media.com/products/dare-2b-camber-polaire-bleu-marine/211849215-1-navy",
+    "url": "https://www.asos.com/fr/dare-2b/dare-2b-camber-polaire-bleu-marine/prd/211849215#colourWayId-211849221",
+    "verified": "Donnée publique ASOS"
+  },
+  {
+    "id": "asos-211849187",
+    "name": "Dare 2b Camber shield polaire borg bleu marine",
+    "brand": "Dare 2b",
+    "store": "ASOS",
+    "type": "sweatshirt",
+    "gender": "homme",
+    "price": 110.0,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual",
+      "streetwear"
+    ],
+    "colors": [
+      "bleu-marine",
+      "bleu"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://images.asos-media.com/products/dare-2b-camber-shield-polaire-borg-bleu-marine/211849187-1-navy",
+    "url": "https://www.asos.com/fr/dare-2b/dare-2b-camber-shield-polaire-borg-bleu-marine/prd/211849187#colourWayId-211849189",
     "verified": "Donnée publique ASOS"
   },
   {
@@ -27121,6 +27038,31 @@
     "sizes": [],
     "image": "https://images.asos-media.com/products/hollister-sweat-shirt-demi-zip-a-logo-discret-gris/211887082-1-0",
     "url": "https://www.asos.com/fr/hollister/hollister-sweat-shirt-demi-zip-a-logo-discret-gris/prd/211887082#colourWayId-211887083",
+    "verified": "Donnée publique ASOS"
+  },
+  {
+    "id": "asos-210399318",
+    "name": "Jack & Jones - Sweat à capuche oversize - Marron",
+    "brand": "Jack & Jones",
+    "store": "ASOS",
+    "type": "sweatshirt",
+    "gender": "homme",
+    "price": 29.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual",
+      "streetwear"
+    ],
+    "colors": [
+      "marron"
+    ],
+    "fits": [
+      "oversize"
+    ],
+    "sizes": [],
+    "image": "https://images.asos-media.com/products/jack-jones-sweat-a-capuche-oversize-marron/210399318-1-cocoa",
+    "url": "https://www.asos.com/fr/jack-jones/jack-jones-sweat-a-capuche-oversize-marron/prd/210399318#colourWayId-210399325",
     "verified": "Donnée publique ASOS"
   },
   {
@@ -27225,32 +27167,6 @@
     "verified": "Donnée publique ASOS"
   },
   {
-    "id": "asos-210771475",
-    "name": "Nike - Club - sweat à capuche - Bordeaux",
-    "brand": "Nike",
-    "store": "ASOS",
-    "type": "sweatshirt",
-    "gender": "homme",
-    "price": 59.99,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "casual",
-      "streetwear",
-      "sport"
-    ],
-    "colors": [
-      "bordeaux"
-    ],
-    "fits": [
-      "regular"
-    ],
-    "sizes": [],
-    "image": "https://images.asos-media.com/products/nike-club-sweat-a-capuche-bordeaux/210771475-1-burgundy",
-    "url": "https://www.asos.com/fr/nike/nike-club-sweat-a-capuche-bordeaux/prd/210771475#colourWayId-210771478",
-    "verified": "Donnée publique ASOS"
-  },
-  {
     "id": "asos-210267879",
     "name": "Nike - Solo - Sweat à capuche oversize en polaire avec logo virgule au centre - Noir",
     "brand": "Nike",
@@ -27274,33 +27190,6 @@
     "sizes": [],
     "image": "https://images.asos-media.com/products/nike-solo-sweat-a-capuche-oversize-en-polaire-avec-logo-virgule-au-centre-noir/210267879-1-black",
     "url": "https://www.asos.com/fr/nike/nike-solo-sweat-a-capuche-oversize-en-polaire-avec-logo-virgule-au-centre-noir/prd/210267879#colourWayId-210267882",
-    "verified": "Donnée publique ASOS"
-  },
-  {
-    "id": "asos-210221323",
-    "name": "Nike Club NCC sweat-shirt à demi-zip avec logo en vert et blanc cassé",
-    "brand": "Nike",
-    "store": "ASOS",
-    "type": "sweatshirt",
-    "gender": "homme",
-    "price": 74.99,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "casual",
-      "streetwear",
-      "sport"
-    ],
-    "colors": [
-      "blanc",
-      "vert"
-    ],
-    "fits": [
-      "regular"
-    ],
-    "sizes": [],
-    "image": "https://images.asos-media.com/products/nike-club-ncc-sweat-shirt-a-demi-zip-avec-logo-en-vert-et-blanc-casse/210221323-1-midgreen",
-    "url": "https://www.asos.com/fr/nike/nike-club-ncc-sweat-shirt-a-demi-zip-avec-logo-en-vert-et-blanc-casse/prd/210221323#colourWayId-210221329",
     "verified": "Donnée publique ASOS"
   },
   {
@@ -27379,6 +27268,32 @@
     "sizes": [],
     "image": "https://images.asos-media.com/products/nike-sweat-a-capuche-oversize-en-molleton-epais-gris/210758992-1-grey",
     "url": "https://www.asos.com/fr/nike/nike-sweat-a-capuche-oversize-en-molleton-epais-gris/prd/210758992#colourWayId-210758994",
+    "verified": "Donnée publique ASOS"
+  },
+  {
+    "id": "asos-210878964",
+    "name": "Pieces - Sweat-shirt oversize d'ensemble - Bleu marine",
+    "brand": "Pieces",
+    "store": "ASOS",
+    "type": "sweatshirt",
+    "gender": "femme",
+    "price": 25.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual",
+      "streetwear"
+    ],
+    "colors": [
+      "bleu-marine",
+      "bleu"
+    ],
+    "fits": [
+      "oversize"
+    ],
+    "sizes": [],
+    "image": "https://images.asos-media.com/products/pieces-sweat-shirt-oversize-densemble-bleu-marine/210878964-1-skycaptain",
+    "url": "https://www.asos.com/fr/pieces/pieces-sweat-shirt-oversize-densemble-bleu-marine/grp/211459392#colourWayId-210878965&productId-210878964",
     "verified": "Donnée publique ASOS"
   },
   {
@@ -27483,32 +27398,6 @@
     "verified": "Donnée publique ASOS"
   },
   {
-    "id": "asos-211610358",
-    "name": "Pull&Bear sweat-shirt coupe relaxed bleu marine",
-    "brand": "Pull&Bear",
-    "store": "ASOS",
-    "type": "sweatshirt",
-    "gender": "homme",
-    "price": 22.99,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "casual",
-      "streetwear"
-    ],
-    "colors": [
-      "bleu-marine",
-      "bleu"
-    ],
-    "fits": [
-      "relaxed"
-    ],
-    "sizes": [],
-    "image": "https://images.asos-media.com/products/pullbear-sweat-shirt-coupe-relaxed-bleu-marine/211610358-1-navy",
-    "url": "https://www.asos.com/fr/pullbear/pullbear-sweat-shirt-coupe-relaxed-bleu-marine/prd/211610358#colourWayId-211610359",
-    "verified": "Donnée publique ASOS"
-  },
-  {
     "id": "asos-211610497",
     "name": "Pull&Bear sweat-shirt coupe relaxed noir",
     "brand": "Pull&Bear",
@@ -27534,6 +27423,31 @@
     "verified": "Donnée publique ASOS"
   },
   {
+    "id": "asos-211618925",
+    "name": "Pull&Bear sweat-shirt à capuche basique rouge",
+    "brand": "Pull&Bear",
+    "store": "ASOS",
+    "type": "sweatshirt",
+    "gender": "homme",
+    "price": 25.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual",
+      "streetwear"
+    ],
+    "colors": [
+      "rouge"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://images.asos-media.com/products/pullbear-sweat-shirt-a-capuche-basique-rouge/211618925-1-red",
+    "url": "https://www.asos.com/fr/pullbear/pullbear-sweat-shirt-a-capuche-basique-rouge/prd/211618925#colourWayId-211618926",
+    "verified": "Donnée publique ASOS"
+  },
+  {
     "id": "asos-211917787",
     "name": "Stradivarius sweat-shirt polo à rayures rouge",
     "brand": "Stradivarius",
@@ -27556,6 +27470,32 @@
     "sizes": [],
     "image": "https://images.asos-media.com/products/stradivarius-sweat-shirt-polo-a-rayures-rouge/211917787-1-red",
     "url": "https://www.asos.com/fr/stradivarius/stradivarius-sweat-shirt-polo-a-rayures-rouge/prd/211917787#colourWayId-211917791",
+    "verified": "Donnée publique ASOS"
+  },
+  {
+    "id": "asos-211181335",
+    "name": "The North Face sweatshirt relaxed Essential Simple Dome noir",
+    "brand": "The North Face",
+    "store": "ASOS",
+    "type": "sweatshirt",
+    "gender": "homme",
+    "price": 70.0,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual",
+      "streetwear",
+      "minimal"
+    ],
+    "colors": [
+      "noir"
+    ],
+    "fits": [
+      "relaxed"
+    ],
+    "sizes": [],
+    "image": "https://images.asos-media.com/products/the-north-face-sweatshirt-relaxed-essential-simple-dome-noir/211181335-1-black",
+    "url": "https://www.asos.com/fr/the-north-face/the-north-face-sweatshirt-relaxed-essential-simple-dome-noir/prd/211181335#colourWayId-211181362",
     "verified": "Donnée publique ASOS"
   },
   {
@@ -27633,6 +27573,56 @@
     "sizes": [],
     "image": "https://images.asos-media.com/products/topshop-sweat-henley-a-boutons-gris-chine/211710850-1-greymarl",
     "url": "https://www.asos.com/fr/topshop/topshop-sweat-henley-a-boutons-gris-chine/prd/211710850#colourWayId-211710856",
+    "verified": "Donnée publique ASOS"
+  },
+  {
+    "id": "asos-211290291",
+    "name": "Vans - Refurbed - Sweat à capuche à enfiler avec imprimé au dos - Marron",
+    "brand": "Vans",
+    "store": "ASOS",
+    "type": "sweatshirt",
+    "gender": "homme",
+    "price": 80.0,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual",
+      "streetwear"
+    ],
+    "colors": [
+      "marron"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://images.asos-media.com/products/vans-refurbed-sweat-a-capuche-a-enfiler-avec-imprime-au-dos-marron/211290291-1-brown",
+    "url": "https://www.asos.com/fr/vans/vans-refurbed-sweat-a-capuche-a-enfiler-avec-imprime-au-dos-marron/prd/211290291#colourWayId-211290301",
+    "verified": "Donnée publique ASOS"
+  },
+  {
+    "id": "asos-211010893",
+    "name": "Weekend Collective sweatshirt borg demi-zip brodé couleur chocolat",
+    "brand": "ASOS Weekend Collective",
+    "store": "ASOS",
+    "type": "sweatshirt",
+    "gender": "femme",
+    "price": 52.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual",
+      "streetwear"
+    ],
+    "colors": [
+      "chocolat"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://images.asos-media.com/products/weekend-collective-sweatshirt-borg-demi-zip-brode-couleur-chocolat/211010893-1-chocolate",
+    "url": "https://www.asos.com/fr/asos-weekend-collective/weekend-collective-sweatshirt-borg-demi-zip-brode-couleur-chocolat/prd/211010893#colourWayId-211010896",
     "verified": "Donnée publique ASOS"
   },
   {
@@ -27960,6 +27950,30 @@
     "verified": "Donnée publique ASOS"
   },
   {
+    "id": "asos-210879676",
+    "name": "ASOS DESIGN - Top ajusté épuré à manches longues - Chocolat",
+    "brand": "ASOS DESIGN",
+    "store": "ASOS",
+    "type": "tshirt",
+    "gender": "femme",
+    "price": 9.13,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual"
+    ],
+    "colors": [
+      "chocolat"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://images.asos-media.com/products/asos-design-top-ajuste-epure-a-manches-longues-chocolat/210879676-1-chocolate",
+    "url": "https://www.asos.com/fr/asos-design/asos-design-top-ajuste-epure-a-manches-longues-chocolat/prd/210879676#colourWayId-210879677",
+    "verified": "Donnée publique ASOS"
+  },
+  {
     "id": "asos-209379625",
     "name": "ASOS DESIGN - Top ras de cou à manches longues et nervures - Noir",
     "brand": "ASOS DESIGN",
@@ -28080,6 +28094,30 @@
     "verified": "Donnée publique ASOS"
   },
   {
+    "id": "asos-210663294",
+    "name": "ASOS DESIGN col roulé doux manches longues kaki",
+    "brand": "ASOS DESIGN",
+    "store": "ASOS",
+    "type": "tshirt",
+    "gender": "femme",
+    "price": 17.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual"
+    ],
+    "colors": [
+      "kaki"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://images.asos-media.com/products/asos-design-col-roule-doux-manches-longues-kaki/210663294-1-khaki",
+    "url": "https://www.asos.com/fr/asos-design/asos-design-col-roule-doux-manches-longues-kaki/prd/210663294#colourWayId-210663296",
+    "verified": "Donnée publique ASOS"
+  },
+  {
     "id": "asos-211408599",
     "name": "ASOS DESIGN ensemble de pyjama décontracté avec haut henley à manches longues en noir",
     "brand": "ASOS DESIGN",
@@ -28149,30 +28187,6 @@
     "sizes": [],
     "image": "https://images.asos-media.com/products/asos-design-t-shirt-boxy-oversize-avec-imprime-pokemon-pikachu-en-blanc/211223279-1-white",
     "url": "https://www.asos.com/fr/asos-design/asos-design-t-shirt-boxy-oversize-avec-imprime-pokemon-pikachu-en-blanc/prd/211223279#colourWayId-211223283",
-    "verified": "Donnée publique ASOS"
-  },
-  {
-    "id": "asos-211067641",
-    "name": "ASOS DESIGN t-shirt bébé rétréci à manches longues raglan en kaki délavé",
-    "brand": "ASOS DESIGN",
-    "store": "ASOS",
-    "type": "tshirt",
-    "gender": "femme",
-    "price": 17.99,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "casual"
-    ],
-    "colors": [
-      "kaki"
-    ],
-    "fits": [
-      "regular"
-    ],
-    "sizes": [],
-    "image": "https://images.asos-media.com/products/asos-design-t-shirt-bebe-retreci-a-manches-longues-raglan-en-kaki-delave/211067641-1-khaki",
-    "url": "https://www.asos.com/fr/asos-design/asos-design-t-shirt-bebe-retreci-a-manches-longues-raglan-en-kaki-delave/prd/211067641#colourWayId-211067646",
     "verified": "Donnée publique ASOS"
   },
   {
@@ -28391,30 +28405,6 @@
     "sizes": [],
     "image": "https://images.asos-media.com/products/asos-design-top-a-col-cheminee-drape-ultra-doux-a-manches-chauve-souris-noir/211133784-1-black",
     "url": "https://www.asos.com/fr/asos-design/asos-design-top-a-col-cheminee-drape-ultra-doux-a-manches-chauve-souris-noir/prd/211133784#colourWayId-211133787",
-    "verified": "Donnée publique ASOS"
-  },
-  {
-    "id": "asos-210662534",
-    "name": "ASOS DESIGN top à manches longues côtelé style henley en ivoire",
-    "brand": "ASOS DESIGN",
-    "store": "ASOS",
-    "type": "tshirt",
-    "gender": "femme",
-    "price": 17.99,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "casual"
-    ],
-    "colors": [
-      "beige"
-    ],
-    "fits": [
-      "regular"
-    ],
-    "sizes": [],
-    "image": "https://images.asos-media.com/products/asos-design-top-a-manches-longues-cotele-style-henley-en-ivoire/210662534-1-cream",
-    "url": "https://www.asos.com/fr/asos-design/asos-design-top-a-manches-longues-cotele-style-henley-en-ivoire/prd/210662534#colourWayId-210662538",
     "verified": "Donnée publique ASOS"
   },
   {
@@ -29363,6 +29353,30 @@
     "verified": "Donnée publique ASOS"
   },
   {
+    "id": "asos-211738240",
+    "name": "Stradivarius t-shirt à manches longues en dentelle, col rond, avec détail sous la poitrine, noir",
+    "brand": "Stradivarius",
+    "store": "ASOS",
+    "type": "tshirt",
+    "gender": "femme",
+    "price": 17.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual"
+    ],
+    "colors": [
+      "noir"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://images.asos-media.com/products/stradivarius-t-shirt-a-manches-longues-en-dentelle-col-rond-avec-detail-sous-la-poitrine-noir/211738240-1-black",
+    "url": "https://www.asos.com/fr/stradivarius/stradivarius-t-shirt-a-manches-longues-en-dentelle-col-rond-avec-detail-sous-la-poitrine-noir/prd/211738240#colourWayId-211738243",
+    "verified": "Donnée publique ASOS"
+  },
+  {
     "id": "asos-211372453",
     "name": "The North Face t-shirt oversize Flower Power blanc",
     "brand": "The North Face",
@@ -29432,30 +29446,6 @@
     "sizes": [],
     "image": "https://images.asos-media.com/products/topshop-everyday-t-shirt-a-manches-longues-blanc/211727349-1-white",
     "url": "https://www.asos.com/fr/topshop/topshop-everyday-t-shirt-a-manches-longues-blanc/prd/211727349#colourWayId-211727357",
-    "verified": "Donnée publique ASOS"
-  },
-  {
-    "id": "asos-211758992",
-    "name": "Topshop top patineur à manches longues avec détails de couture en noir",
-    "brand": "Topshop",
-    "store": "ASOS",
-    "type": "tshirt",
-    "gender": "femme",
-    "price": 22.99,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "casual"
-    ],
-    "colors": [
-      "noir"
-    ],
-    "fits": [
-      "regular"
-    ],
-    "sizes": [],
-    "image": "https://images.asos-media.com/products/topshop-top-patineur-a-manches-longues-avec-details-de-couture-en-noir/211758992-1-black",
-    "url": "https://www.asos.com/fr/topshop/topshop-top-patineur-a-manches-longues-avec-details-de-couture-en-noir/prd/211758992#colourWayId-211759002",
     "verified": "Donnée publique ASOS"
   },
   {
@@ -29534,6 +29524,31 @@
     "verified": "Donnée publique ASOS"
   },
   {
+    "id": "courir-393168687055b189",
+    "name": "GEL-NYC",
+    "brand": "ASICS",
+    "store": "Courir",
+    "type": "sneakers",
+    "gender": "homme",
+    "price": 160.0,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "streetwear"
+    ],
+    "colors": [
+      "blanc",
+      "gris"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://www.courir.com/on/demandware.static/-/Sites-master-catalog-courir/default/dw09b06938/images/hi-res/001608572_101.jpg?sw=1000&sh=1000&sm=fit",
+    "url": "https://www.courir.com/fr/p/asics-gel-nyc-1608572.html",
+    "verified": "Donnée publique Courir"
+  },
+  {
     "id": "courir-0f6f944904e2e3d4",
     "name": "HANDBALL SPEZIAL",
     "brand": "ADIDAS ORIGINALS",
@@ -29559,54 +29574,53 @@
     "verified": "Donnée publique Courir"
   },
   {
-    "id": "courir-c597322b2fd18dc1",
-    "name": "SUPERSTAR II",
-    "brand": "ADIDAS ORIGINALS",
+    "id": "courir-a7d0a98dfaab773b",
+    "name": "SHOX TL",
+    "brand": "NIKE",
     "store": "Courir",
     "type": "sneakers",
     "gender": "homme",
-    "price": 130.0,
+    "price": 170.0,
     "quality": 7,
     "deliveryDays": 4,
     "styles": [
       "streetwear"
     ],
     "colors": [
-      "noir"
+      "noir",
+      "rouge"
     ],
     "fits": [
       "regular"
     ],
     "sizes": [],
-    "image": "https://www.courir.com/on/demandware.static/-/Sites-master-catalog-courir/default/dw4ff2e908/images/hi-res/001608520_101.jpg?sw=1000&sh=1000&sm=fit",
-    "url": "https://www.courir.com/fr/p/adidas-originals-superstar-ii-1608520.html",
+    "image": "https://www.courir.com/on/demandware.static/-/Sites-master-catalog-courir/default/dw68f29b61/images/hi-res/001602247_101.jpg?sw=1000&sh=1000&sm=fit",
+    "url": "https://www.courir.com/fr/p/nike-shox-tl-1602247.html",
     "verified": "Donnée publique Courir"
   },
   {
-    "id": "courir-4c6e888c6095dd2d",
-    "name": "V5 RNR",
-    "brand": "NIKE",
-    "store": "Courir",
-    "type": "sneakers",
-    "gender": "homme",
-    "price": 65.0,
+    "id": "gap-1422a8c34d4a3bd3",
+    "name": "Manteau Relaxed",
+    "brand": "GAP",
+    "store": "Gap",
+    "type": "coat",
+    "gender": "unisex",
+    "price": 102.39,
     "quality": 7,
     "deliveryDays": 4,
     "styles": [
-      "streetwear",
-      "sport",
-      "vintage"
+      "casual"
     ],
     "colors": [
-      "gris"
+      "noir"
     ],
     "fits": [
-      "regular"
+      "relaxed"
     ],
     "sizes": [],
-    "image": "https://www.courir.com/on/demandware.static/-/Sites-master-catalog-courir/default/dw537f2169/images/hi-res/001609407_101.jpg?sw=1000&sh=1000&sm=fit",
-    "url": "https://www.courir.com/fr/p/nike-v5-rnr-1609407.html",
-    "verified": "Donnée publique Courir"
+    "image": "https://gap.cdn.csagdev.cz/zoh4eiLi/IMG/31536000/S_mGbWnylNBfgAzvdUSAFhzUr6PePP3SR4ehb8PA7Fo/fill/0/0/sm/1/aHR0cHM6Ly9nYXAuY2RuLWJlLmNzYWdkZXYuY3ovY2F0YWxvZy9pdGVtLXBpY3R1cmVzLzg3YzdlNTUwLTFiMDEtNDc0Zi04NzcyLWM0YThiMDc1M2YwMWZhODFiZThiNWM3NTg0NWIzNWQxZGQyY2IxODc0YWVlLTI0NTQyNS5qcGc=",
+    "url": "https://www.gap-france.fr/manteau-relaxed-3",
+    "verified": "Donnée publique Gap"
   },
   {
     "id": "gap-299ac48fc9a14e95",
@@ -29631,30 +29645,6 @@
     "sizes": [],
     "image": "https://gap.cdn.csagdev.cz/zoh4eiLi/IMG/31536000/3YeE7TQwSEn90FOZbLuw4WI4fCjrpJspmm3fKJAosjc/fill/0/0/sm/1/aHR0cHM6Ly9nYXAuY2RuLWJlLmNzYWdkZXYuY3ovY2F0YWxvZy9pdGVtLXBpY3R1cmVzL2Q0ZDI2ZTI1LTFjMGItNDU5ZC04YWQ1LTBiNDBhMzliMjRmMjI4MWM0MDk3M2Y4ZTRhYTdiNWYyNDBjODg5ODJlZDBhLTMxMDE1My5qcGc=",
     "url": "https://www.gap-france.fr/veste-matelassee-41",
-    "verified": "Donnée publique Gap"
-  },
-  {
-    "id": "gap-bdb76ef4cd7be162",
-    "name": "Veste matelassée avec logo",
-    "brand": "GAP",
-    "store": "Gap",
-    "type": "jacket",
-    "gender": "unisex",
-    "price": 147.99,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "casual"
-    ],
-    "colors": [
-      "blanc"
-    ],
-    "fits": [
-      "regular"
-    ],
-    "sizes": [],
-    "image": "https://gap.cdn.csagdev.cz/zoh4eiLi/IMG/31536000/QXm5mlea0d85i5q0Z3zwptmq7v-csXam330fuqMkB_0/fill/0/0/sm/1/aHR0cHM6Ly9nYXAuY2RuLWJlLmNzYWdkZXYuY3ovY2F0YWxvZy9pdGVtLXBpY3R1cmVzLzljZTVmMDZiLTZiMTYtNDRkOC05NjhjLWVjN2JlYWYxZmIzMDVlNjM5ZGUxOTljOTM2ODFjNzU0OTM0YjRhMjdjYzgzLTgzMTM1OS5qcGc=",
-    "url": "https://www.gap-france.fr/veste-matelassee-avec-logo-12",
     "verified": "Donnée publique Gap"
   },
   {
@@ -29752,30 +29742,6 @@
     "verified": "Donnée publique Gap"
   },
   {
-    "id": "gap-d20d6dac7ef11682",
-    "name": "Pull en coton",
-    "brand": "GAP",
-    "store": "Gap",
-    "type": "pull",
-    "gender": "unisex",
-    "price": 47.99,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "casual"
-    ],
-    "colors": [
-      "marron"
-    ],
-    "fits": [
-      "regular"
-    ],
-    "sizes": [],
-    "image": "https://gap.cdn.csagdev.cz/zoh4eiLi/IMG/31536000/h1pOoIs2zMgsCUvu2LK5PnEMF8Y0XFO6XdKoW5oZ1dY/fill/0/0/sm/1/aHR0cHM6Ly9nYXAuY2RuLWJlLmNzYWdkZXYuY3ovY2F0YWxvZy9pdGVtLXBpY3R1cmVzL2ZkNGJlNDhkLTFjNzAtNGViZC1hZDJhLTA4ODFjODdmYjc5YWU1Zjk5OWUyYjEyYjY0NjExMDViY2FkODZjMDQ3OTgzLTg0MTM0MC5qcGc=",
-    "url": "https://www.gap-france.fr/pull-en-coton-10",
-    "verified": "Donnée publique Gap"
-  },
-  {
     "id": "gap-edf05dd00ae01873",
     "name": "Pull en coton",
     "brand": "GAP",
@@ -29797,6 +29763,30 @@
     "sizes": [],
     "image": "https://gap.cdn.csagdev.cz/zoh4eiLi/IMG/31536000/CU5YjwoCWLtXShM2CCZVWz9WHkmQij2E6xXgsuc04hQ/fill/0/0/sm/1/aHR0cHM6Ly9nYXAuY2RuLWJlLmNzYWdkZXYuY3ovY2F0YWxvZy9pdGVtLXBpY3R1cmVzLzIwOTQwOWIxLTkwMjUtNDA2MC1hZmM3LWE5MTgxNzc4ODBmZDlkNGJjYjlmODBiNjIxOTk0ZjkyZWRkZmMyOGJjOTlkLTEyNzQ4Mi5qcGc=",
     "url": "https://www.gap-france.fr/pull-en-coton-13",
+    "verified": "Donnée publique Gap"
+  },
+  {
+    "id": "gap-d20d6dac7ef11682",
+    "name": "Pull en coton",
+    "brand": "GAP",
+    "store": "Gap",
+    "type": "pull",
+    "gender": "unisex",
+    "price": 47.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual"
+    ],
+    "colors": [
+      "marron"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://gap.cdn.csagdev.cz/zoh4eiLi/IMG/31536000/h1pOoIs2zMgsCUvu2LK5PnEMF8Y0XFO6XdKoW5oZ1dY/fill/0/0/sm/1/aHR0cHM6Ly9nYXAuY2RuLWJlLmNzYWdkZXYuY3ovY2F0YWxvZy9pdGVtLXBpY3R1cmVzL2ZkNGJlNDhkLTFjNzAtNGViZC1hZDJhLTA4ODFjODdmYjc5YWU1Zjk5OWUyYjEyYjY0NjExMDViY2FkODZjMDQ3OTgzLTg0MTM0MC5qcGc=",
+    "url": "https://www.gap-france.fr/pull-en-coton-10",
     "verified": "Donnée publique Gap"
   },
   {
@@ -29825,30 +29815,6 @@
     "verified": "Donnée publique Gap"
   },
   {
-    "id": "gap-4ce583acbbdbdacf",
-    "name": "Pull en maille CashSoft",
-    "brand": "GAP",
-    "store": "Gap",
-    "type": "pull",
-    "gender": "unisex",
-    "price": 51.99,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "casual"
-    ],
-    "colors": [
-      "noir"
-    ],
-    "fits": [
-      "regular"
-    ],
-    "sizes": [],
-    "image": "https://gap.cdn.csagdev.cz/zoh4eiLi/IMG/31536000/hBMZ3hJTgi2H5ZG8xiueG3RCEeSnTowGsrQTfsDWjQY/fill/0/0/sm/1/aHR0cHM6Ly9nYXAuY2RuLWJlLmNzYWdkZXYuY3ovY2F0YWxvZy9pdGVtLXBpY3R1cmVzL2E4NWZhODc4LWM5OTAtNGMwMS1iNDZiLTMwMTVkNWRiNDdiNDk3MTBmYjQ5YzkwYWM5ZTE0MmY4ZTYwMTk3ZDQ2YWZhLTE2MDY4Mi5qcGc=",
-    "url": "https://www.gap-france.fr/pull-en-maille-cashsoft",
-    "verified": "Donnée publique Gap"
-  },
-  {
     "id": "gap-16b50b4168b954c7",
     "name": "Pull en maille zippé",
     "brand": "GAP",
@@ -29870,6 +29836,30 @@
     "sizes": [],
     "image": "https://gap.cdn.csagdev.cz/zoh4eiLi/IMG/31536000/OK0NBzE7iyvPGF0EpA5f10ZMV_lQPZ7Yk0YY1y7p2U4/fill/0/0/sm/1/aHR0cHM6Ly9nYXAuY2RuLWJlLmNzYWdkZXYuY3ovY2F0YWxvZy9pdGVtLXBpY3R1cmVzLzY3MjY1N2RkLWM5YjUtNDUwYy05YTk1LTU2YTBkMWNmODQ5NWNjOGNhNzExNDcwMzViZWZhNTQ2ZDZhZDczYjFlYzc5LTc3MDI4My5qcGc=",
     "url": "https://www.gap-france.fr/pull-en-maille-zippe",
+    "verified": "Donnée publique Gap"
+  },
+  {
+    "id": "gap-da006f425b81888b",
+    "name": "Pull en maille zippé",
+    "brand": "GAP",
+    "store": "Gap",
+    "type": "pull",
+    "gender": "unisex",
+    "price": 55.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual"
+    ],
+    "colors": [
+      "noir"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://gap.cdn.csagdev.cz/zoh4eiLi/IMG/31536000/k8v5OfVPfiIlzEY6IGPMLsRYQ__bOUpH0G4t-XTIjR8/fill/0/0/sm/1/aHR0cHM6Ly9nYXAuY2RuLWJlLmNzYWdkZXYuY3ovY2F0YWxvZy9pdGVtLXBpY3R1cmVzL2I0ZTkzZGY3LWUzODgtNDFlYi04NzE2LWVkZGNhYWI3Mzc5OTFiN2RlOTJhMDU1YWJkNWE5ZTliYmQwNTBhYWZiYzZiLTU4NDEwNC5qcGc=",
+    "url": "https://www.gap-france.fr/pull-en-maille-zippe-1",
     "verified": "Donnée publique Gap"
   },
   {
@@ -29897,35 +29887,11 @@
     "verified": "Donnée publique Gap"
   },
   {
-    "id": "nike-e5c39a96d327e44d",
-    "name": "Veste de running déperlante Nike Therma-FIT ADV AeroLoft pour homme - Blue Void - Size 2XL",
+    "id": "nike-2fecdbaed5dbe7c4",
+    "name": "Pantalon de foot Nike Academy Dri-FIT pour homme - Noir/Noir/Blanc - Size 3XL",
     "brand": "Nike",
     "store": "Nike",
-    "type": "jacket",
-    "gender": "homme",
-    "price": 259.99,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "sport"
-    ],
-    "colors": [
-      "bleu"
-    ],
-    "fits": [
-      "cropped"
-    ],
-    "sizes": [],
-    "image": "https://static.nike.com/a/images/t_default/90be5a4a-e9a0-4ff4-a6e4-ab287b50692b/M+NK+TFADV+RPL+AEROLOFT+JKT.png",
-    "url": "https://www.nike.com/fr/t/veste-de-running-deperlante-nike-therma-fit-adv-aeroloft-pour-homme-gBVkXT/FB7556-492",
-    "verified": "Donnée publique Nike"
-  },
-  {
-    "id": "nike-1f1d671b0846d8cf",
-    "name": "Haut de running d'hiver à manches longues et protection UV Dri-FIT Nike Miler pour homme - Noir - Size 2XL",
-    "brand": "Nike",
-    "store": "Nike",
-    "type": "longsleeve",
+    "type": "pants",
     "gender": "homme",
     "price": 44.99,
     "quality": 7,
@@ -29934,14 +29900,64 @@
       "sport"
     ],
     "colors": [
-      "noir"
+      "noir",
+      "blanc"
     ],
     "fits": [
       "regular"
     ],
     "sizes": [],
-    "image": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/727b7e58-96f0-494f-9c86-56f691f49d89/M+NK+DF+UV+MILER+WNT+LS+TOP.png",
-    "url": "https://www.nike.com/fr/t/haut-de-running-dhiver-a-manches-longues-et-protection-uv-dri-fit-nike-miler-pour-homme-KmVzrsDT/IO1233-010",
+    "image": "https://static.nike.com/a/images/t_default/dc6ecd13-ec27-4120-b06b-23d44d581b5d/M+NK+DF+ACD25+TRK+PANT+WP+BR.png",
+    "url": "https://www.nike.com/fr/t/pantalon-de-foot-nike-academy-dri-fit-pour-homme-LPHaSoN3/HJ3780-010",
+    "verified": "Donnée publique Nike"
+  },
+  {
+    "id": "nike-33050ab231ca9ca6",
+    "name": "Pantalon fuselé Dri-FIT Nike Totality pour homme - Seaweed/Blanc - Size XL",
+    "brand": "Nike",
+    "store": "Nike",
+    "type": "pants",
+    "gender": "homme",
+    "price": 34.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "sport"
+    ],
+    "colors": [
+      "blanc"
+    ],
+    "fits": [
+      "tapered"
+    ],
+    "sizes": [],
+    "image": "https://static.nike.com/a/images/t_default/5b30c735-3f43-493b-bad1-5483a2758fe4/M+NK+DF+TOTALITY+PANT+TPR.png",
+    "url": "https://www.nike.com/fr/t/pantalon-fusele-dri-fit-nike-totality-pour-homme-xl2Zqt/FB7509-390",
+    "verified": "Donnée publique Nike"
+  },
+  {
+    "id": "nike-1484a4edf591e8c4",
+    "name": "Pantalon à ourlet ouvert en Fleece avec motifs réfléchissants Nike Tech pour homme - Noir/Noir/Noir - Size 3XL",
+    "brand": "Nike",
+    "store": "Nike",
+    "type": "pants",
+    "gender": "homme",
+    "price": 109.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "streetwear"
+    ],
+    "colors": [
+      "noir",
+      "vert"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/49993796-e4f9-4603-802f-54fe6950fcc8/M+NK+TECH+FLC+OH+PANT+RFLCTV.png",
+    "url": "https://www.nike.com/fr/t/pantalon-a-ourlet-ouvert-en-fleece-avec-motifs-reflechissants-nike-tech-pour-homme-rPxoGjAW/IZ8069-010",
     "verified": "Donnée publique Nike"
   },
   {
@@ -30231,6 +30247,30 @@
     "verified": "Donnée publique Promod"
   },
   {
+    "id": "snipes-ed9570afe82eca86",
+    "name": "adiSignature 3 Stripes Full Zip Hoodie",
+    "brand": "adidas Originals",
+    "store": "SNIPES",
+    "type": "hoodie",
+    "gender": "unisex",
+    "price": 84.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual"
+    ],
+    "colors": [
+      "noir"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://asset.snipes.com/images/f_auto,q_100/02823341_1/adidas-Originals-adiSignature-3-Stripes-Full-Zip-Hoodie-noir",
+    "url": "https://www.snipes.com/fr-fr/p/adidas-originals-adisignature-3-stripes-full-zip-hoodie-noir-107924",
+    "verified": "Donnée publique SNIPES"
+  },
+  {
     "id": "snipes-5b9bde1c782cc624",
     "name": "Cloud Jacket",
     "brand": "aim'n",
@@ -30252,6 +30292,32 @@
     "sizes": [],
     "image": "https://asset.snipes.com/images/f_auto,q_100/02641822_1/aim'n-Cloud-Jacket-noir",
     "url": "https://www.snipes.com/fr-fr/p/aimn-cloud-jacket-noir-101968",
+    "verified": "Donnée publique SNIPES"
+  },
+  {
+    "id": "snipes-8b4e77f53ee153a9",
+    "name": "fitted crop top black white swirl",
+    "brand": "Off-White",
+    "store": "SNIPES",
+    "type": "tank",
+    "gender": "unisex",
+    "price": 74.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual"
+    ],
+    "colors": [
+      "noir",
+      "blanc",
+      "gris"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://asset.snipes.com/images/f_auto,q_100/02987677_1/Off-White-fitted-crop-top-black-white-swirl-gris",
+    "url": "https://www.snipes.com/fr-fr/p/off-white-fitted-crop-top-black-white-swirl-gris-110098",
     "verified": "Donnée publique SNIPES"
   }
 ]
