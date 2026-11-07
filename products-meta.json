@@ -1,7 +1,7 @@
 {
   "source": "catalogue public multi-marchands 0 €",
-  "updated_at": "2026-11-07T01:21:54.018280+00:00",
-  "count": 1230,
+  "updated_at": "2026-11-07T13:12:50.497006+00:00",
+  "count": 1228,
   "providers_tried": [
     "ASOS",
     "Nike",
@@ -28,19 +28,17 @@
     "Courir",
     "Gap",
     "Nike",
-    "Promod",
-    "SNIPES"
+    "Promod"
   ],
   "provider_counts": {
     "ASOS": 1200,
-    "Courir": 2,
+    "Courir": 3,
     "Gap": 12,
-    "Nike": 3,
-    "Promod": 12,
-    "SNIPES": 1
+    "Nike": 1,
+    "Promod": 12
   },
   "last_run_counts": {
-    "Nike": 3,
+    "Nike": 1,
     "Gap": 12,
     "Bonprix": 0,
     "C&A": 0,
@@ -50,9 +48,9 @@
     "Size?": 0,
     "boohooMAN": 0,
     "Boohoo": 0,
-    "SNIPES": 1,
+    "SNIPES": 0,
     "Celio": 0,
-    "Courir": 2,
+    "Courir": 3,
     "Decathlon": 0,
     "La Redoute": 0,
     "Zalando": 0,
@@ -106,7 +104,9 @@
     "SNIPES": {
       "fetched_pages": 5,
       "errors": [
-        "https://www.snipes.com/fr-fr/c/chaussures-70: HTTPError"
+        "https://www.snipes.com/fr-fr/c/chaussures-70: HTTPError",
+        "https://www.snipes.com/fr-fr/p/snipes-3-pack-no-show-blanc-1712: TimeoutError",
+        "https://www.snipes.com/fr-fr/p/adidas-originals-faux-suede-trackpant-vert-105783: TimeoutError"
       ]
     },
     "Celio": {
@@ -136,8 +136,8 @@
     "Zalando": {
       "fetched_pages": 0,
       "errors": [
-        "https://www.zalando.fr/catalogue/: HTTPError",
-        "https://www.zalando.fr/homme/: HTTPError"
+        "https://www.zalando.fr/catalogue/: TimeoutError",
+        "https://www.zalando.fr/homme/: TimeoutError"
       ]
     },
     "Foot Locker": {
