@@ -1,7 +1,7 @@
 {
   "source": "catalogue public multi-marchands 0 €",
-  "updated_at": "2026-11-06T13:27:06.334792+00:00",
-  "count": 1233,
+  "updated_at": "2026-11-07T01:21:54.018280+00:00",
+  "count": 1230,
   "providers_tried": [
     "ASOS",
     "Nike",
@@ -33,11 +33,11 @@
   ],
   "provider_counts": {
     "ASOS": 1200,
-    "Courir": 3,
+    "Courir": 2,
     "Gap": 12,
     "Nike": 3,
     "Promod": 12,
-    "SNIPES": 3
+    "SNIPES": 1
   },
   "last_run_counts": {
     "Nike": 3,
@@ -50,9 +50,9 @@
     "Size?": 0,
     "boohooMAN": 0,
     "Boohoo": 0,
-    "SNIPES": 3,
+    "SNIPES": 1,
     "Celio": 0,
-    "Courir": 3,
+    "Courir": 2,
     "Decathlon": 0,
     "La Redoute": 0,
     "Zalando": 0,
@@ -106,11 +106,7 @@
     "SNIPES": {
       "fetched_pages": 5,
       "errors": [
-        "https://www.snipes.com/fr-fr/c/chaussures-70: HTTPError",
-        "https://www.snipes.com/fr-fr/p/off-white-bungee-sweatpants-noir-110105: TimeoutError",
-        "https://www.snipes.com/fr-fr/p/urban-classics-fluffy-trackpants-rouge-100717: TimeoutError",
-        "https://www.snipes.com/fr-fr/p/nike-doue-no_-14-psg-nike-away-stadium-202627-blanc-107738: TimeoutError",
-        "https://www.snipes.com/fr-fr/p/urban-classics-fluffy-trackpants-gris-47436: TimeoutError"
+        "https://www.snipes.com/fr-fr/c/chaussures-70: HTTPError"
       ]
     },
     "Celio": {
