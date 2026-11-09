@@ -1,7 +1,7 @@
 {
   "source": "catalogue public multi-marchands 0 €",
-  "updated_at": "2026-11-08T13:12:10.269323+00:00",
-  "count": 1229,
+  "updated_at": "2026-11-09T01:30:22.892675+00:00",
+  "count": 1230,
   "providers_tried": [
     "ASOS",
     "Nike",
@@ -32,7 +32,7 @@
   ],
   "provider_counts": {
     "ASOS": 1200,
-    "Courir": 2,
+    "Courir": 3,
     "Gap": 12,
     "Nike": 3,
     "Promod": 12
@@ -50,7 +50,7 @@
     "Boohoo": 0,
     "SNIPES": 0,
     "Celio": 0,
-    "Courir": 2,
+    "Courir": 3,
     "Decathlon": 0,
     "La Redoute": 0,
     "Zalando": 0,
@@ -102,10 +102,10 @@
       "errors": []
     },
     "SNIPES": {
-      "fetched_pages": 0,
+      "fetched_pages": 5,
       "errors": [
-        "https://www.snipes.com/fr-fr/c/vetements-81: TimeoutError",
-        "https://www.snipes.com/fr-fr/c/chaussures-70: HTTPError"
+        "https://www.snipes.com/fr-fr/c/chaussures-70: HTTPError",
+        "https://www.snipes.com/fr-fr/p/adidas-originals-firebird-classic-tracktop-bleu-97187: TimeoutError"
       ]
     },
     "Celio": {
@@ -136,7 +136,7 @@
       "fetched_pages": 0,
       "errors": [
         "https://www.zalando.fr/catalogue/: TimeoutError",
-        "https://www.zalando.fr/homme/: TimeoutError"
+        "https://www.zalando.fr/homme/: HTTPError"
       ]
     },
     "Foot Locker": {
