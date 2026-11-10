@@ -1,7 +1,7 @@
 {
   "source": "catalogue public multi-marchands 0 €",
-  "updated_at": "2026-11-09T13:33:47.732169+00:00",
-  "count": 1231,
+  "updated_at": "2026-11-10T01:25:18.083350+00:00",
+  "count": 1228,
   "providers_tried": [
     "ASOS",
     "Nike",
@@ -28,19 +28,17 @@
     "Courir",
     "Gap",
     "Nike",
-    "Promod",
-    "SNIPES"
+    "Promod"
   ],
   "provider_counts": {
     "ASOS": 1200,
     "Courir": 3,
     "Gap": 12,
-    "Nike": 2,
-    "Promod": 12,
-    "SNIPES": 2
+    "Nike": 1,
+    "Promod": 12
   },
   "last_run_counts": {
-    "Nike": 2,
+    "Nike": 1,
     "Gap": 12,
     "Bonprix": 0,
     "C&A": 0,
@@ -50,7 +48,7 @@
     "Size?": 0,
     "boohooMAN": 0,
     "Boohoo": 0,
-    "SNIPES": 2,
+    "SNIPES": 0,
     "Celio": 0,
     "Courir": 3,
     "Decathlon": 0,
@@ -86,7 +84,9 @@
     },
     "BSTN": {
       "fetched_pages": 5,
-      "errors": []
+      "errors": [
+        "https://www.bstn.com/eu_fr/men/all-products?categories=Men~All%20Products&brand=´47: UnicodeEncodeError"
+      ]
     },
     "Size?": {
       "fetched_pages": 0,
@@ -97,7 +97,14 @@
     },
     "boohooMAN": {
       "fetched_pages": 5,
-      "errors": []
+      "errors": [
+        "https://www.boohooman.com/fr/categories/manteau-vestes-homme-blazers: TimeoutError",
+        "https://www.boohooman.com/fr/categories/vetements-homme-grande-taille-survêtements: UnicodeEncodeError",
+        "https://www.boohooman.com/fr/categories/chaussures-homme-chaussures-habillees: TimeoutError",
+        "https://www.boohooman.com/fr/categories/mens-accessories-hats-gloves-scarves-hats: TimeoutError",
+        "https://www.boohooman.com/fr/categories/mens-activewear-course: TimeoutError",
+        "https://www.boohooman.com/fr/categories/vetements-deaves-pour-hommes: TimeoutError"
+      ]
     },
     "Boohoo": {
       "fetched_pages": 5,
@@ -106,7 +113,8 @@
     "SNIPES": {
       "fetched_pages": 5,
       "errors": [
-        "https://www.snipes.com/fr-fr/c/chaussures-70: HTTPError"
+        "https://www.snipes.com/fr-fr/c/chaussures-70: HTTPError",
+        "https://www.snipes.com/fr-fr/p/urban-classics-90s-jeans-bleu-107074: TimeoutError"
       ]
     },
     "Celio": {
