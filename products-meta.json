@@ -1,6 +1,6 @@
 {
   "source": "catalogue public multi-marchands 0 €",
-  "updated_at": "2026-11-10T01:25:18.083350+00:00",
+  "updated_at": "2026-11-10T13:26:05.051001+00:00",
   "count": 1228,
   "providers_tried": [
     "ASOS",
@@ -32,13 +32,13 @@
   ],
   "provider_counts": {
     "ASOS": 1200,
-    "Courir": 3,
+    "Courir": 2,
     "Gap": 12,
-    "Nike": 1,
+    "Nike": 2,
     "Promod": 12
   },
   "last_run_counts": {
-    "Nike": 1,
+    "Nike": 2,
     "Gap": 12,
     "Bonprix": 0,
     "C&A": 0,
@@ -50,7 +50,7 @@
     "Boohoo": 0,
     "SNIPES": 0,
     "Celio": 0,
-    "Courir": 3,
+    "Courir": 2,
     "Decathlon": 0,
     "La Redoute": 0,
     "Zalando": 0,
@@ -84,9 +84,7 @@
     },
     "BSTN": {
       "fetched_pages": 5,
-      "errors": [
-        "https://www.bstn.com/eu_fr/men/all-products?categories=Men~All%20Products&brand=´47: UnicodeEncodeError"
-      ]
+      "errors": []
     },
     "Size?": {
       "fetched_pages": 0,
@@ -97,24 +95,17 @@
     },
     "boohooMAN": {
       "fetched_pages": 5,
-      "errors": [
-        "https://www.boohooman.com/fr/categories/manteau-vestes-homme-blazers: TimeoutError",
-        "https://www.boohooman.com/fr/categories/vetements-homme-grande-taille-survêtements: UnicodeEncodeError",
-        "https://www.boohooman.com/fr/categories/chaussures-homme-chaussures-habillees: TimeoutError",
-        "https://www.boohooman.com/fr/categories/mens-accessories-hats-gloves-scarves-hats: TimeoutError",
-        "https://www.boohooman.com/fr/categories/mens-activewear-course: TimeoutError",
-        "https://www.boohooman.com/fr/categories/vetements-deaves-pour-hommes: TimeoutError"
-      ]
+      "errors": []
     },
     "Boohoo": {
       "fetched_pages": 5,
       "errors": []
     },
     "SNIPES": {
-      "fetched_pages": 5,
+      "fetched_pages": 0,
       "errors": [
-        "https://www.snipes.com/fr-fr/c/chaussures-70: HTTPError",
-        "https://www.snipes.com/fr-fr/p/urban-classics-90s-jeans-bleu-107074: TimeoutError"
+        "https://www.snipes.com/fr-fr/c/vetements-81: TimeoutError",
+        "https://www.snipes.com/fr-fr/c/chaussures-70: HTTPError"
       ]
     },
     "Celio": {
@@ -144,8 +135,8 @@
     "Zalando": {
       "fetched_pages": 0,
       "errors": [
-        "https://www.zalando.fr/catalogue/: TimeoutError",
-        "https://www.zalando.fr/homme/: TimeoutError"
+        "https://www.zalando.fr/catalogue/: HTTPError",
+        "https://www.zalando.fr/homme/: HTTPError"
       ]
     },
     "Foot Locker": {
