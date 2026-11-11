@@ -1,7 +1,7 @@
 {
   "source": "catalogue public multi-marchands 0 €",
-  "updated_at": "2026-11-11T01:26:08.696522+00:00",
-  "count": 1231,
+  "updated_at": "2026-11-11T13:31:06.700757+00:00",
+  "count": 1230,
   "providers_tried": [
     "ASOS",
     "Nike",
@@ -33,7 +33,7 @@
   ],
   "provider_counts": {
     "ASOS": 1200,
-    "Courir": 3,
+    "Courir": 2,
     "Gap": 12,
     "Nike": 3,
     "Promod": 12,
@@ -52,7 +52,7 @@
     "Boohoo": 0,
     "SNIPES": 1,
     "Celio": 0,
-    "Courir": 3,
+    "Courir": 2,
     "Decathlon": 0,
     "La Redoute": 0,
     "Zalando": 0,
