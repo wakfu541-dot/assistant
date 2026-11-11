@@ -1,7 +1,7 @@
 {
   "source": "catalogue public multi-marchands 0 €",
-  "updated_at": "2026-11-10T13:26:05.051001+00:00",
-  "count": 1228,
+  "updated_at": "2026-11-11T01:26:08.696522+00:00",
+  "count": 1231,
   "providers_tried": [
     "ASOS",
     "Nike",
@@ -28,17 +28,19 @@
     "Courir",
     "Gap",
     "Nike",
-    "Promod"
+    "Promod",
+    "SNIPES"
   ],
   "provider_counts": {
     "ASOS": 1200,
-    "Courir": 2,
+    "Courir": 3,
     "Gap": 12,
-    "Nike": 2,
-    "Promod": 12
+    "Nike": 3,
+    "Promod": 12,
+    "SNIPES": 1
   },
   "last_run_counts": {
-    "Nike": 2,
+    "Nike": 3,
     "Gap": 12,
     "Bonprix": 0,
     "C&A": 0,
@@ -48,9 +50,9 @@
     "Size?": 0,
     "boohooMAN": 0,
     "Boohoo": 0,
-    "SNIPES": 0,
+    "SNIPES": 1,
     "Celio": 0,
-    "Courir": 2,
+    "Courir": 3,
     "Decathlon": 0,
     "La Redoute": 0,
     "Zalando": 0,
@@ -102,9 +104,8 @@
       "errors": []
     },
     "SNIPES": {
-      "fetched_pages": 0,
+      "fetched_pages": 5,
       "errors": [
-        "https://www.snipes.com/fr-fr/c/vetements-81: TimeoutError",
         "https://www.snipes.com/fr-fr/c/chaussures-70: HTTPError"
       ]
     },
@@ -135,8 +136,8 @@
     "Zalando": {
       "fetched_pages": 0,
       "errors": [
-        "https://www.zalando.fr/catalogue/: HTTPError",
-        "https://www.zalando.fr/homme/: HTTPError"
+        "https://www.zalando.fr/catalogue/: TimeoutError",
+        "https://www.zalando.fr/homme/: TimeoutError"
       ]
     },
     "Foot Locker": {
