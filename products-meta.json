@@ -1,6 +1,6 @@
 {
   "source": "catalogue public multi-marchands 0 €",
-  "updated_at": "2026-11-11T13:31:06.700757+00:00",
+  "updated_at": "2026-11-12T01:33:09.989741+00:00",
   "count": 1230,
   "providers_tried": [
     "ASOS",
@@ -35,12 +35,12 @@
     "ASOS": 1200,
     "Courir": 2,
     "Gap": 12,
-    "Nike": 3,
+    "Nike": 2,
     "Promod": 12,
-    "SNIPES": 1
+    "SNIPES": 2
   },
   "last_run_counts": {
-    "Nike": 3,
+    "Nike": 2,
     "Gap": 12,
     "Bonprix": 0,
     "C&A": 0,
@@ -50,7 +50,7 @@
     "Size?": 0,
     "boohooMAN": 0,
     "Boohoo": 0,
-    "SNIPES": 1,
+    "SNIPES": 2,
     "Celio": 0,
     "Courir": 2,
     "Decathlon": 0,
@@ -101,7 +101,9 @@
     },
     "Boohoo": {
       "fetched_pages": 5,
-      "errors": []
+      "errors": [
+        "https://fr.boohoo.com/categories/vêtements-grands-hommes-chemises: UnicodeEncodeError"
+      ]
     },
     "SNIPES": {
       "fetched_pages": 5,
