@@ -1,6 +1,6 @@
 {
   "source": "catalogue public multi-marchands 0 €",
-  "updated_at": "2026-11-12T01:33:09.989741+00:00",
+  "updated_at": "2026-11-12T13:33:18.952931+00:00",
   "count": 1230,
   "providers_tried": [
     "ASOS",
@@ -101,9 +101,7 @@
     },
     "Boohoo": {
       "fetched_pages": 5,
-      "errors": [
-        "https://fr.boohoo.com/categories/vêtements-grands-hommes-chemises: UnicodeEncodeError"
-      ]
+      "errors": []
     },
     "SNIPES": {
       "fetched_pages": 5,
@@ -138,13 +136,15 @@
     "Zalando": {
       "fetched_pages": 0,
       "errors": [
-        "https://www.zalando.fr/catalogue/: TimeoutError",
-        "https://www.zalando.fr/homme/: TimeoutError"
+        "https://www.zalando.fr/catalogue/: HTTPError",
+        "https://www.zalando.fr/homme/: HTTPError"
       ]
     },
     "Foot Locker": {
       "fetched_pages": 5,
-      "errors": []
+      "errors": [
+        "https://www.footlocker.fr/fr/products-sitemap-2.html: TimeoutError"
+      ]
     },
     "Spartoo": {
       "fetched_pages": 1,
