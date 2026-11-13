@@ -1,7 +1,7 @@
 {
   "source": "catalogue public multi-marchands 0 €",
-  "updated_at": "2026-11-12T13:33:18.952931+00:00",
-  "count": 1230,
+  "updated_at": "2026-11-13T01:29:17.050812+00:00",
+  "count": 1222,
   "providers_tried": [
     "ASOS",
     "Nike",
@@ -33,15 +33,15 @@
   ],
   "provider_counts": {
     "ASOS": 1200,
-    "Courir": 2,
-    "Gap": 12,
+    "Courir": 3,
+    "Gap": 3,
     "Nike": 2,
     "Promod": 12,
     "SNIPES": 2
   },
   "last_run_counts": {
     "Nike": 2,
-    "Gap": 12,
+    "Gap": 3,
     "Bonprix": 0,
     "C&A": 0,
     "Jules": 0,
@@ -52,7 +52,7 @@
     "Boohoo": 0,
     "SNIPES": 2,
     "Celio": 0,
-    "Courir": 2,
+    "Courir": 3,
     "Decathlon": 0,
     "La Redoute": 0,
     "Zalando": 0,
@@ -65,7 +65,7 @@
       "errors": []
     },
     "Gap": {
-      "fetched_pages": 1,
+      "fetched_pages": 5,
       "errors": []
     },
     "Bonprix": {
@@ -136,15 +136,13 @@
     "Zalando": {
       "fetched_pages": 0,
       "errors": [
-        "https://www.zalando.fr/catalogue/: HTTPError",
-        "https://www.zalando.fr/homme/: HTTPError"
+        "https://www.zalando.fr/catalogue/: TimeoutError",
+        "https://www.zalando.fr/homme/: TimeoutError"
       ]
     },
     "Foot Locker": {
       "fetched_pages": 5,
-      "errors": [
-        "https://www.footlocker.fr/fr/products-sitemap-2.html: TimeoutError"
-      ]
+      "errors": []
     },
     "Spartoo": {
       "fetched_pages": 1,
