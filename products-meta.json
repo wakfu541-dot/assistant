@@ -1,6 +1,6 @@
 {
   "source": "catalogue public multi-marchands 0 €",
-  "updated_at": "2026-11-13T01:29:17.050812+00:00",
+  "updated_at": "2026-11-13T13:30:21.980055+00:00",
   "count": 1222,
   "providers_tried": [
     "ASOS",
@@ -33,14 +33,14 @@
   ],
   "provider_counts": {
     "ASOS": 1200,
-    "Courir": 3,
+    "Courir": 2,
     "Gap": 3,
-    "Nike": 2,
+    "Nike": 3,
     "Promod": 12,
     "SNIPES": 2
   },
   "last_run_counts": {
-    "Nike": 2,
+    "Nike": 3,
     "Gap": 3,
     "Bonprix": 0,
     "C&A": 0,
@@ -52,7 +52,7 @@
     "Boohoo": 0,
     "SNIPES": 2,
     "Celio": 0,
-    "Courir": 3,
+    "Courir": 2,
     "Decathlon": 0,
     "La Redoute": 0,
     "Zalando": 0,
@@ -96,17 +96,22 @@
       ]
     },
     "boohooMAN": {
-      "fetched_pages": 5,
-      "errors": []
+      "fetched_pages": 0,
+      "errors": [
+        "https://www.boohooman.com/fr/categories/vetements-hommes: TimeoutError"
+      ]
     },
     "Boohoo": {
-      "fetched_pages": 5,
-      "errors": []
+      "fetched_pages": 0,
+      "errors": [
+        "https://fr.boohoo.com/categories/vetements-femmes: TimeoutError"
+      ]
     },
     "SNIPES": {
       "fetched_pages": 5,
       "errors": [
-        "https://www.snipes.com/fr-fr/c/chaussures-70: HTTPError"
+        "https://www.snipes.com/fr-fr/c/chaussures-70: HTTPError",
+        "https://www.snipes.com/fr-fr/p/urban-classics-fluffy-trackpants-pink-40718: TimeoutError"
       ]
     },
     "Celio": {
