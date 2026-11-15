@@ -1,7 +1,7 @@
 {
   "source": "catalogue public multi-marchands 0 €",
-  "updated_at": "2026-11-14T13:13:35.140237+00:00",
-  "count": 1219,
+  "updated_at": "2026-11-15T01:29:07.732528+00:00",
+  "count": 1220,
   "providers_tried": [
     "ASOS",
     "Nike",
@@ -32,7 +32,7 @@
   ],
   "provider_counts": {
     "ASOS": 1200,
-    "Courir": 1,
+    "Courir": 2,
     "Gap": 3,
     "Nike": 3,
     "Promod": 12
@@ -50,7 +50,7 @@
     "Boohoo": 0,
     "SNIPES": 0,
     "Celio": 0,
-    "Courir": 1,
+    "Courir": 2,
     "Decathlon": 0,
     "La Redoute": 0,
     "Zalando": 0,
@@ -84,7 +84,9 @@
     },
     "BSTN": {
       "fetched_pages": 5,
-      "errors": []
+      "errors": [
+        "https://www.bstn.com/eu_fr/men/all-products?categories=Men~All%20Products&brand=Arc´teryx: UnicodeEncodeError"
+      ]
     },
     "Size?": {
       "fetched_pages": 0,
@@ -104,8 +106,7 @@
     "SNIPES": {
       "fetched_pages": 5,
       "errors": [
-        "https://www.snipes.com/fr-fr/c/chaussures-70: HTTPError",
-        "https://www.snipes.com/fr-fr/p/adidas-originals-faux-suede-trackpants-brun-105781: TimeoutError"
+        "https://www.snipes.com/fr-fr/c/chaussures-70: HTTPError"
       ]
     },
     "Celio": {
@@ -141,10 +142,7 @@
     },
     "Foot Locker": {
       "fetched_pages": 5,
-      "errors": [
-        "https://www.footlocker.fr/fr/products-sitemap.html: TimeoutError",
-        "https://www.footlocker.fr/fr/products-sitemap-2.html: TimeoutError"
-      ]
+      "errors": []
     },
     "Spartoo": {
       "fetched_pages": 1,
