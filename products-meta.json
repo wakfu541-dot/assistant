@@ -1,6 +1,6 @@
 {
   "source": "catalogue public multi-marchands 0 €",
-  "updated_at": "2026-11-16T03:43:22.451366+00:00",
+  "updated_at": "2026-11-16T15:27:38.263123+00:00",
   "count": 1221,
   "providers_tried": [
     "ASOS",
@@ -35,12 +35,12 @@
     "ASOS": 1200,
     "Courir": 2,
     "Gap": 3,
-    "Nike": 3,
+    "Nike": 2,
     "Promod": 12,
-    "SNIPES": 1
+    "SNIPES": 2
   },
   "last_run_counts": {
-    "Nike": 3,
+    "Nike": 2,
     "Gap": 3,
     "Bonprix": 0,
     "C&A": 0,
@@ -50,7 +50,7 @@
     "Size?": 0,
     "boohooMAN": 0,
     "Boohoo": 0,
-    "SNIPES": 0,
+    "SNIPES": 2,
     "Celio": 0,
     "Courir": 2,
     "Decathlon": 0,
@@ -101,7 +101,9 @@
     },
     "Boohoo": {
       "fetched_pages": 5,
-      "errors": []
+      "errors": [
+        "https://fr.boohoo.com/categories/hommes-survêtements-grande-taille: UnicodeEncodeError"
+      ]
     },
     "SNIPES": {
       "fetched_pages": 5,
@@ -136,7 +138,7 @@
     "Zalando": {
       "fetched_pages": 0,
       "errors": [
-        "https://www.zalando.fr/catalogue/: HTTPError",
+        "https://www.zalando.fr/catalogue/: TimeoutError",
         "https://www.zalando.fr/homme/: TimeoutError"
       ]
     },
@@ -145,7 +147,7 @@
       "errors": []
     },
     "Spartoo": {
-      "fetched_pages": 5,
+      "fetched_pages": 1,
       "errors": []
     }
   },
