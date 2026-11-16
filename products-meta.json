@@ -1,7 +1,7 @@
 {
   "source": "catalogue public multi-marchands 0 €",
-  "updated_at": "2026-11-15T13:15:26.576652+00:00",
-  "count": 1220,
+  "updated_at": "2026-11-16T03:43:22.451366+00:00",
+  "count": 1221,
   "providers_tried": [
     "ASOS",
     "Nike",
@@ -35,12 +35,12 @@
     "ASOS": 1200,
     "Courir": 2,
     "Gap": 3,
-    "Nike": 2,
+    "Nike": 3,
     "Promod": 12,
     "SNIPES": 1
   },
   "last_run_counts": {
-    "Nike": 2,
+    "Nike": 3,
     "Gap": 3,
     "Bonprix": 0,
     "C&A": 0,
@@ -50,7 +50,7 @@
     "Size?": 0,
     "boohooMAN": 0,
     "Boohoo": 0,
-    "SNIPES": 1,
+    "SNIPES": 0,
     "Celio": 0,
     "Courir": 2,
     "Decathlon": 0,
@@ -101,15 +101,12 @@
     },
     "Boohoo": {
       "fetched_pages": 5,
-      "errors": [
-        "https://fr.boohoo.com/categories/hommes-collections-vetements-sport-survêtements: UnicodeEncodeError"
-      ]
+      "errors": []
     },
     "SNIPES": {
       "fetched_pages": 5,
       "errors": [
-        "https://www.snipes.com/fr-fr/c/chaussures-70: HTTPError",
-        "https://www.snipes.com/fr-fr/p/adidas-originals-3-stripes-fleece-full-zip-hoodie-gris-107915: TimeoutError"
+        "https://www.snipes.com/fr-fr/c/chaussures-70: HTTPError"
       ]
     },
     "Celio": {
@@ -148,7 +145,7 @@
       "errors": []
     },
     "Spartoo": {
-      "fetched_pages": 1,
+      "fetched_pages": 5,
       "errors": []
     }
   },
