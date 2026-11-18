@@ -1,7 +1,7 @@
 {
   "source": "catalogue public multi-marchands 0 €",
-  "updated_at": "2026-11-17T13:31:40.865475+00:00",
-  "count": 1219,
+  "updated_at": "2026-11-18T01:38:20.431715+00:00",
+  "count": 1221,
   "providers_tried": [
     "ASOS",
     "Nike",
@@ -28,17 +28,19 @@
     "Courir",
     "Gap",
     "Nike",
-    "Promod"
+    "Promod",
+    "SNIPES"
   ],
   "provider_counts": {
     "ASOS": 1200,
-    "Courir": 3,
+    "Courir": 1,
     "Gap": 3,
-    "Nike": 1,
-    "Promod": 12
+    "Nike": 2,
+    "Promod": 12,
+    "SNIPES": 3
   },
   "last_run_counts": {
-    "Nike": 1,
+    "Nike": 2,
     "Gap": 3,
     "Bonprix": 0,
     "C&A": 0,
@@ -48,9 +50,9 @@
     "Size?": 0,
     "boohooMAN": 0,
     "Boohoo": 0,
-    "SNIPES": 0,
+    "SNIPES": 3,
     "Celio": 0,
-    "Courir": 3,
+    "Courir": 1,
     "Decathlon": 0,
     "La Redoute": 0,
     "Zalando": 0,
@@ -99,12 +101,15 @@
     },
     "Boohoo": {
       "fetched_pages": 5,
-      "errors": []
+      "errors": [
+        "https://fr.boohoo.com/categories/vêtements-femmes-hauts-de-noël: UnicodeEncodeError"
+      ]
     },
     "SNIPES": {
       "fetched_pages": 5,
       "errors": [
-        "https://www.snipes.com/fr-fr/c/chaussures-70: HTTPError"
+        "https://www.snipes.com/fr-fr/c/chaussures-70: HTTPError",
+        "https://www.snipes.com/fr-fr/p/nike-air-force-1-07-blanc-1727: TimeoutError"
       ]
     },
     "Celio": {
@@ -134,8 +139,8 @@
     "Zalando": {
       "fetched_pages": 0,
       "errors": [
-        "https://www.zalando.fr/catalogue/: TimeoutError",
-        "https://www.zalando.fr/homme/: HTTPError"
+        "https://www.zalando.fr/catalogue/: HTTPError",
+        "https://www.zalando.fr/homme/: TimeoutError"
       ]
     },
     "Foot Locker": {
