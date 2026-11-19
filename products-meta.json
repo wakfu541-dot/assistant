@@ -1,7 +1,7 @@
 {
   "source": "catalogue public multi-marchands 0 €",
-  "updated_at": "2026-11-18T13:33:33.592351+00:00",
-  "count": 1221,
+  "updated_at": "2026-11-19T01:34:14.511282+00:00",
+  "count": 1219,
   "providers_tried": [
     "ASOS",
     "Nike",
@@ -28,19 +28,17 @@
     "Courir",
     "Gap",
     "Nike",
-    "Promod",
-    "SNIPES"
+    "Promod"
   ],
   "provider_counts": {
     "ASOS": 1200,
-    "Courir": 2,
+    "Courir": 3,
     "Gap": 3,
-    "Nike": 2,
-    "Promod": 12,
-    "SNIPES": 2
+    "Nike": 1,
+    "Promod": 12
   },
   "last_run_counts": {
-    "Nike": 2,
+    "Nike": 1,
     "Gap": 3,
     "Bonprix": 0,
     "C&A": 0,
@@ -50,9 +48,9 @@
     "Size?": 0,
     "boohooMAN": 0,
     "Boohoo": 0,
-    "SNIPES": 2,
+    "SNIPES": 0,
     "Celio": 0,
-    "Courir": 2,
+    "Courir": 3,
     "Decathlon": 0,
     "La Redoute": 0,
     "Zalando": 0,
@@ -86,7 +84,9 @@
     },
     "BSTN": {
       "fetched_pages": 5,
-      "errors": []
+      "errors": [
+        "https://www.bstn.com/eu_fr/men/all-products?categories=Men~All%20Products&brand=Drôle%20de%20Monsieur: UnicodeEncodeError"
+      ]
     },
     "Size?": {
       "fetched_pages": 0,
@@ -136,7 +136,7 @@
     "Zalando": {
       "fetched_pages": 0,
       "errors": [
-        "https://www.zalando.fr/catalogue/: HTTPError",
+        "https://www.zalando.fr/catalogue/: TimeoutError",
         "https://www.zalando.fr/homme/: HTTPError"
       ]
     },
