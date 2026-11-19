@@ -1,6 +1,6 @@
 {
   "source": "catalogue public multi-marchands 0 €",
-  "updated_at": "2026-11-19T01:34:14.511282+00:00",
+  "updated_at": "2026-11-19T13:37:56.988610+00:00",
   "count": 1219,
   "providers_tried": [
     "ASOS",
@@ -28,14 +28,16 @@
     "Courir",
     "Gap",
     "Nike",
-    "Promod"
+    "Promod",
+    "SNIPES"
   ],
   "provider_counts": {
     "ASOS": 1200,
-    "Courir": 3,
+    "Courir": 2,
     "Gap": 3,
     "Nike": 1,
-    "Promod": 12
+    "Promod": 12,
+    "SNIPES": 1
   },
   "last_run_counts": {
     "Nike": 1,
@@ -48,9 +50,9 @@
     "Size?": 0,
     "boohooMAN": 0,
     "Boohoo": 0,
-    "SNIPES": 0,
+    "SNIPES": 1,
     "Celio": 0,
-    "Courir": 3,
+    "Courir": 2,
     "Decathlon": 0,
     "La Redoute": 0,
     "Zalando": 0,
@@ -84,9 +86,7 @@
     },
     "BSTN": {
       "fetched_pages": 5,
-      "errors": [
-        "https://www.bstn.com/eu_fr/men/all-products?categories=Men~All%20Products&brand=Drôle%20de%20Monsieur: UnicodeEncodeError"
-      ]
+      "errors": []
     },
     "Size?": {
       "fetched_pages": 0,
@@ -97,7 +97,9 @@
     },
     "boohooMAN": {
       "fetched_pages": 5,
-      "errors": []
+      "errors": [
+        "https://www.boohooman.com/fr/categories/vêtements-grands-hommes-chemises: UnicodeEncodeError"
+      ]
     },
     "Boohoo": {
       "fetched_pages": 5,
@@ -106,7 +108,8 @@
     "SNIPES": {
       "fetched_pages": 5,
       "errors": [
-        "https://www.snipes.com/fr-fr/c/chaussures-70: HTTPError"
+        "https://www.snipes.com/fr-fr/c/chaussures-70: HTTPError",
+        "https://www.snipes.com/fr-fr/p/urban-classics-fluffy-zip-hoody-gris-103969: TimeoutError"
       ]
     },
     "Celio": {
@@ -142,7 +145,9 @@
     },
     "Foot Locker": {
       "fetched_pages": 5,
-      "errors": []
+      "errors": [
+        "https://www.footlocker.fr/fr/product/~/311700000003.html: HTTPError"
+      ]
     },
     "Spartoo": {
       "fetched_pages": 1,
