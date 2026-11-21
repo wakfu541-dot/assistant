@@ -29554,77 +29554,82 @@
     "verified": "Donnée publique ASOS"
   },
   {
-    "id": "courir-f3d2a7bb4d8886b0",
-    "name": "DUNK LOW GORE-TEX",
-    "brand": "NIKE",
+    "id": "courir-51c39971dd3ed674",
+    "name": "GEL-SEKIRAN",
+    "brand": "ASICS",
     "store": "Courir",
     "type": "sneakers",
     "gender": "homme",
-    "price": 105.0,
+    "price": 140.0,
     "quality": 7,
     "deliveryDays": 4,
     "styles": [
       "streetwear"
     ],
     "colors": [
-      "noir"
+      "noir",
+      "beige",
+      "marron"
     ],
     "fits": [
       "regular"
     ],
     "sizes": [],
-    "image": "https://www.courir.com/on/demandware.static/-/Sites-master-catalog-courir/default/dwc12802e5/images/hi-res/001604763_101.jpg?sw=1000&sh=1000&sm=fit",
-    "url": "https://www.courir.com/fr/p/nike-dunk-low-gore-tex-1604763.html",
+    "image": "https://www.courir.com/on/demandware.static/-/Sites-master-catalog-courir/default/dwa78ffb30/images/hi-res/001610283_101.jpg?sw=1000&sh=1000&sm=fit",
+    "url": "https://www.courir.com/fr/p/asics-gel-sekiran-1610283.html",
     "verified": "Donnée publique Courir"
   },
   {
-    "id": "courir-7431251868ba4280",
-    "name": "L001 ACE",
-    "brand": "LACOSTE",
-    "store": "Courir",
-    "type": "sneakers",
-    "gender": "homme",
-    "price": 90.0,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "streetwear"
-    ],
-    "colors": [
-      "blanc",
-      "bleu",
-      "bleu-marine"
-    ],
-    "fits": [
-      "regular"
-    ],
-    "sizes": [],
-    "image": "https://www.courir.com/on/demandware.static/-/Sites-master-catalog-courir/default/dw7665c76e/images/hi-res/001609840_101.jpg?sw=1000&sh=1000&sm=fit",
-    "url": "https://www.courir.com/fr/p/lacoste-l001-ace-1609840.html",
-    "verified": "Donnée publique Courir"
-  },
-  {
-    "id": "gap-6a342f5ba1743cfd",
-    "name": "T-shirt à texture gaufrée",
+    "id": "gap-299ac48fc9a14e95",
+    "name": "Veste matelassée",
     "brand": "GAP",
     "store": "Gap",
     "type": "longsleeve",
     "gender": "homme",
-    "price": 26.24,
+    "price": 74.99,
     "quality": 7,
     "deliveryDays": 4,
     "styles": [
+      "workwear"
+    ],
+    "colors": [
+      "bleu",
+      "bleu-marine"
+    ],
+    "fits": [
+      "straight"
+    ],
+    "sizes": [],
+    "image": "https://gap.cdn.csagdev.cz/zoh4eiLi/IMG/31536000/3YeE7TQwSEn90FOZbLuw4WI4fCjrpJspmm3fKJAosjc/fill/0/0/sm/1/aHR0cHM6Ly9nYXAuY2RuLWJlLmNzYWdkZXYuY3ovY2F0YWxvZy9pdGVtLXBpY3R1cmVzL2Q0ZDI2ZTI1LTFjMGItNDU5ZC04YWQ1LTBiNDBhMzliMjRmMjI4MWM0MDk3M2Y4ZTRhYTdiNWYyNDBjODg5ODJlZDBhLTMxMDE1My5qcGc=",
+    "url": "https://www.gap-france.fr/veste-matelassee-41",
+    "verified": "Donnée publique Gap"
+  },
+  {
+    "id": "gap-902f168280207a21",
+    "name": "Pantalon Utility Baggy",
+    "brand": "GAP",
+    "store": "Gap",
+    "type": "pants",
+    "gender": "homme",
+    "price": 59.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "streetwear",
+      "workwear",
       "casual"
     ],
     "colors": [
       "gris"
     ],
     "fits": [
-      "straight"
+      "baggy",
+      "relaxed",
+      "regular"
     ],
     "sizes": [],
-    "image": "https://gap.cdn.csagdev.cz/zoh4eiLi/IMG/31536000/2lbYayr8uEUFRHwwoA0zvpgEGfsdHAjdQSv1DTM5gfk/fill/0/0/sm/1/aHR0cHM6Ly9nYXAuY2RuLWJlLmNzYWdkZXYuY3ovY2F0YWxvZy9pdGVtLXBpY3R1cmVzL2VhYjYzMWZiLTk0YWMtNGE5NS1iMjUzLTVhMmNkNTBmODU5NjBkNWIzNjk2Y2Y1ZTViZDRmMzI4MGE4M2M5MjcwZmUzLTM2Nzk0NS5qcGc=",
-    "url": "https://www.gap-france.fr/t-shirt-a-texture-gaufree-25",
+    "image": "https://gap.cdn.csagdev.cz/zoh4eiLi/IMG/31536000/4jTDreHqUktcMIuF1C2cjIaxAAVeHEjT5MlG0eG3S4U/fill/0/0/sm/1/aHR0cHM6Ly9nYXAuY2RuLWJlLmNzYWdkZXYuY3ovY2F0YWxvZy9pdGVtLXBpY3R1cmVzL2UxNDgwNGNlLTJjZTYtNDNjNy04MjQ2LTg4OTM5YTA3MGM3NjYwYzU5NTQ5OGQ4YTJlNmM1YzUwYzI5OWYxNzU5ZmU3LTkzMDQzMC5qcGc=",
+    "url": "https://www.gap-france.fr/pantalon-utility-baggy",
     "verified": "Donnée publique Gap"
   },
   {
@@ -29653,100 +29658,81 @@
     "verified": "Donnée publique Gap"
   },
   {
-    "id": "gap-2c757581debc020f",
-    "name": "T-shirt classic",
-    "brand": "GAP",
-    "store": "Gap",
-    "type": "tshirt",
-    "gender": "homme",
-    "price": 14.99,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "minimal",
-      "casual"
-    ],
-    "colors": [
-      "blanc"
-    ],
-    "fits": [
-      "cropped"
-    ],
-    "sizes": [],
-    "image": "https://gap.cdn.csagdev.cz/zoh4eiLi/IMG/31536000/LMp5Pe499Fq4twSo_BFK3ekz8pWXDqoZPy4KsBHiO1Q/fill/0/0/sm/1/aHR0cHM6Ly9nYXAuY2RuLWJlLmNzYWdkZXYuY3ovY2F0YWxvZy9pdGVtLXBpY3R1cmVzLzY4ZDI5YmRmLTcxODktNDEyZS04NDlmLWVhNmMwMjAyNGFjNTBkOGNlZTlkMmUxOTM5ZTIyMGQyOTM2MTdmOTVlZGMxLTIzMTE4Mi5qcGc=",
-    "url": "https://www.gap-france.fr/t-shirt-28",
-    "verified": "Donnée publique Gap"
-  },
-  {
-    "id": "nike-e2d3ebfa98b9cf54",
-    "name": "Veste Windrunner à zip en Fleece avec motifs réfléchissants Nike Tech pour homme - Noir/Noir/Noir - Size 3XL",
+    "id": "nike-a6f3509132e1c641",
+    "name": "Pantalon cargo tissé Nike Sportswear Air Max pour Homme - Wolf Grey/Cool Grey/Noir - Size 2XL",
     "brand": "Nike",
     "store": "Nike",
-    "type": "jacket",
+    "type": "cargo",
     "gender": "homme",
-    "price": 129.99,
+    "price": 53.99,
     "quality": 7,
     "deliveryDays": 4,
     "styles": [
-      "casual"
+      "streetwear",
+      "sport"
     ],
     "colors": [
-      "noir"
+      "noir",
+      "gris"
     ],
     "fits": [
       "regular"
     ],
     "sizes": [],
-    "image": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/5933a8f9-b475-4b53-aad4-fd4051df02c8/M+NK+TECH+FLC+WR+FZ+JKT+RFLCTV.png",
-    "url": "https://www.nike.com/fr/t/veste-windrunner-a-zip-en-fleece-avec-motifs-reflechissants-nike-tech-pour-homme-o75J4ImH/IZ8071-010",
+    "image": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/6cc3848f-61dd-4116-896a-bdcd297c379d/M+NSW+AIR+MAX+WVN+CARGO+PANT.png",
+    "url": "https://www.nike.com/fr/t/pantalon-cargo-tisse-nike-sportswear-air-max-pour-homme-HrDvCml8/IU5684-012",
     "verified": "Donnée publique Nike"
   },
   {
-    "id": "nike-e5c39a96d327e44d",
-    "name": "Veste de running déperlante Nike Therma-FIT ADV AeroLoft pour homme - Blue Void - Size 2XL",
+    "id": "nike-1e09a10c4d5822ef",
+    "name": "Pantalon à ourlet ouvert en molleton Nike Club pour homme - Noir/Noir/Blanc - Size 3XL",
     "brand": "Nike",
     "store": "Nike",
-    "type": "jacket",
+    "type": "jogger",
     "gender": "homme",
-    "price": 155.99,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "sport"
-    ],
-    "colors": [
-      "bleu"
-    ],
-    "fits": [
-      "cropped"
-    ],
-    "sizes": [],
-    "image": "https://static.nike.com/a/images/t_default/90be5a4a-e9a0-4ff4-a6e4-ab287b50692b/M+NK+TFADV+RPL+AEROLOFT+JKT.png",
-    "url": "https://www.nike.com/fr/t/veste-de-running-deperlante-nike-therma-fit-adv-aeroloft-pour-homme-gBVkXT/FB7556-492",
-    "verified": "Donnée publique Nike"
-  },
-  {
-    "id": "nike-474c82cc35546904",
-    "name": "Veste à zip en Fleece Windrunner Nike Tech pour homme - Noir/Noir - Size 4XL",
-    "brand": "Nike",
-    "store": "Nike",
-    "type": "jacket",
-    "gender": "homme",
-    "price": 119.99,
+    "price": 43.99,
     "quality": 7,
     "deliveryDays": 4,
     "styles": [
       "casual"
     ],
     "colors": [
-      "noir"
+      "noir",
+      "blanc",
+      "vert"
     ],
     "fits": [
-      "relaxed"
+      "relaxed",
+      "regular"
     ],
     "sizes": [],
-    "image": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/58bf6658-12e4-4407-8427-b6f9f5c5e20f/M+NK+TCH+FLC+FZ+WR+HOODIE.png",
-    "url": "https://www.nike.com/fr/t/veste-a-zip-en-fleece-windrunner-nike-tech-pour-homme-dSR1Tg/HV0949-010",
+    "image": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/8610d1a5-ad62-49fd-9a93-449c39102c6b/M+NK+CLUB+FT+OH+PANT.png",
+    "url": "https://www.nike.com/fr/t/pantalon-a-ourlet-ouvert-en-molleton-nike-club-pour-homme-k17Fm5/HQ4422-010",
+    "verified": "Donnée publique Nike"
+  },
+  {
+    "id": "nike-6ae2f38f0b3cc28a",
+    "name": "Pantalon à revers en Fleece Nike Solo Swoosh pour homme - Dark Grey Heather/Light Smoke Grey/Blanc - Size 2XL",
+    "brand": "Nike",
+    "store": "Nike",
+    "type": "pants",
+    "gender": "homme",
+    "price": 69.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual"
+    ],
+    "colors": [
+      "blanc",
+      "gris"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/b6448c13-813b-4bad-9348-7fd872b769e1/M+NL+SOLO+SWSH+BB+CF+PANT.png",
+    "url": "https://www.nike.com/fr/t/pantalon-a-revers-en-fleece-nike-solo-swoosh-pour-homme-Iq5TME6G/HV1088-063",
     "verified": "Donnée publique Nike"
   },
   {
@@ -29846,27 +29832,27 @@
     "verified": "Donnée publique Promod"
   },
   {
-    "id": "promod-b84b8edb14de4425",
-    "name": "Pull fluffy recto-verso Femme",
+    "id": "promod-08335018d6b0fb6b",
+    "name": "Pull rayé à sequins brodés",
     "brand": "Promod",
     "store": "Promod",
     "type": "pull",
     "gender": "femme",
-    "price": 29.99,
+    "price": 39.99,
     "quality": 7,
     "deliveryDays": 4,
     "styles": [
       "casual"
     ],
     "colors": [
-      "noir"
+      "gris"
     ],
     "fits": [
       "regular"
     ],
     "sizes": [],
-    "image": "https://asset.promod.com/product/254596-gz-1792589481.jpg",
-    "url": "https://www.promod.fr/fr-fr/pull-fluffy-recto-verso-femme-noir--p254596/",
+    "image": "https://asset.promod.com/product/254601-gz-1792585612.jpg",
+    "url": "https://www.promod.fr/fr-fr/pull-raye-a-sequins-brodes-gris-fonce--p254601/",
     "verified": "Donnée publique Promod"
   },
   {
@@ -29891,6 +29877,30 @@
     "sizes": [],
     "image": "https://asset.promod.com/product/254602-gz-1792597927.jpg",
     "url": "https://www.promod.fr/fr-fr/pull-a-boutons-bijoux-femme-noir--p254602/",
+    "verified": "Donnée publique Promod"
+  },
+  {
+    "id": "promod-0c51f6d122093272",
+    "name": "Pull à message glow paillettes",
+    "brand": "Promod",
+    "store": "Promod",
+    "type": "pull",
+    "gender": "femme",
+    "price": 45.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual"
+    ],
+    "colors": [
+      "bleu-marine"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://asset.promod.com/product/254604-gz-1793789641.jpg",
+    "url": "https://www.promod.fr/fr-fr/pull-a-message-glow-paillettes-marine--p254604/",
     "verified": "Donnée publique Promod"
   },
   {
@@ -29966,30 +29976,6 @@
     "verified": "Donnée publique Promod"
   },
   {
-    "id": "promod-0bb6d0458855ac79",
-    "name": "Sweat-shirt détail dentelle",
-    "brand": "Promod",
-    "store": "Promod",
-    "type": "sweatshirt",
-    "gender": "femme",
-    "price": 39.99,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "casual"
-    ],
-    "colors": [
-      "noir"
-    ],
-    "fits": [
-      "regular"
-    ],
-    "sizes": [],
-    "image": "https://asset.promod.com/product/254751-gz-1793180684.jpg",
-    "url": "https://www.promod.fr/fr-fr/sweat-shirt-detail-dentelle-noir--p254751/",
-    "verified": "Donnée publique Promod"
-  },
-  {
     "id": "promod-1fdde2ac3708c420",
     "name": "Pull-débardeur pailleté Femme",
     "brand": "Promod",
@@ -30038,27 +30024,27 @@
     "verified": "Donnée publique Promod"
   },
   {
-    "id": "snipes-57b3d7d798d71a64",
-    "name": "Knit Fluf Hair Tracktop",
+    "id": "snipes-4c1eb7bb617cd647",
+    "name": "3-Stripes Fleece Full-Zip Hoodie",
     "brand": "adidas Originals",
     "store": "SNIPES",
-    "type": "pull",
+    "type": "hoodie",
     "gender": "unisex",
-    "price": 119.99,
+    "price": 76.49,
     "quality": 7,
     "deliveryDays": 4,
     "styles": [
       "casual"
     ],
     "colors": [
-      "multicolore"
+      "gris"
     ],
     "fits": [
       "regular"
     ],
     "sizes": [],
-    "image": "https://asset.snipes.com/images/f_auto,q_100/03221323_1/adidas-Originals-Knit-Fluf-Hair-Tracktop-multicolore",
-    "url": "https://www.snipes.com/fr-fr/p/adidas-originals-knit-fluf-hair-tracktop-multicolore-140363",
+    "image": "https://asset.snipes.com/images/f_auto,q_100/02823323_1/adidas-Originals-3-Stripes-Fleece-Full-Zip-Hoodie-gris",
+    "url": "https://www.snipes.com/fr-fr/p/adidas-originals-3-stripes-fleece-full-zip-hoodie-gris-107915",
     "verified": "Donnée publique SNIPES"
   }
 ]

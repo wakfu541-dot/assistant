@@ -1,7 +1,7 @@
 {
   "source": "catalogue public multi-marchands 0 €",
-  "updated_at": "2026-11-20T14:45:11.796448+00:00",
-  "count": 1221,
+  "updated_at": "2026-11-21T02:50:42.227818+00:00",
+  "count": 1220,
   "providers_tried": [
     "ASOS",
     "Nike",
@@ -33,7 +33,7 @@
   ],
   "provider_counts": {
     "ASOS": 1200,
-    "Courir": 2,
+    "Courir": 1,
     "Gap": 3,
     "Nike": 3,
     "Promod": 12,
@@ -52,7 +52,7 @@
     "Boohoo": 0,
     "SNIPES": 1,
     "Celio": 0,
-    "Courir": 2,
+    "Courir": 1,
     "Decathlon": 0,
     "La Redoute": 0,
     "Zalando": 0,
@@ -86,7 +86,9 @@
     },
     "BSTN": {
       "fetched_pages": 5,
-      "errors": []
+      "errors": [
+        "https://www.bstn.com/eu_fr/men/all-products?categories=Men~All%20Products&brand=Drôle%20de%20Monsieur: UnicodeEncodeError"
+      ]
     },
     "Size?": {
       "fetched_pages": 0,
@@ -97,7 +99,9 @@
     },
     "boohooMAN": {
       "fetched_pages": 5,
-      "errors": []
+      "errors": [
+        "https://www.boohooman.com/fr/categories/hommes-collections-vetements-sport-survêtements: UnicodeEncodeError"
+      ]
     },
     "Boohoo": {
       "fetched_pages": 5,
@@ -107,7 +111,7 @@
       "fetched_pages": 5,
       "errors": [
         "https://www.snipes.com/fr-fr/c/chaussures-70: HTTPError",
-        "https://www.snipes.com/fr-fr/p/adidas-originals-adilenium-faux-suede-trackpants-noir-140940: TimeoutError"
+        "https://www.snipes.com/fr-fr/p/snipes-3-pack-no-show-blanc-1712: TimeoutError"
       ]
     },
     "Celio": {
@@ -137,8 +141,8 @@
     "Zalando": {
       "fetched_pages": 0,
       "errors": [
-        "https://www.zalando.fr/catalogue/: HTTPError",
-        "https://www.zalando.fr/homme/: HTTPError"
+        "https://www.zalando.fr/catalogue/: TimeoutError",
+        "https://www.zalando.fr/homme/: TimeoutError"
       ]
     },
     "Foot Locker": {
