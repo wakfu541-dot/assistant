@@ -1,7 +1,7 @@
 {
   "source": "catalogue public multi-marchands 0 €",
-  "updated_at": "2026-11-21T02:50:42.227818+00:00",
-  "count": 1220,
+  "updated_at": "2026-11-21T13:19:00.050177+00:00",
+  "count": 1219,
   "providers_tried": [
     "ASOS",
     "Nike",
@@ -28,19 +28,17 @@
     "Courir",
     "Gap",
     "Nike",
-    "Promod",
-    "SNIPES"
+    "Promod"
   ],
   "provider_counts": {
     "ASOS": 1200,
-    "Courir": 1,
+    "Courir": 2,
     "Gap": 3,
-    "Nike": 3,
-    "Promod": 12,
-    "SNIPES": 1
+    "Nike": 2,
+    "Promod": 12
   },
   "last_run_counts": {
-    "Nike": 3,
+    "Nike": 2,
     "Gap": 3,
     "Bonprix": 0,
     "C&A": 0,
@@ -50,9 +48,9 @@
     "Size?": 0,
     "boohooMAN": 0,
     "Boohoo": 0,
-    "SNIPES": 1,
+    "SNIPES": 0,
     "Celio": 0,
-    "Courir": 1,
+    "Courir": 2,
     "Decathlon": 0,
     "La Redoute": 0,
     "Zalando": 0,
@@ -87,7 +85,7 @@
     "BSTN": {
       "fetched_pages": 5,
       "errors": [
-        "https://www.bstn.com/eu_fr/men/all-products?categories=Men~All%20Products&brand=Drôle%20de%20Monsieur: UnicodeEncodeError"
+        "https://www.bstn.com/eu_fr/men/all-products?categories=Men~All%20Products&brand=´47: UnicodeEncodeError"
       ]
     },
     "Size?": {
@@ -99,19 +97,19 @@
     },
     "boohooMAN": {
       "fetched_pages": 5,
-      "errors": [
-        "https://www.boohooman.com/fr/categories/hommes-collections-vetements-sport-survêtements: UnicodeEncodeError"
-      ]
+      "errors": []
     },
     "Boohoo": {
       "fetched_pages": 5,
-      "errors": []
+      "errors": [
+        "https://fr.boohoo.com/categories/noël-pour-femmes: UnicodeEncodeError"
+      ]
     },
     "SNIPES": {
-      "fetched_pages": 5,
+      "fetched_pages": 0,
       "errors": [
-        "https://www.snipes.com/fr-fr/c/chaussures-70: HTTPError",
-        "https://www.snipes.com/fr-fr/p/snipes-3-pack-no-show-blanc-1712: TimeoutError"
+        "https://www.snipes.com/fr-fr/c/vetements-81: TimeoutError",
+        "https://www.snipes.com/fr-fr/c/chaussures-70: HTTPError"
       ]
     },
     "Celio": {
@@ -142,7 +140,7 @@
       "fetched_pages": 0,
       "errors": [
         "https://www.zalando.fr/catalogue/: TimeoutError",
-        "https://www.zalando.fr/homme/: TimeoutError"
+        "https://www.zalando.fr/homme/: HTTPError"
       ]
     },
     "Foot Locker": {
