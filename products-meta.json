@@ -1,7 +1,7 @@
 {
   "source": "catalogue public multi-marchands 0 €",
-  "updated_at": "2026-11-21T13:19:00.050177+00:00",
-  "count": 1219,
+  "updated_at": "2026-11-22T01:30:03.923883+00:00",
+  "count": 1220,
   "providers_tried": [
     "ASOS",
     "Nike",
@@ -32,7 +32,7 @@
   ],
   "provider_counts": {
     "ASOS": 1200,
-    "Courir": 2,
+    "Courir": 3,
     "Gap": 3,
     "Nike": 2,
     "Promod": 12
@@ -50,7 +50,7 @@
     "Boohoo": 0,
     "SNIPES": 0,
     "Celio": 0,
-    "Courir": 2,
+    "Courir": 3,
     "Decathlon": 0,
     "La Redoute": 0,
     "Zalando": 0,
@@ -84,9 +84,7 @@
     },
     "BSTN": {
       "fetched_pages": 5,
-      "errors": [
-        "https://www.bstn.com/eu_fr/men/all-products?categories=Men~All%20Products&brand=´47: UnicodeEncodeError"
-      ]
+      "errors": []
     },
     "Size?": {
       "fetched_pages": 0,
@@ -101,9 +99,7 @@
     },
     "Boohoo": {
       "fetched_pages": 5,
-      "errors": [
-        "https://fr.boohoo.com/categories/noël-pour-femmes: UnicodeEncodeError"
-      ]
+      "errors": []
     },
     "SNIPES": {
       "fetched_pages": 0,
@@ -139,7 +135,7 @@
     "Zalando": {
       "fetched_pages": 0,
       "errors": [
-        "https://www.zalando.fr/catalogue/: TimeoutError",
+        "https://www.zalando.fr/catalogue/: HTTPError",
         "https://www.zalando.fr/homme/: HTTPError"
       ]
     },
