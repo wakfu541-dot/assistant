@@ -1,7 +1,7 @@
 {
   "source": "catalogue public multi-marchands 0 €",
-  "updated_at": "2026-11-22T01:30:03.923883+00:00",
-  "count": 1220,
+  "updated_at": "2026-11-22T13:16:57.719620+00:00",
+  "count": 1219,
   "providers_tried": [
     "ASOS",
     "Nike",
@@ -28,14 +28,16 @@
     "Courir",
     "Gap",
     "Nike",
-    "Promod"
+    "Promod",
+    "SNIPES"
   ],
   "provider_counts": {
     "ASOS": 1200,
-    "Courir": 3,
+    "Courir": 1,
     "Gap": 3,
     "Nike": 2,
-    "Promod": 12
+    "Promod": 12,
+    "SNIPES": 1
   },
   "last_run_counts": {
     "Nike": 2,
@@ -48,9 +50,9 @@
     "Size?": 0,
     "boohooMAN": 0,
     "Boohoo": 0,
-    "SNIPES": 0,
+    "SNIPES": 1,
     "Celio": 0,
-    "Courir": 3,
+    "Courir": 1,
     "Decathlon": 0,
     "La Redoute": 0,
     "Zalando": 0,
@@ -102,10 +104,10 @@
       "errors": []
     },
     "SNIPES": {
-      "fetched_pages": 0,
+      "fetched_pages": 5,
       "errors": [
-        "https://www.snipes.com/fr-fr/c/vetements-81: TimeoutError",
-        "https://www.snipes.com/fr-fr/c/chaussures-70: HTTPError"
+        "https://www.snipes.com/fr-fr/c/chaussures-70: TimeoutError",
+        "https://www.snipes.com/fr-fr/p/urban-classics-fluffy-hoody-bleu-40679: TimeoutError"
       ]
     },
     "Celio": {
@@ -135,8 +137,8 @@
     "Zalando": {
       "fetched_pages": 0,
       "errors": [
-        "https://www.zalando.fr/catalogue/: HTTPError",
-        "https://www.zalando.fr/homme/: HTTPError"
+        "https://www.zalando.fr/catalogue/: TimeoutError",
+        "https://www.zalando.fr/homme/: TimeoutError"
       ]
     },
     "Foot Locker": {
