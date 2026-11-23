@@ -1,7 +1,7 @@
 {
   "source": "catalogue public multi-marchands 0 €",
-  "updated_at": "2026-11-22T13:16:57.719620+00:00",
-  "count": 1219,
+  "updated_at": "2026-11-23T01:36:13.985741+00:00",
+  "count": 1221,
   "providers_tried": [
     "ASOS",
     "Nike",
@@ -33,14 +33,14 @@
   ],
   "provider_counts": {
     "ASOS": 1200,
-    "Courir": 1,
+    "Courir": 2,
     "Gap": 3,
-    "Nike": 2,
+    "Nike": 3,
     "Promod": 12,
     "SNIPES": 1
   },
   "last_run_counts": {
-    "Nike": 2,
+    "Nike": 3,
     "Gap": 3,
     "Bonprix": 0,
     "C&A": 0,
@@ -52,7 +52,7 @@
     "Boohoo": 0,
     "SNIPES": 1,
     "Celio": 0,
-    "Courir": 1,
+    "Courir": 2,
     "Decathlon": 0,
     "La Redoute": 0,
     "Zalando": 0,
@@ -106,8 +106,7 @@
     "SNIPES": {
       "fetched_pages": 5,
       "errors": [
-        "https://www.snipes.com/fr-fr/c/chaussures-70: TimeoutError",
-        "https://www.snipes.com/fr-fr/p/urban-classics-fluffy-hoody-bleu-40679: TimeoutError"
+        "https://www.snipes.com/fr-fr/c/chaussures-70: HTTPError"
       ]
     },
     "Celio": {
