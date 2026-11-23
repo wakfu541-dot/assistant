@@ -1,7 +1,7 @@
 {
   "source": "catalogue public multi-marchands 0 €",
-  "updated_at": "2026-11-23T01:36:13.985741+00:00",
-  "count": 1221,
+  "updated_at": "2026-11-23T14:53:01.465470+00:00",
+  "count": 1219,
   "providers_tried": [
     "ASOS",
     "Nike",
@@ -35,12 +35,12 @@
     "ASOS": 1200,
     "Courir": 2,
     "Gap": 3,
-    "Nike": 3,
+    "Nike": 1,
     "Promod": 12,
     "SNIPES": 1
   },
   "last_run_counts": {
-    "Nike": 3,
+    "Nike": 1,
     "Gap": 3,
     "Bonprix": 0,
     "C&A": 0,
@@ -52,7 +52,7 @@
     "Boohoo": 0,
     "SNIPES": 1,
     "Celio": 0,
-    "Courir": 2,
+    "Courir": 0,
     "Decathlon": 0,
     "La Redoute": 0,
     "Zalando": 0,
@@ -106,7 +106,9 @@
     "SNIPES": {
       "fetched_pages": 5,
       "errors": [
-        "https://www.snipes.com/fr-fr/c/chaussures-70: HTTPError"
+        "https://www.snipes.com/fr-fr/c/chaussures-70: TimeoutError",
+        "https://www.snipes.com/fr-fr/p/urban-classics-fluffy-trackpants-rouge-100717: TimeoutError",
+        "https://www.snipes.com/fr-fr/p/urban-classics-fluffy-zip-hoody-pourpre-100708: TimeoutError"
       ]
     },
     "Celio": {
@@ -116,8 +118,11 @@
       ]
     },
     "Courir": {
-      "fetched_pages": 5,
-      "errors": []
+      "fetched_pages": 0,
+      "errors": [
+        "https://www.courir.com/fr/c/homme/chaussures/sneakers/: HTTPError",
+        "https://www.courir.com/fr/c/femme/chaussures/sneakers/: HTTPError"
+      ]
     },
     "Decathlon": {
       "fetched_pages": 0,
@@ -137,7 +142,7 @@
       "fetched_pages": 0,
       "errors": [
         "https://www.zalando.fr/catalogue/: TimeoutError",
-        "https://www.zalando.fr/homme/: TimeoutError"
+        "https://www.zalando.fr/homme/: HTTPError"
       ]
     },
     "Foot Locker": {

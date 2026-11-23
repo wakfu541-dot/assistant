@@ -29598,58 +29598,32 @@
     "verified": "Donnée publique Courir"
   },
   {
-    "id": "gap-755671b85ebb62de",
-    "name": "Sweat-shirt VintageSoft Unisex",
-    "brand": "GAP",
-    "store": "Gap",
-    "type": "hoodie",
-    "gender": "homme",
-    "price": 35.99,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "vintage",
-      "casual"
-    ],
-    "colors": [
-      "gris"
-    ],
-    "fits": [
-      "wide",
-      "slim",
-      "relaxed"
-    ],
-    "sizes": [],
-    "image": "https://gap.cdn.csagdev.cz/zoh4eiLi/IMG/31536000/bxL70h-eoyTtvn1hOBEgX3nL0XIV-pwmi9oLTUsgY7A/fill/0/0/sm/1/aHR0cHM6Ly9nYXAuY2RuLWJlLmNzYWdkZXYuY3ovY2F0YWxvZy9pdGVtLXBpY3R1cmVzL2M1Y2JjNDFiLWQ2Y2ItNDk4MS1hMDdmLTVhZDk4MTI3ZDRhZjMzMjEzODE2ZDk1YTkyZDRhNzkzMjYyNjc1M2FlM2FjLTg4OTEyOC5qcGc=",
-    "url": "https://www.gap-france.fr/sweat-shirt-vintagesoft-unisex",
-    "verified": "Donnée publique Gap"
-  },
-  {
-    "id": "gap-c1cc14e0151f30a2",
-    "name": "Pull en coton homme",
+    "id": "gap-d5d9fb1146e60fc4",
+    "name": "Chemise en flanelle",
     "brand": "GAP",
     "store": "Gap",
     "type": "longsleeve",
     "gender": "homme",
-    "price": 29.99,
+    "price": 48.74,
     "quality": 7,
     "deliveryDays": 4,
     "styles": [
       "casual"
     ],
     "colors": [
-      "noir"
+      "rouge"
     ],
     "fits": [
+      "slim",
       "straight"
     ],
     "sizes": [],
-    "image": "https://gap.cdn.csagdev.cz/zoh4eiLi/IMG/31536000/Q7epIhmzKrcf27yeKVUSgq7yQMp8xxakuLX47WocvtM/fill/0/0/sm/1/aHR0cHM6Ly9nYXAuY2RuLWJlLmNzYWdkZXYuY3ovY2F0YWxvZy9pdGVtLXBpY3R1cmVzLzJkYWVkZTVkLWIzMmItNDU5Ny04MDNjLTBjNGVmM2JhZDNjYzU3YjQzYWNjMDZhMjI2YTI5MjA2YTY2NGI2ODg3OGNhLTM3MjYyOC5qcGc=",
-    "url": "https://www.gap-france.fr/pull-en-coton-homme",
+    "image": "https://gap.cdn.csagdev.cz/zoh4eiLi/IMG/31536000/p9dPXcsxYMkr9p31GZYs_ThSxeexL6cLo4-UEs09Pjw/fill/0/0/sm/1/aHR0cHM6Ly9nYXAuY2RuLWJlLmNzYWdkZXYuY3ovY2F0YWxvZy9pdGVtLXBpY3R1cmVzLzViOWRlMzg4LWIxNzctNGQ5NS04NzFkLTNkYWQxNmRkY2Y0OTBlOGMzMTcxZDg1M2QzNzY2MjY5OWIxM2Y2NzY2YzliLTgzODkwNS5qcGc=",
+    "url": "https://www.gap-france.fr/chemise-en-flanelle-11",
     "verified": "Donnée publique Gap"
   },
   {
-    "id": "gap-ede42c8318ae0803",
+    "id": "gap-abcab6be0a31580b",
     "name": "T-shirt",
     "brand": "GAP",
     "store": "Gap",
@@ -29663,87 +29637,64 @@
       "casual"
     ],
     "colors": [
-      "gris"
+      "bleu",
+      "bleu-marine"
     ],
     "fits": [
       "cropped"
     ],
     "sizes": [],
-    "image": "https://gap.cdn.csagdev.cz/zoh4eiLi/IMG/31536000/iixSDFzBwS5KQyvBURujc7ikrlD_pFodOk2A1aqms1w/fill/0/0/sm/1/aHR0cHM6Ly9nYXAuY2RuLWJlLmNzYWdkZXYuY3ovY2F0YWxvZy9pdGVtLXBpY3R1cmVzL2U0YTlkZDg4LWIwNjEtNDYwYS04NDhmLTAzZTE4MzQxMjM3YjkyMzIyN2ZkOTA4NDQ1Yjc5Zjc0ZWI0MDIyOGU4YzA1LTQwMDAxMi5qcGc=",
-    "url": "https://www.gap-france.fr/t-shirt-31",
+    "image": "https://gap.cdn.csagdev.cz/zoh4eiLi/IMG/31536000/YYEeubn1O1qB5cLB3viTZyIVpQdBrQavnFbE0V6tDKs/fill/0/0/sm/1/aHR0cHM6Ly9nYXAuY2RuLWJlLmNzYWdkZXYuY3ovY2F0YWxvZy9pdGVtLXBpY3R1cmVzL2E3ODllYjIwLTg1NDEtNGY3NS1hMWJkLTZiM2QwZDdiMDA1MDE4MzIwMDc1ZTk5NzZlNDQ1ODYzYjM4OTlmZTUwNzFlLTU4MzMxMi5qcGc=",
+    "url": "https://www.gap-france.fr/t-shirt-29",
     "verified": "Donnée publique Gap"
   },
   {
-    "id": "nike-e2d3ebfa98b9cf54",
-    "name": "Veste Windrunner à zip en Fleece avec motifs réfléchissants Nike Tech pour homme - Noir/Noir/Noir - Size 3XL",
-    "brand": "Nike",
-    "store": "Nike",
-    "type": "jacket",
+    "id": "gap-4074c7129e15892d",
+    "name": "T-shirt",
+    "brand": "GAP",
+    "store": "Gap",
+    "type": "tshirt",
     "gender": "homme",
-    "price": 129.99,
+    "price": 14.99,
     "quality": 7,
     "deliveryDays": 4,
     "styles": [
+      "minimal",
       "casual"
     ],
     "colors": [
       "noir"
     ],
     "fits": [
-      "regular"
+      "cropped"
     ],
     "sizes": [],
-    "image": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/5933a8f9-b475-4b53-aad4-fd4051df02c8/M+NK+TECH+FLC+WR+FZ+JKT+RFLCTV.png",
-    "url": "https://www.nike.com/fr/t/veste-windrunner-a-zip-en-fleece-avec-motifs-reflechissants-nike-tech-pour-homme-o75J4ImH/IZ8071-010",
-    "verified": "Donnée publique Nike"
+    "image": "https://gap.cdn.csagdev.cz/zoh4eiLi/IMG/31536000/L_Of7DxDCPdh34K5nxdXmJyVIp_r4ktqk-3V0f2uCe8/fill/0/0/sm/1/aHR0cHM6Ly9nYXAuY2RuLWJlLmNzYWdkZXYuY3ovY2F0YWxvZy9pdGVtLXBpY3R1cmVzL2YwNDZkNWY0LWNjMzEtNGQxYy05NTdhLTUzNGNmMDljNWRhZTQ4NWFhZDZlNWM0MDE1OTFkYzI5ODdiMmUzZjgxZGUxLTIzMDAzLmpwZw==",
+    "url": "https://www.gap-france.fr/t-shirt-30",
+    "verified": "Donnée publique Gap"
   },
   {
-    "id": "nike-474c82cc35546904",
-    "name": "Veste à zip en Fleece Windrunner Nike Tech pour homme - Noir/Noir - Size 4XL",
+    "id": "nike-76db344bbf61e782",
+    "name": "Maillot de foot à manches longues Nike Dri-FIT Paris Saint-Germain Energy Extérieur pour homme - Sail/University Red/Old Royal/University Red - Size 3XL",
     "brand": "Nike",
     "store": "Nike",
-    "type": "jacket",
+    "type": "longsleeve",
     "gender": "homme",
-    "price": 119.99,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "casual"
-    ],
-    "colors": [
-      "noir"
-    ],
-    "fits": [
-      "relaxed"
-    ],
-    "sizes": [],
-    "image": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/58bf6658-12e4-4407-8427-b6f9f5c5e20f/M+NK+TCH+FLC+FZ+WR+HOODIE.png",
-    "url": "https://www.nike.com/fr/t/veste-a-zip-en-fleece-windrunner-nike-tech-pour-homme-dSR1Tg/HV0949-010",
-    "verified": "Donnée publique Nike"
-  },
-  {
-    "id": "nike-2fecdbaed5dbe7c4",
-    "name": "Pantalon de foot Nike Academy Dri-FIT pour homme - Noir/Noir/Blanc - Size 3XL",
-    "brand": "Nike",
-    "store": "Nike",
-    "type": "pants",
-    "gender": "homme",
-    "price": 22.49,
+    "price": 55.99,
     "quality": 7,
     "deliveryDays": 4,
     "styles": [
       "sport"
     ],
     "colors": [
-      "noir",
-      "blanc"
+      "rouge"
     ],
     "fits": [
       "regular"
     ],
     "sizes": [],
-    "image": "https://static.nike.com/a/images/t_default/dc6ecd13-ec27-4120-b06b-23d44d581b5d/M+NK+DF+ACD25+TRK+PANT+WP+BR.png",
-    "url": "https://www.nike.com/fr/t/pantalon-de-foot-nike-academy-dri-fit-pour-homme-LPHaSoN3/HJ3780-010",
+    "image": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/188fcc32-d90f-4274-a183-5b1f39f636be/PSG+M+NK+DF+ENERGY+TOP+LS+AW.png",
+    "url": "https://www.nike.com/fr/t/maillot-de-foot-a-manches-longues-nike-dri-fit-paris-saint-germain-energy-exterieur-pour-homme-f0lSQ4fY/IQ0242-133",
     "verified": "Donnée publique Nike"
   },
   {
@@ -29867,6 +29818,30 @@
     "verified": "Donnée publique Promod"
   },
   {
+    "id": "promod-b84b8edb14de4425",
+    "name": "Pull fluffy recto-verso Femme",
+    "brand": "Promod",
+    "store": "Promod",
+    "type": "pull",
+    "gender": "femme",
+    "price": 29.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual"
+    ],
+    "colors": [
+      "noir"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://asset.promod.com/product/254596-gz-1792589481.jpg",
+    "url": "https://www.promod.fr/fr-fr/pull-fluffy-recto-verso-femme-noir--p254596/",
+    "verified": "Donnée publique Promod"
+  },
+  {
     "id": "promod-d4cc7f3d2a4addc5",
     "name": "Pull à boutons bijoux Femme",
     "brand": "Promod",
@@ -29888,30 +29863,6 @@
     "sizes": [],
     "image": "https://asset.promod.com/product/254602-gz-1792597927.jpg",
     "url": "https://www.promod.fr/fr-fr/pull-a-boutons-bijoux-femme-noir--p254602/",
-    "verified": "Donnée publique Promod"
-  },
-  {
-    "id": "promod-0c51f6d122093272",
-    "name": "Pull à message glow paillettes",
-    "brand": "Promod",
-    "store": "Promod",
-    "type": "pull",
-    "gender": "femme",
-    "price": 45.99,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "casual"
-    ],
-    "colors": [
-      "bleu-marine"
-    ],
-    "fits": [
-      "regular"
-    ],
-    "sizes": [],
-    "image": "https://asset.promod.com/product/254604-gz-1793789641.jpg",
-    "url": "https://www.promod.fr/fr-fr/pull-a-message-glow-paillettes-marine--p254604/",
     "verified": "Donnée publique Promod"
   },
   {
@@ -30035,27 +29986,27 @@
     "verified": "Donnée publique Promod"
   },
   {
-    "id": "snipes-de21fa39b3c959dd",
-    "name": "Knit Essential Crew",
-    "brand": "adidas Originals",
+    "id": "snipes-71584a23d63d3602",
+    "name": "Pregame Fleece Full-Zip Hoodie",
+    "brand": "Nike",
     "store": "SNIPES",
-    "type": "pull",
+    "type": "hoodie",
     "gender": "unisex",
-    "price": 84.99,
+    "price": 99.99,
     "quality": 7,
     "deliveryDays": 4,
     "styles": [
       "casual"
     ],
     "colors": [
-      "multicolore"
+      "noir"
     ],
     "fits": [
       "regular"
     ],
     "sizes": [],
-    "image": "https://asset.snipes.com/images/f_auto,q_100/02770411_1/adidas-Originals-Knit-Essential-Crew-multicolore",
-    "url": "https://www.snipes.com/fr-fr/p/adidas-originals-knit-essential-crew-multicolore-106108",
+    "image": "https://asset.snipes.com/images/f_auto,q_100/02757113_1/Nike-Pregame-Fleece-Full-Zip-Hoodie-noir",
+    "url": "https://www.snipes.com/fr-fr/p/nike-pregame-fleece-full-zip-hoodie-noir-105405",
     "verified": "Donnée publique SNIPES"
   }
 ]
