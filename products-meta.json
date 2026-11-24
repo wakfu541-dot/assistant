@@ -1,6 +1,6 @@
 {
   "source": "catalogue public multi-marchands 0 €",
-  "updated_at": "2026-11-24T01:34:49.462779+00:00",
+  "updated_at": "2026-11-24T14:50:37.879151+00:00",
   "count": 1221,
   "providers_tried": [
     "ASOS",
@@ -50,7 +50,7 @@
     "Size?": 0,
     "boohooMAN": 0,
     "Boohoo": 0,
-    "SNIPES": 2,
+    "SNIPES": 0,
     "Celio": 0,
     "Courir": 1,
     "Decathlon": 0,
@@ -97,7 +97,9 @@
     },
     "boohooMAN": {
       "fetched_pages": 5,
-      "errors": []
+      "errors": [
+        "https://www.boohooman.com/fr/categories/hommes-collections-vetements-sport-survêtements: UnicodeEncodeError"
+      ]
     },
     "Boohoo": {
       "fetched_pages": 5,
@@ -106,7 +108,8 @@
     "SNIPES": {
       "fetched_pages": 5,
       "errors": [
-        "https://www.snipes.com/fr-fr/c/chaussures-70: TimeoutError"
+        "https://www.snipes.com/fr-fr/c/chaussures-70: HTTPError",
+        "https://www.snipes.com/fr-fr/p/snipes-3-pack-small-logo-essential-crew-socks-multicolore-2445: TimeoutError"
       ]
     },
     "Celio": {
@@ -136,8 +139,8 @@
     "Zalando": {
       "fetched_pages": 0,
       "errors": [
-        "https://www.zalando.fr/catalogue/: TimeoutError",
-        "https://www.zalando.fr/homme/: TimeoutError"
+        "https://www.zalando.fr/catalogue/: HTTPError",
+        "https://www.zalando.fr/homme/: HTTPError"
       ]
     },
     "Foot Locker": {
