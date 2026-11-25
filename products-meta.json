@@ -1,7 +1,7 @@
 {
   "source": "catalogue public multi-marchands 0 €",
-  "updated_at": "2026-11-24T14:50:37.879151+00:00",
-  "count": 1221,
+  "updated_at": "2026-11-25T01:40:10.880865+00:00",
+  "count": 1208,
   "providers_tried": [
     "ASOS",
     "Nike",
@@ -27,32 +27,28 @@
     "ASOS",
     "Courir",
     "Gap",
-    "Nike",
-    "Promod",
-    "SNIPES"
+    "Nike"
   ],
   "provider_counts": {
     "ASOS": 1200,
-    "Courir": 1,
+    "Courir": 3,
     "Gap": 3,
-    "Nike": 3,
-    "Promod": 12,
-    "SNIPES": 2
+    "Nike": 2
   },
   "last_run_counts": {
-    "Nike": 3,
+    "Nike": 2,
     "Gap": 3,
     "Bonprix": 0,
     "C&A": 0,
     "Jules": 0,
-    "Promod": 12,
+    "Promod": 0,
     "BSTN": 0,
     "Size?": 0,
     "boohooMAN": 0,
     "Boohoo": 0,
     "SNIPES": 0,
     "Celio": 0,
-    "Courir": 1,
+    "Courir": 3,
     "Decathlon": 0,
     "La Redoute": 0,
     "Zalando": 0,
@@ -81,8 +77,10 @@
       "errors": []
     },
     "Promod": {
-      "fetched_pages": 1,
-      "errors": []
+      "fetched_pages": 0,
+      "errors": [
+        "https://www.promod.fr/fr-fr/vetements-femme--lpblt372d979321a5f6bc/: HTTPError"
+      ]
     },
     "BSTN": {
       "fetched_pages": 5,
@@ -97,19 +95,17 @@
     },
     "boohooMAN": {
       "fetched_pages": 5,
-      "errors": [
-        "https://www.boohooman.com/fr/categories/hommes-collections-vetements-sport-survêtements: UnicodeEncodeError"
-      ]
+      "errors": []
     },
     "Boohoo": {
       "fetched_pages": 5,
       "errors": []
     },
     "SNIPES": {
-      "fetched_pages": 5,
+      "fetched_pages": 0,
       "errors": [
-        "https://www.snipes.com/fr-fr/c/chaussures-70: HTTPError",
-        "https://www.snipes.com/fr-fr/p/snipes-3-pack-small-logo-essential-crew-socks-multicolore-2445: TimeoutError"
+        "https://www.snipes.com/fr-fr/c/vetements-81: TimeoutError",
+        "https://www.snipes.com/fr-fr/c/chaussures-70: HTTPError"
       ]
     },
     "Celio": {
@@ -139,8 +135,8 @@
     "Zalando": {
       "fetched_pages": 0,
       "errors": [
-        "https://www.zalando.fr/catalogue/: HTTPError",
-        "https://www.zalando.fr/homme/: HTTPError"
+        "https://www.zalando.fr/catalogue/: TimeoutError",
+        "https://www.zalando.fr/homme/: TimeoutError"
       ]
     },
     "Foot Locker": {
