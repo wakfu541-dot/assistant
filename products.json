@@ -29537,18 +29537,17 @@
     "verified": "Donnée publique ASOS"
   },
   {
-    "id": "courir-0833e1cd6953190b",
-    "name": "AIR FORCE 1 LOW MINI SWOOSH",
+    "id": "courir-f3d2a7bb4d8886b0",
+    "name": "DUNK LOW GORE-TEX",
     "brand": "NIKE",
     "store": "Courir",
     "type": "sneakers",
     "gender": "homme",
-    "price": 120.0,
+    "price": 105.0,
     "quality": 7,
     "deliveryDays": 4,
     "styles": [
-      "streetwear",
-      "vintage"
+      "streetwear"
     ],
     "colors": [
       "noir"
@@ -29557,34 +29556,58 @@
       "regular"
     ],
     "sizes": [],
-    "image": "https://www.courir.com/on/demandware.static/-/Sites-master-catalog-courir/default/dwc6fea686/images/hi-res/001609364_101.jpg?sw=1000&sh=1000&sm=fit",
-    "url": "https://www.courir.com/fr/p/nike-air-force-1-low-mini-swoosh-1609364.html",
+    "image": "https://www.courir.com/on/demandware.static/-/Sites-master-catalog-courir/default/dwc12802e5/images/hi-res/001604763_101.jpg?sw=1000&sh=1000&sm=fit",
+    "url": "https://www.courir.com/fr/p/nike-dunk-low-gore-tex-1604763.html",
     "verified": "Donnée publique Courir"
   },
   {
-    "id": "courir-793ca6764053f508",
-    "name": "DUNK LOW SUEDE MINI SWOOSH",
-    "brand": "NIKE",
+    "id": "courir-2bde786552a21828",
+    "name": "GEL-NYC",
+    "brand": "ASICS",
     "store": "Courir",
     "type": "sneakers",
     "gender": "homme",
-    "price": 95.0,
+    "price": 120.0,
     "quality": 7,
     "deliveryDays": 4,
     "styles": [
-      "streetwear"
+      "streetwear",
+      "sport"
     ],
     "colors": [
-      "blanc",
-      "gris",
       "beige"
     ],
     "fits": [
       "regular"
     ],
     "sizes": [],
-    "image": "https://www.courir.com/on/demandware.static/-/Sites-master-catalog-courir/default/dw977321a5/images/hi-res/001604768_101.jpg?sw=1000&sh=1000&sm=fit",
-    "url": "https://www.courir.com/fr/p/nike-dunk-low-suede-mini-swoosh-1604768.html",
+    "image": "https://www.courir.com/on/demandware.static/-/Sites-master-catalog-courir/default/dw7d71922f/images/hi-res/001506184_101.jpg?sw=1000&sh=1000&sm=fit",
+    "url": "https://www.courir.com/fr/p/asics-gel-nyc-1506184.html",
+    "verified": "Donnée publique Courir"
+  },
+  {
+    "id": "courir-a7d0a98dfaab773b",
+    "name": "SHOX TL",
+    "brand": "NIKE",
+    "store": "Courir",
+    "type": "sneakers",
+    "gender": "homme",
+    "price": 170.0,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "streetwear"
+    ],
+    "colors": [
+      "noir",
+      "rouge"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://www.courir.com/on/demandware.static/-/Sites-master-catalog-courir/default/dw68f29b61/images/hi-res/001602247_101.jpg?sw=1000&sh=1000&sm=fit",
+    "url": "https://www.courir.com/fr/p/nike-shox-tl-1602247.html",
     "verified": "Donnée publique Courir"
   },
   {
@@ -29612,7 +29635,31 @@
     "verified": "Donnée publique Gap"
   },
   {
-    "id": "gap-c1cc14e0151f30a2",
+    "id": "gap-90cddc971a23f0b9",
+    "name": "Sweat sherpa avec logo",
+    "brand": "GAP",
+    "store": "Gap",
+    "type": "hoodie",
+    "gender": "homme",
+    "price": 41.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual"
+    ],
+    "colors": [
+      "beige"
+    ],
+    "fits": [
+      "straight"
+    ],
+    "sizes": [],
+    "image": "https://gap.cdn.csagdev.cz/zoh4eiLi/IMG/31536000/nJMAsvT5DtYICETm-wtB6rRPgEb7-Ze7kG-zSqqlzjk/fill/0/0/sm/1/aHR0cHM6Ly9nYXAuY2RuLWJlLmNzYWdkZXYuY3ovY2F0YWxvZy9pdGVtLXBpY3R1cmVzLzNlOWZmOTk0LTkwYjUtNGVhMy04Y2M2LTc2NDExNzQzOWU1OWExMmZjMGIyOWIxMzE2NDlmYWIxNDQ1NDQ0N2I2YTkyLTM3NzMzNi5qcGc=",
+    "url": "https://www.gap-france.fr/sweat-sherpa-avec-logo-30",
+    "verified": "Donnée publique Gap"
+  },
+  {
+    "id": "gap-f052e6c7cd1739b8",
     "name": "Pull en coton homme",
     "brand": "GAP",
     "store": "Gap",
@@ -29625,42 +29672,15 @@
       "casual"
     ],
     "colors": [
-      "noir"
+      "bleu",
+      "bleu-marine"
     ],
     "fits": [
       "straight"
     ],
     "sizes": [],
-    "image": "https://gap.cdn.csagdev.cz/zoh4eiLi/IMG/31536000/Q7epIhmzKrcf27yeKVUSgq7yQMp8xxakuLX47WocvtM/fill/0/0/sm/1/aHR0cHM6Ly9nYXAuY2RuLWJlLmNzYWdkZXYuY3ovY2F0YWxvZy9pdGVtLXBpY3R1cmVzLzJkYWVkZTVkLWIzMmItNDU5Ny04MDNjLTBjNGVmM2JhZDNjYzU3YjQzYWNjMDZhMjI2YTI5MjA2YTY2NGI2ODg3OGNhLTM3MjYyOC5qcGc=",
-    "url": "https://www.gap-france.fr/pull-en-coton-homme",
-    "verified": "Donnée publique Gap"
-  },
-  {
-    "id": "gap-902f168280207a21",
-    "name": "Pantalon Utility Baggy",
-    "brand": "GAP",
-    "store": "Gap",
-    "type": "pants",
-    "gender": "homme",
-    "price": 55.99,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "streetwear",
-      "workwear",
-      "casual"
-    ],
-    "colors": [
-      "gris"
-    ],
-    "fits": [
-      "baggy",
-      "relaxed",
-      "regular"
-    ],
-    "sizes": [],
-    "image": "https://gap.cdn.csagdev.cz/zoh4eiLi/IMG/31536000/4jTDreHqUktcMIuF1C2cjIaxAAVeHEjT5MlG0eG3S4U/fill/0/0/sm/1/aHR0cHM6Ly9nYXAuY2RuLWJlLmNzYWdkZXYuY3ovY2F0YWxvZy9pdGVtLXBpY3R1cmVzL2UxNDgwNGNlLTJjZTYtNDNjNy04MjQ2LTg4OTM5YTA3MGM3NjYwYzU5NTQ5OGQ4YTJlNmM1YzUwYzI5OWYxNzU5ZmU3LTkzMDQzMC5qcGc=",
-    "url": "https://www.gap-france.fr/pantalon-utility-baggy",
+    "image": "https://gap.cdn.csagdev.cz/zoh4eiLi/IMG/31536000/zvViPNbZgwBVl7fRS-sntmnxDUKyaSapqNyYsO35hNs/fill/0/0/sm/1/aHR0cHM6Ly9nYXAuY2RuLWJlLmNzYWdkZXYuY3ovY2F0YWxvZy9pdGVtLXBpY3R1cmVzLzE0OGMzZTliLWE2ZmQtNDU4NC05YTA4LWNmYmQ1ZjMzNjdlZDRiZGMzNWM0MjliM2Y3ZDExZjQ1YzdmODc3MjJlMzUzLTMxNDE3LmpwZw==",
+    "url": "https://www.gap-france.fr/pull-en-coton-homme-2",
     "verified": "Donnée publique Gap"
   },
   {
@@ -29689,13 +29709,13 @@
     "verified": "Donnée publique Nike"
   },
   {
-    "id": "nike-2fecdbaed5dbe7c4",
-    "name": "Pantalon de foot Nike Academy Dri-FIT pour homme - Noir/Noir/Blanc - Size 3XL",
+    "id": "nike-db710cc4949fee86",
+    "name": "Veste de foot nationale Nike Dri-FIT FFF pour homme - Blackened Blue/Game Royal/Metallic Copper - Size 3XL",
     "brand": "Nike",
     "store": "Nike",
-    "type": "pants",
+    "type": "jacket",
     "gender": "homme",
-    "price": 22.49,
+    "price": 83.99,
     "quality": 7,
     "deliveryDays": 4,
     "styles": [
@@ -29703,14 +29723,14 @@
     ],
     "colors": [
       "noir",
-      "blanc"
+      "bleu"
     ],
     "fits": [
       "regular"
     ],
     "sizes": [],
-    "image": "https://static.nike.com/a/images/t_default/dc6ecd13-ec27-4120-b06b-23d44d581b5d/M+NK+DF+ACD25+TRK+PANT+WP+BR.png",
-    "url": "https://www.nike.com/fr/t/pantalon-de-foot-nike-academy-dri-fit-pour-homme-LPHaSoN3/HJ3780-010",
+    "image": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/02f11c46-0ef4-46e1-bf19-3fd46edaeadb/FFF+M+NK+DF+KMC+NTL+ANT+JKT.png",
+    "url": "https://www.nike.com/fr/t/veste-de-foot-nationale-nike-dri-fit-fff-pour-homme-3F5TQk06/IH1763-498",
     "verified": "Donnée publique Nike"
   },
   {

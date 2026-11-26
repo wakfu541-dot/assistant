@@ -1,7 +1,7 @@
 {
   "source": "catalogue public multi-marchands 0 €",
-  "updated_at": "2026-11-26T01:40:46.761142+00:00",
-  "count": 1220,
+  "updated_at": "2026-11-26T15:34:22.276670+00:00",
+  "count": 1221,
   "providers_tried": [
     "ASOS",
     "Nike",
@@ -33,7 +33,7 @@
   ],
   "provider_counts": {
     "ASOS": 1200,
-    "Courir": 2,
+    "Courir": 3,
     "Gap": 3,
     "Nike": 2,
     "Promod": 12,
@@ -50,9 +50,9 @@
     "Size?": 0,
     "boohooMAN": 0,
     "Boohoo": 0,
-    "SNIPES": 1,
+    "SNIPES": 0,
     "Celio": 0,
-    "Courir": 2,
+    "Courir": 3,
     "Decathlon": 0,
     "La Redoute": 0,
     "Zalando": 0,
@@ -97,22 +97,19 @@
     },
     "boohooMAN": {
       "fetched_pages": 5,
-      "errors": [
-        "https://www.boohooman.com/fr/categories/collections-homme-vêtements-de-sport-vêtements-de-gym-sweats-à-capuche-et-pulls: UnicodeEncodeError"
-      ]
+      "errors": []
     },
     "Boohoo": {
       "fetched_pages": 5,
       "errors": [
-        "https://fr.boohoo.com/categories/vetements-homme-grande-taille-survêtements: UnicodeEncodeError"
+        "https://fr.boohoo.com/categories/femmes-nouveautes-petite-taille: HTTPError"
       ]
     },
     "SNIPES": {
-      "fetched_pages": 5,
+      "fetched_pages": 0,
       "errors": [
-        "https://www.snipes.com/fr-fr/c/chaussures-70: HTTPError",
-        "https://www.snipes.com/fr-fr/p/urban-classics-fluffy-trackpants-gris-100712: TimeoutError",
-        "https://www.snipes.com/fr-fr/p/snipes-3-pack-no-show-blanc-1712: TimeoutError"
+        "https://www.snipes.com/fr-fr/c/vetements-81: TimeoutError",
+        "https://www.snipes.com/fr-fr/c/chaussures-70: HTTPError"
       ]
     },
     "Celio": {
@@ -142,8 +139,8 @@
     "Zalando": {
       "fetched_pages": 0,
       "errors": [
-        "https://www.zalando.fr/catalogue/: TimeoutError",
-        "https://www.zalando.fr/homme/: TimeoutError"
+        "https://www.zalando.fr/catalogue/: HTTPError",
+        "https://www.zalando.fr/homme/: HTTPError"
       ]
     },
     "Foot Locker": {
