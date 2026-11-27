@@ -1,7 +1,7 @@
 {
   "source": "catalogue public multi-marchands 0 €",
-  "updated_at": "2026-11-26T15:34:22.276670+00:00",
-  "count": 1221,
+  "updated_at": "2026-11-27T01:42:01.180657+00:00",
+  "count": 1219,
   "providers_tried": [
     "ASOS",
     "Nike",
@@ -28,16 +28,14 @@
     "Courir",
     "Gap",
     "Nike",
-    "Promod",
-    "SNIPES"
+    "Promod"
   ],
   "provider_counts": {
     "ASOS": 1200,
-    "Courir": 3,
+    "Courir": 2,
     "Gap": 3,
     "Nike": 2,
-    "Promod": 12,
-    "SNIPES": 1
+    "Promod": 12
   },
   "last_run_counts": {
     "Nike": 2,
@@ -52,7 +50,7 @@
     "Boohoo": 0,
     "SNIPES": 0,
     "Celio": 0,
-    "Courir": 3,
+    "Courir": 2,
     "Decathlon": 0,
     "La Redoute": 0,
     "Zalando": 0,
@@ -102,13 +100,12 @@
     "Boohoo": {
       "fetched_pages": 5,
       "errors": [
-        "https://fr.boohoo.com/categories/femmes-nouveautes-petite-taille: HTTPError"
+        "https://fr.boohoo.com/categories/black-friday-10-20: HTTPError"
       ]
     },
     "SNIPES": {
-      "fetched_pages": 0,
+      "fetched_pages": 5,
       "errors": [
-        "https://www.snipes.com/fr-fr/c/vetements-81: TimeoutError",
         "https://www.snipes.com/fr-fr/c/chaussures-70: HTTPError"
       ]
     },
