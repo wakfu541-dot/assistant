@@ -1,7 +1,7 @@
 {
   "source": "catalogue public multi-marchands 0 €",
-  "updated_at": "2026-11-27T01:42:01.180657+00:00",
-  "count": 1219,
+  "updated_at": "2026-11-27T13:38:12.009071+00:00",
+  "count": 1221,
   "providers_tried": [
     "ASOS",
     "Nike",
@@ -28,17 +28,19 @@
     "Courir",
     "Gap",
     "Nike",
-    "Promod"
+    "Promod",
+    "SNIPES"
   ],
   "provider_counts": {
     "ASOS": 1200,
     "Courir": 2,
     "Gap": 3,
-    "Nike": 2,
-    "Promod": 12
+    "Nike": 3,
+    "Promod": 12,
+    "SNIPES": 1
   },
   "last_run_counts": {
-    "Nike": 2,
+    "Nike": 3,
     "Gap": 3,
     "Bonprix": 0,
     "C&A": 0,
@@ -48,7 +50,7 @@
     "Size?": 0,
     "boohooMAN": 0,
     "Boohoo": 0,
-    "SNIPES": 0,
+    "SNIPES": 1,
     "Celio": 0,
     "Courir": 2,
     "Decathlon": 0,
@@ -95,18 +97,19 @@
     },
     "boohooMAN": {
       "fetched_pages": 5,
-      "errors": []
+      "errors": [
+        "https://www.boohooman.com/fr/categories/vetements-homme-grande-taille-survêtements: UnicodeEncodeError"
+      ]
     },
     "Boohoo": {
       "fetched_pages": 5,
-      "errors": [
-        "https://fr.boohoo.com/categories/black-friday-10-20: HTTPError"
-      ]
+      "errors": []
     },
     "SNIPES": {
       "fetched_pages": 5,
       "errors": [
-        "https://www.snipes.com/fr-fr/c/chaussures-70: HTTPError"
+        "https://www.snipes.com/fr-fr/c/chaussures-70: HTTPError",
+        "https://www.snipes.com/fr-fr/p/urban-classics-fluffy-trackpants-rouge-100717: TimeoutError"
       ]
     },
     "Celio": {
@@ -136,8 +139,8 @@
     "Zalando": {
       "fetched_pages": 0,
       "errors": [
-        "https://www.zalando.fr/catalogue/: HTTPError",
-        "https://www.zalando.fr/homme/: HTTPError"
+        "https://www.zalando.fr/catalogue/: TimeoutError",
+        "https://www.zalando.fr/homme/: TimeoutError"
       ]
     },
     "Foot Locker": {
