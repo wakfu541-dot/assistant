@@ -29527,68 +29527,66 @@
     "verified": "Donnée publique ASOS"
   },
   {
-    "id": "courir-793ca6764053f508",
-    "name": "DUNK LOW SUEDE MINI SWOOSH",
-    "brand": "NIKE",
+    "id": "courir-aed5d771a7f1b030",
+    "name": "GEL-NYC",
+    "brand": "ASICS",
     "store": "Courir",
-    "type": "sneakers",
+    "type": "pull",
     "gender": "homme",
-    "price": 95.0,
+    "price": 120.0,
     "quality": 7,
     "deliveryDays": 4,
     "styles": [
       "streetwear"
     ],
     "colors": [
-      "blanc",
-      "gris",
       "beige"
     ],
     "fits": [
       "regular"
     ],
     "sizes": [],
-    "image": "https://www.courir.com/on/demandware.static/-/Sites-master-catalog-courir/default/dw977321a5/images/hi-res/001604768_101.jpg?sw=1000&sh=1000&sm=fit",
-    "url": "https://www.courir.com/fr/p/nike-dunk-low-suede-mini-swoosh-1604768.html",
+    "image": "https://www.courir.com/on/demandware.static/-/Sites-master-catalog-courir/default/dwbe0d94a8/images/hi-res/001518844_101.jpg?sw=1000&sh=1000&sm=fit",
+    "url": "https://www.courir.com/fr/p/asics-gel-nyc-1518844.html",
     "verified": "Donnée publique Courir"
   },
   {
-    "id": "courir-57d59c6829b830c7",
-    "name": "XT-6",
-    "brand": "SALOMON",
+    "id": "courir-5a68ff178bb925c3",
+    "name": "DUNK LOW",
+    "brand": "NIKE",
     "store": "Courir",
     "type": "sneakers",
     "gender": "homme",
-    "price": 180.0,
+    "price": 90.0,
     "quality": 7,
     "deliveryDays": 4,
     "styles": [
       "streetwear"
     ],
     "colors": [
-      "noir",
       "blanc",
-      "multicolore"
+      "gris"
     ],
     "fits": [
       "regular"
     ],
     "sizes": [],
-    "image": "https://www.courir.com/on/demandware.static/-/Sites-master-catalog-courir/default/dwc060ebe6/images/hi-res/001609494_101.jpg?sw=1000&sh=1000&sm=fit",
-    "url": "https://www.courir.com/fr/p/salomon-xt-6-1609494.html",
+    "image": "https://www.courir.com/on/demandware.static/-/Sites-master-catalog-courir/default/dwd895ed7a/images/hi-res/001600832_101.jpg?sw=1000&sh=1000&sm=fit",
+    "url": "https://www.courir.com/fr/p/nike-dunk-low-1600832.html",
     "verified": "Donnée publique Courir"
   },
   {
-    "id": "gap-3037c5853a454f3a",
-    "name": "Sweat à capuche VintageSoft unisex avec logo",
+    "id": "gap-fbe2570837cdbeb1",
+    "name": "Sweat oversize VintageSoft unisex avec écharpe",
     "brand": "GAP",
     "store": "Gap",
     "type": "hoodie",
-    "gender": "femme",
-    "price": 41.99,
+    "gender": "homme",
+    "price": 89.59,
     "quality": 7,
     "deliveryDays": 4,
     "styles": [
+      "streetwear",
       "vintage",
       "casual"
     ],
@@ -29596,140 +29594,109 @@
       "noir"
     ],
     "fits": [
-      "slim",
-      "straight"
+      "oversize",
+      "slim"
     ],
     "sizes": [],
-    "image": "https://gap.cdn.csagdev.cz/zoh4eiLi/IMG/31536000/CDR7RFRaCFrx8O2J_OP_8Ae4k1acFqqeTvskJdSAzjk/fill/0/0/sm/1/aHR0cHM6Ly9nYXAuY2RuLWJlLmNzYWdkZXYuY3ovY2F0YWxvZy9pdGVtLXBpY3R1cmVzL2ExYWJiYTE5LTNmODQtNGEwZS1iZWY5LWM2MTJmZTNhMjAzM2Y2YjU3YWZlZWE5NjE1OWZhMjJmMWVlNWE5YzVmZTdmLTcxNDM1Ny5qcGc=",
-    "url": "https://www.gap-france.fr/sweat-a-capuche-vintagesoft-unisex-avec-logo-1",
+    "image": "https://gap.cdn.csagdev.cz/zoh4eiLi/IMG/31536000/qlJobT8WlklGIJkS_8uBm-GOk64_e1745qR_s12dsgY/fill/0/0/sm/1/aHR0cHM6Ly9nYXAuY2RuLWJlLmNzYWdkZXYuY3ovY2F0YWxvZy9pdGVtLXBpY3R1cmVzLzY4OGFiMmQzLTU2OGEtNDRkYy1iOGM2LTg4YTIxMGRlZjIwZWNmMWU0MDhhYzU5ZWYxNTkwZTQ5NzVkNTMwNGQ3NDc3LTU4MjI4Mi5qcGc=",
+    "url": "https://www.gap-france.fr/sweat-oversize-vintagesoft-unisex-avec-echarpe",
     "verified": "Donnée publique Gap"
   },
   {
-    "id": "gap-5ae3fd5a5100e473",
-    "name": "Sweat-shirt VintageSoft Unisex",
+    "id": "gap-558582a0b641cc84",
+    "name": "Jean relaxed",
     "brand": "GAP",
     "store": "Gap",
-    "type": "hoodie",
+    "type": "jean",
     "gender": "homme",
-    "price": 30.79,
+    "price": 48.99,
     "quality": 7,
     "deliveryDays": 4,
     "styles": [
-      "vintage",
       "casual"
     ],
     "colors": [
-      "bleu"
+      "bleu",
+      "bleu-marine"
     ],
     "fits": [
-      "wide",
-      "slim",
-      "relaxed"
+      "relaxed",
+      "regular"
     ],
     "sizes": [],
-    "image": "https://gap.cdn.csagdev.cz/zoh4eiLi/IMG/31536000/TfxDGt-vzKlGgjH-oXqeBJsLj9O6ydQa_2omf6rte0M/fill/0/0/sm/1/aHR0cHM6Ly9nYXAuY2RuLWJlLmNzYWdkZXYuY3ovY2F0YWxvZy9pdGVtLXBpY3R1cmVzLzY1YmYxNzNmLTlmY2QtNDBjMi04YWM1LTM2MDI3ZTRmNmRkZTRiNGY0NTE0OTlhM2E5YzVjMDY5N2UxN2VjYjJjMGY5LTI3NTE1My5qcGc=",
-    "url": "https://www.gap-france.fr/sweat-shirt-vintagesoft-unisex-3",
+    "image": "https://gap.cdn.csagdev.cz/zoh4eiLi/IMG/31536000/YnjV4Rrw7IpoE4LK7aZOrqrZnEALPE8jbWozVxbDdD8/fill/0/0/sm/1/aHR0cHM6Ly9nYXAuY2RuLWJlLmNzYWdkZXYuY3ovY2F0YWxvZy9pdGVtLXBpY3R1cmVzLzJmYTBkNmJlLTY5ODctNGI2NC1hNzI2LTM0ZTJjZTYwNDZmZGJiMjI2ZTQwMTZkY2E0MjYzNGY1YTdlMTVkOTE1NTBiLTI4MzY1MS5qcGc=",
+    "url": "https://www.gap-france.fr/jean-relaxed-5",
     "verified": "Donnée publique Gap"
   },
   {
-    "id": "gap-48d00dc6929439cf",
-    "name": "Pull côtelé CashSoft",
+    "id": "gap-2365de8e15f55f12",
+    "name": "Pull en coton homme",
     "brand": "GAP",
     "store": "Gap",
     "type": "longsleeve",
+    "gender": "homme",
+    "price": 27.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual"
+    ],
+    "colors": [
+      "beige"
+    ],
+    "fits": [
+      "straight"
+    ],
+    "sizes": [],
+    "image": "https://gap.cdn.csagdev.cz/zoh4eiLi/IMG/31536000/5KFCNL6AcDDFgh3kRInDPuVzAupeADPjqllOxsXOyHc/fill/0/0/sm/1/aHR0cHM6Ly9nYXAuY2RuLWJlLmNzYWdkZXYuY3ovY2F0YWxvZy9pdGVtLXBpY3R1cmVzLzJmNjA5NThlLTE2OGQtNDBjZi05NzlkLTliMDI1ZmEwNGE3ZjQxNjc2MDQ4OGI5MTY3YmQ5M2FjZTFjNTg0MjY3MTZmLTcxMTIzNy5qcGc=",
+    "url": "https://www.gap-france.fr/pull-en-coton-homme-1",
+    "verified": "Donnée publique Gap"
+  },
+  {
+    "id": "nike-727c42ffd810fd34",
+    "name": "Veste de foot nationale Nike Dri-FIT Brésil pour homme - Geode Teal/Light Menta/Midwest Gold - Size 3XL",
+    "brand": "Nike",
+    "store": "Nike",
+    "type": "jacket",
     "gender": "homme",
     "price": 83.99,
     "quality": 7,
     "deliveryDays": 4,
     "styles": [
-      "casual"
+      "sport"
     ],
-    "colors": [
-      "gris"
-    ],
+    "colors": [],
     "fits": [
-      "slim",
-      "straight"
-    ],
-    "sizes": [],
-    "image": "https://gap.cdn.csagdev.cz/zoh4eiLi/IMG/31536000/GLkAWWH9dMYobqwaqRN0rKbfn6NGn9hoqAvOKWIMJB4/fill/0/0/sm/1/aHR0cHM6Ly9nYXAuY2RuLWJlLmNzYWdkZXYuY3ovY2F0YWxvZy9pdGVtLXBpY3R1cmVzLzI2OTAzMWQ5LWMwYmUtNDM5NC05Y2EzLWRjNzVmZjFkMTlhM2I1ZmU3MDljNjIwMzYxNTk3NGU4ZTQwY2MxMDYyOTdlLTUzMzk2Mi5qcGc=",
-    "url": "https://www.gap-france.fr/pull-cotele-cashsoft-2",
-    "verified": "Donnée publique Gap"
-  },
-  {
-    "id": "nike-e8e367fad936e5e4",
-    "name": "Veste Anthem Jordan pour homme - Old Royal/Yellow Pulse/Blanc/Infrared 23 - Size 3XL",
-    "brand": "Nike",
-    "store": "Nike",
-    "type": "jacket",
-    "gender": "homme",
-    "price": 59.99,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "casual"
-    ],
-    "colors": [
-      "blanc",
-      "rouge",
-      "jaune"
-    ],
-    "fits": [
-      "straight",
       "regular"
     ],
     "sizes": [],
-    "image": "https://static.nike.com/a/images/t_default/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/620f57bc-b94f-405b-83b8-d8d1d932a2bf/M+J+ANTHEM+JKT+P6.png",
-    "url": "https://www.nike.com/fr/t/veste-anthem-jordan-pour-homme-Zodk0GzR/IF3896-417",
+    "image": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/dec277e9-16f0-4a49-8ea2-1b4f740e9857/CBF+M+NK+DF+KMC+NTL+ANT+JKT.png",
+    "url": "https://www.nike.com/fr/t/veste-de-foot-nationale-nike-dri-fit-bresil-pour-homme-PLHiptBr/IH1757-369",
     "verified": "Donnée publique Nike"
   },
   {
-    "id": "nike-a6312d6b98269f9e",
-    "name": "Veste de running imperméable Storm-FIT ADV Nike Stride pour homme - Noir - Size 3XL",
+    "id": "nike-94ae0eb4b8070ae0",
+    "name": "T-shirt Jordan Brooklyn pour homme - Noir - Size 3XL",
     "brand": "Nike",
     "store": "Nike",
-    "type": "jacket",
+    "type": "tshirt",
     "gender": "homme",
-    "price": 189.99,
+    "price": 35.99,
     "quality": 7,
     "deliveryDays": 4,
     "styles": [
-      "sport"
+      "minimal",
+      "casual"
     ],
     "colors": [
       "noir"
     ],
     "fits": [
-      "cropped"
+      "regular"
     ],
     "sizes": [],
-    "image": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/9b6941be-b1a2-4230-bb73-1a3e96831fa7/M+NK+SFADV+STRIDE+WTRPRF+JKT.png",
-    "url": "https://www.nike.com/fr/t/veste-de-running-impermeable-storm-fit-adv-nike-stride-pour-homme-iYIor5z7/IH0757-010",
-    "verified": "Donnée publique Nike"
-  },
-  {
-    "id": "nike-8066fc7abe6ed0d2",
-    "name": "Pantalon de running Dri-FIT ADV Nike AeroSwift pour homme - Noir/Summit White - Size 3XL",
-    "brand": "Nike",
-    "store": "Nike",
-    "type": "pants",
-    "gender": "homme",
-    "price": 95.99,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "sport"
-    ],
-    "colors": [
-      "noir",
-      "blanc"
-    ],
-    "fits": [
-      "slim"
-    ],
-    "sizes": [],
-    "image": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/fd1d4f8c-957d-45f4-af25-689dd32344bf/M+NK+DFADV+AROSWFT+PANT.png",
-    "url": "https://www.nike.com/fr/t/pantalon-de-running-dri-fit-adv-nike-aeroswift-pour-homme-dsqfwVUV/FN3361-010",
+    "image": "https://static.nike.com/a/images/t_default/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/cd86b50e-f6e5-4548-bdc5-20a9f68fc640/M+J+BRK+S+TOUR+85+SS+CREW.png",
+    "url": "https://www.nike.com/fr/t/t-shirt-jordan-brooklyn-pour-homme-0UtDvJ1z/IV5200-010",
     "verified": "Donnée publique Nike"
   },
   {
@@ -29781,30 +29748,6 @@
     "verified": "Donnée publique Promod"
   },
   {
-    "id": "promod-21e5bd70ba653634",
-    "name": "Robe longue asymétrique",
-    "brand": "Promod",
-    "store": "Promod",
-    "type": "dress",
-    "gender": "femme",
-    "price": 49.99,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "casual"
-    ],
-    "colors": [
-      "noir"
-    ],
-    "fits": [
-      "regular"
-    ],
-    "sizes": [],
-    "image": "https://asset.promod.com/product/255455-gz-1795604704.jpg",
-    "url": "https://www.promod.fr/fr-fr/robe-longue-asymetrique-noir--p255455/",
-    "verified": "Donnée publique Promod"
-  },
-  {
     "id": "promod-843d25e6b889b9c1",
     "name": "Robe satin + pull perlé 2 en 1",
     "brand": "Promod",
@@ -29826,6 +29769,30 @@
     "sizes": [],
     "image": "https://asset.promod.com/product/255430-gz-1794483066.jpg",
     "url": "https://www.promod.fr/fr-fr/robe-satin-pull-perle-2-en-1-noir--p255430/",
+    "verified": "Donnée publique Promod"
+  },
+  {
+    "id": "promod-eaca946fec767b56",
+    "name": "Blouson léopard laine mélangée",
+    "brand": "Promod",
+    "store": "Promod",
+    "type": "jacket",
+    "gender": "femme",
+    "price": 89.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "chic"
+    ],
+    "colors": [
+      "multicolore"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://asset.promod.com/product/253628-lb1-1795079728.jpg",
+    "url": "https://www.promod.fr/fr-fr/blouson-leopard-laine-melangee-imprime-multicolore--p253628/",
     "verified": "Donnée publique Promod"
   },
   {
@@ -29877,61 +29844,13 @@
     "verified": "Donnée publique Promod"
   },
   {
-    "id": "promod-5d6fea0ef8cccf37",
-    "name": "Chemise oversize Femme",
+    "id": "promod-08335018d6b0fb6b",
+    "name": "Pull rayé à sequins brodés",
     "brand": "Promod",
     "store": "Promod",
-    "type": "shirt",
-    "gender": "femme",
-    "price": 25.99,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "streetwear"
-    ],
-    "colors": [
-      "marron"
-    ],
-    "fits": [
-      "oversize"
-    ],
-    "sizes": [],
-    "image": "https://asset.promod.com/product/261147-gz-1795772184.jpg",
-    "url": "https://www.promod.fr/fr-fr/chemise-oversize-femme-raye-marron--p261147/",
-    "verified": "Donnée publique Promod"
-  },
-  {
-    "id": "promod-45ba77f23516ee6b",
-    "name": "Chemise à carreaux strassée",
-    "brand": "Promod",
-    "store": "Promod",
-    "type": "shirt",
+    "type": "pull",
     "gender": "femme",
     "price": 39.99,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "casual"
-    ],
-    "colors": [
-      "vert"
-    ],
-    "fits": [
-      "regular"
-    ],
-    "sizes": [],
-    "image": "https://asset.promod.com/product/254917-lb1-1795079742.jpg",
-    "url": "https://www.promod.fr/fr-fr/chemise-a-carreaux-strassee-carreaux-verts--p254917/",
-    "verified": "Donnée publique Promod"
-  },
-  {
-    "id": "promod-a049bb7ea862ee3f",
-    "name": "Sweat-shirt \"so unique\"",
-    "brand": "Promod",
-    "store": "Promod",
-    "type": "sweatshirt",
-    "gender": "femme",
-    "price": 36.99,
     "quality": 7,
     "deliveryDays": 4,
     "styles": [
@@ -29944,8 +29863,56 @@
       "regular"
     ],
     "sizes": [],
-    "image": "https://asset.promod.com/product/254754-gz-1795621922.jpg",
-    "url": "https://www.promod.fr/fr-fr/sweat-shirt-so-unique-imprime-gris--p254754/",
+    "image": "https://asset.promod.com/product/254601-gz-1792585612.jpg",
+    "url": "https://www.promod.fr/fr-fr/pull-raye-a-sequins-brodes-gris-fonce--p254601/",
+    "verified": "Donnée publique Promod"
+  },
+  {
+    "id": "promod-d4cc7f3d2a4addc5",
+    "name": "Pull à boutons bijoux Femme",
+    "brand": "Promod",
+    "store": "Promod",
+    "type": "pull",
+    "gender": "femme",
+    "price": 39.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual"
+    ],
+    "colors": [
+      "noir"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://asset.promod.com/product/254602-gz-1795441878.jpg",
+    "url": "https://www.promod.fr/fr-fr/pull-a-boutons-bijoux-femme-noir--p254602/",
+    "verified": "Donnée publique Promod"
+  },
+  {
+    "id": "promod-0c51f6d122093272",
+    "name": "Pull à message glow paillettes",
+    "brand": "Promod",
+    "store": "Promod",
+    "type": "pull",
+    "gender": "femme",
+    "price": 45.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual"
+    ],
+    "colors": [
+      "bleu-marine"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://asset.promod.com/product/254604-gz-1793789641.jpg",
+    "url": "https://www.promod.fr/fr-fr/pull-a-message-glow-paillettes-marine--p254604/",
     "verified": "Donnée publique Promod"
   },
   {
@@ -29997,37 +29964,13 @@
     "verified": "Donnée publique Promod"
   },
   {
-    "id": "promod-ec1282d5bd2bc6e1",
-    "name": "T-shirt court décolleté dos",
+    "id": "promod-1fdde2ac3708c420",
+    "name": "Pull-débardeur pailleté Femme",
     "brand": "Promod",
     "store": "Promod",
-    "type": "tshirt",
-    "gender": "femme",
-    "price": 19.99,
-    "quality": 7,
-    "deliveryDays": 4,
-    "styles": [
-      "casual"
-    ],
-    "colors": [
-      "noir"
-    ],
-    "fits": [
-      "cropped"
-    ],
-    "sizes": [],
-    "image": "https://asset.promod.com/product/257293-gz-1795617326.jpg",
-    "url": "https://www.promod.fr/fr-fr/t-shirt-court-decollete-dos-noir--p257293/",
-    "verified": "Donnée publique Promod"
-  },
-  {
-    "id": "snipes-e8dac168f3fb434d",
-    "name": "Firebird Classic Track Top",
-    "brand": "adidas Originals",
-    "store": "SNIPES",
     "type": "tank",
-    "gender": "unisex",
-    "price": 67.49,
+    "gender": "femme",
+    "price": 22.99,
     "quality": 7,
     "deliveryDays": 4,
     "styles": [
@@ -30040,8 +29983,58 @@
       "regular"
     ],
     "sizes": [],
-    "image": "https://asset.snipes.com/images/f_auto,q_100/02597125_1/adidas-Originals-Firebird-Classic-Track-Top-noir",
-    "url": "https://www.snipes.com/fr-fr/p/adidas-originals-firebird-classic-track-top-noir-99633",
+    "image": "https://asset.promod.com/product/254594-lb1-1795079733.jpg",
+    "url": "https://www.promod.fr/fr-fr/pull-debardeur-paillete-femme-noir--p254594/",
+    "verified": "Donnée publique Promod"
+  },
+  {
+    "id": "snipes-b8fcdce8978e7947",
+    "name": "Firebird Denim Track Top",
+    "brand": "adidas Originals",
+    "store": "SNIPES",
+    "type": "tank",
+    "gender": "unisex",
+    "price": 84.99,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual"
+    ],
+    "colors": [
+      "bleu"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://asset.snipes.com/images/f_auto,q_100/02595710_1/adidas-Originals-Firebird-Denim-Track-Top-bleu",
+    "url": "https://www.snipes.com/fr-fr/p/adidas-originals-firebird-denim-track-top-bleu-99395",
+    "verified": "Donnée publique SNIPES"
+  },
+  {
+    "id": "snipes-8b4e77f53ee153a9",
+    "name": "fitted crop top black white swirl",
+    "brand": "Off-White",
+    "store": "SNIPES",
+    "type": "tank",
+    "gender": "unisex",
+    "price": 67.49,
+    "quality": 7,
+    "deliveryDays": 4,
+    "styles": [
+      "casual"
+    ],
+    "colors": [
+      "noir",
+      "blanc",
+      "gris"
+    ],
+    "fits": [
+      "regular"
+    ],
+    "sizes": [],
+    "image": "https://asset.snipes.com/images/f_auto,q_100/02987677_1/Off-White-fitted-crop-top-black-white-swirl-gris",
+    "url": "https://www.snipes.com/fr-fr/p/off-white-fitted-crop-top-black-white-swirl-gris-110098",
     "verified": "Donnée publique SNIPES"
   }
 ]
